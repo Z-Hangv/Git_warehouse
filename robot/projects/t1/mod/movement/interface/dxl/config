@@ -1,0 +1,4 @@
+kind=dxl
+nt_com=com3
+linux_com=/dev/ttyUSB0
+baudrate=1000000

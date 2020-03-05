@@ -1,0 +1,201 @@
+sleep 100
+preset chaoren necknode set_speed 0
+preset chaoren necknode set_target_pos 1830
+preset chaoren neckroll set_speed 17
+preset chaoren neckroll set_target_pos 3862
+sleep 100
+sleep 100
+sleep 100
+sleep 100
+sleep 100
+preset chaoren neckroll set_speed 60
+preset chaoren neckroll set_target_pos 3826
+sleep 100
+preset chaoren necknode set_speed 368
+preset chaoren necknode set_target_pos 2125
+sleep 100
+sleep 100
+preset chaoren neckroll set_speed 63
+preset chaoren neckroll set_target_pos 3927
+sleep 100
+sleep 100
+preset chaoren necknode set_speed 27
+preset chaoren necknode set_target_pos 2114
+sleep 100
+sleep 100
+preset chaoren necknode set_speed 10
+preset chaoren necknode set_target_pos 2108
+sleep 100
+sleep 100
+sleep 100
+preset chaoren necknode set_speed 2
+preset chaoren necknode set_target_pos 2107
+sleep 100
+preset chaoren neckroll set_speed 524
+preset chaoren neckroll set_target_pos 3403
+sleep 100
+preset chaoren necknode set_speed 65
+preset chaoren necknode set_target_pos 2068
+sleep 100
+sleep 100
+sleep 100
+preset chaoren necknode set_speed 18
+preset chaoren necknode set_target_pos 2079
+sleep 100
+preset chaoren neckroll set_speed 29
+preset chaoren neckroll set_target_pos 3432
+sleep 100
+sleep 100
+preset chaoren necknode set_speed 2
+preset chaoren necknode set_target_pos 2081
+sleep 100
+sleep 100
+sleep 100
+preset chaoren neckroll set_speed 920
+preset chaoren neckroll set_target_pos 3984
+sleep 100
+preset chaoren necknode set_speed 85
+preset chaoren necknode set_target_pos 2115
+sleep 100
+sleep 100
+preset chaoren necknode set_speed 17
+preset chaoren necknode set_target_pos 2108
+preset chaoren neckroll set_speed 2636
+preset chaoren neckroll set_target_pos 293
+sleep 100
+sleep 100
+preset chaoren necknode set_speed 5
+preset chaoren necknode set_target_pos 2106
+sleep 100
+sleep 100
+preset chaoren necknode set_speed 5
+preset chaoren necknode set_target_pos 2098
+sleep 100
+sleep 100
+sleep 100
+preset chaoren neckroll set_speed 0
+preset chaoren neckroll set_target_pos 293
+sleep 100
+sleep 100
+sleep 100
+sleep 100
+preset chaoren necknode set_speed 117
+preset chaoren necknode set_target_pos 1863
+preset chaoren neckroll set_speed 16
+preset chaoren neckroll set_target_pos 283
+sleep 100
+sleep 100
+sleep 100
+preset chaoren neckroll set_speed 19
+preset chaoren neckroll set_target_pos 310
+sleep 100
+sleep 100
+sleep 100
+sleep 100
+sleep 100
+sleep 100
+sleep 100
+preset chaoren necknode set_speed 5
+preset chaoren necknode set_target_pos 1861
+preset chaoren neckroll set_speed 10
+preset chaoren neckroll set_target_pos 316
+sleep 100
+sleep 100
+preset chaoren necknode set_speed 302
+preset chaoren necknode set_target_pos 2224
+sleep 100
+preset chaoren neckroll set_speed 8890
+preset chaoren neckroll set_target_pos 3872
+sleep 100
+sleep 100
+preset chaoren neckroll set_speed 422
+preset chaoren neckroll set_target_pos 3534
+sleep 100
+sleep 100
+sleep 100
+preset chaoren necknode set_speed 1
+preset chaoren necknode set_target_pos 2225
+sleep 100
+preset chaoren neckroll set_speed 1
+preset chaoren neckroll set_target_pos 3535
+sleep 100
+sleep 100
+sleep 100
+preset chaoren necknode set_speed 2
+preset chaoren necknode set_target_pos 2224
+preset chaoren neckroll set_speed 250
+preset chaoren neckroll set_target_pos 3836
+sleep 100
+sleep 100
+preset chaoren necknode set_speed 387
+preset chaoren necknode set_target_pos 2069
+sleep 100
+sleep 100
+preset chaoren necknode set_speed 2
+preset chaoren necknode set_target_pos 2068
+sleep 100
+sleep 100
+preset chaoren necknode set_speed 8
+preset chaoren necknode set_target_pos 2073
+preset chaoren neckroll set_speed 26
+preset chaoren neckroll set_target_pos 3868
+sleep 100
+sleep 100
+sleep 100
+preset chaoren necknode set_speed 4
+preset chaoren necknode set_target_pos 2068
+sleep 100
+sleep 100
+sleep 100
+preset chaoren neckroll set_speed 227
+preset chaoren neckroll set_target_pos 3549
+sleep 100
+sleep 100
+sleep 100
+preset chaoren necknode set_speed 186
+preset chaoren necknode set_target_pos 1919
+sleep 100
+sleep 100
+sleep 100
+sleep 100
+preset chaoren necknode set_speed 250
+preset chaoren necknode set_target_pos 2119
+preset chaoren neckroll set_speed 251
+preset chaoren neckroll set_target_pos 4001
+sleep 100
+sleep 100
+sleep 100
+sleep 100
+preset chaoren necknode set_speed 58
+preset chaoren necknode set_target_pos 2177
+sleep 100
+sleep 100
+sleep 100
+sleep 100
+sleep 100
+preset chaoren necknode set_speed 235
+preset chaoren necknode set_target_pos 2083
+preset chaoren neckroll set_speed 820
+preset chaoren neckroll set_target_pos 3509
+sleep 100
+sleep 100
+sleep 100
+preset chaoren neckroll set_speed 615
+preset chaoren neckroll set_target_pos 3755
+sleep 100
+sleep 100
+preset chaoren neckroll set_speed 20
+preset chaoren neckroll set_target_pos 3747
+sleep 100
+sleep 100
+preset chaoren neckroll set_speed 1
+preset chaoren neckroll set_target_pos 3745
+sleep 100
+sleep 100
+sleep 100
+sleep 100
+sleep 100
+sleep 100
+sleep 100
+sleep 100
+sleep 100

@@ -1,0 +1,5 @@
+nt_com=com12
+pi_com=/dev/ttyUSB1
+baudrate=115200
+servos=bigarm:elbow:liftshoulder:rotateshoulder
+#servos=rotateshoulder

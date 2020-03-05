@@ -1,0 +1,5 @@
+nt_com=com3
+pi_com=/dev/ttyUSB0
+baudrate=1000000
+servos=eye:eyelid:mouth:neckroll:necknode
+#servos=necknode

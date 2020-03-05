@@ -1,0 +1,1364 @@
+12:33:58: dxl_server starting...
+12:33:59: 挂载舵机 eye 完成 最大位置: 523, 最小位置:382, 最大速度:1000
+12:33:59: 挂载舵机 eyelid 完成 最大位置: 382, 最小位置:245, 最大速度:1000
+12:33:59: 挂载舵机 mouth 完成 最大位置: 689, 最小位置:633, 最大速度:1000
+12:33:59: 挂载舵机 neckroll 完成 最大位置: 4091, 最小位置:2883, 最大速度:400
+12:33:59: 挂载舵机 necknode 完成 最大位置: 2120, 最小位置:1865, 最大速度:200
+12:33:59: 设备串口初始化成功, 共有 5 个servo 
+12:33:59: COM端口号: com3
+12:33:59: 波特率:1000000 
+12:34:02: debug: 执行脚本: preset chaoren necknode set_target_pos 1830
+12:34:03: debug: 执行脚本: preset chaoren neckroll set_target_pos 3862
+12:34:03: debug: 执行脚本: preset chaoren neckroll set_target_pos 3826
+12:34:03: debug: 执行脚本: preset chaoren necknode set_target_pos 2125
+12:34:03: debug: 执行脚本: preset chaoren neckroll set_target_pos 3927
+12:34:03: debug: 执行脚本: preset chaoren necknode set_target_pos 2114
+12:34:04: debug: 执行脚本: preset chaoren necknode set_target_pos 2108
+12:34:04: debug: 执行脚本: preset chaoren necknode set_target_pos 2107
+12:34:04: debug: 执行脚本: preset chaoren neckroll set_target_pos 3403
+12:34:04: debug: 执行脚本: preset chaoren necknode set_target_pos 2068
+12:34:04: debug: 执行脚本: preset chaoren necknode set_target_pos 2079
+12:34:05: debug: 执行脚本: preset chaoren neckroll set_target_pos 3432
+12:34:05: debug: 执行脚本: preset chaoren necknode set_target_pos 2081
+12:34:05: debug: 执行脚本: preset chaoren neckroll set_target_pos 3984
+12:34:05: debug: 执行脚本: preset chaoren necknode set_target_pos 2115
+12:34:05: debug: 执行脚本: preset chaoren necknode set_target_pos 2108
+12:34:05: debug: 执行脚本: preset chaoren neckroll set_target_pos 293
+12:34:05: debug: 执行脚本: preset chaoren necknode set_target_pos 2106
+12:34:06: debug: 执行脚本: preset chaoren necknode set_target_pos 2098
+12:34:06: debug: 执行脚本: preset chaoren neckroll set_target_pos 293
+12:34:06: debug: 执行脚本: preset chaoren necknode set_target_pos 1863
+12:34:06: debug: 执行脚本: preset chaoren neckroll set_target_pos 283
+12:34:07: debug: 执行脚本: preset chaoren neckroll set_target_pos 310
+12:34:07: debug: 执行脚本: preset chaoren necknode set_target_pos 1861
+12:34:07: debug: 执行脚本: preset chaoren neckroll set_target_pos 316
+12:34:08: debug: 执行脚本: preset chaoren necknode set_target_pos 2224
+12:34:08: debug: 执行脚本: preset chaoren neckroll set_target_pos 3872
+12:34:08: debug: 执行脚本: preset chaoren neckroll set_target_pos 3534
+12:34:08: debug: 执行脚本: preset chaoren necknode set_target_pos 2225
+12:34:08: debug: 执行脚本: preset chaoren neckroll set_target_pos 3535
+12:34:09: debug: 执行脚本: preset chaoren necknode set_target_pos 2224
+12:34:09: debug: 执行脚本: preset chaoren neckroll set_target_pos 3836
+12:34:09: debug: 执行脚本: preset chaoren necknode set_target_pos 2069
+12:34:09: debug: 执行脚本: preset chaoren necknode set_target_pos 2068
+12:34:09: debug: 执行脚本: preset chaoren necknode set_target_pos 2073
+12:34:09: debug: 执行脚本: preset chaoren neckroll set_target_pos 3868
+12:34:09: debug: 执行脚本: preset chaoren necknode set_target_pos 2068
+12:34:10: debug: 执行脚本: preset chaoren neckroll set_target_pos 3549
+12:34:10: debug: 执行脚本: preset chaoren necknode set_target_pos 1919
+12:34:10: debug: 执行脚本: preset chaoren necknode set_target_pos 2119
+12:34:11: debug: 执行脚本: preset chaoren neckroll set_target_pos 4001
+12:34:11: debug: 执行脚本: preset chaoren necknode set_target_pos 2177
+12:34:11: debug: 执行脚本: preset chaoren necknode set_target_pos 2083
+12:34:12: debug: 执行脚本: preset chaoren neckroll set_target_pos 3509
+12:34:12: debug: 执行脚本: preset chaoren neckroll set_target_pos 3755
+12:34:12: debug: 执行脚本: preset chaoren neckroll set_target_pos 3747
+12:34:12: debug: 执行脚本: preset chaoren neckroll set_target_pos 3745
+12:35:02: debug: 执行脚本: move eye  50 100 0
+12:35:02: debug: rotate: servo eye : pos 452, speed 1000, accelerate 0
+12:35:03: debug: 执行脚本: move neckroll  64 45 10
+12:35:03: debug: rotate: servo neckroll : pos 3656, speed 180, accelerate 10
+12:35:03: debug: 执行脚本: move necknode  85 79 10
+12:35:03: debug: rotate: servo necknode : pos 2081, speed 158, accelerate 10
+12:35:03: debug: 执行脚本: move eye  0 100 0
+12:35:03: debug: rotate: servo eye : pos 382, speed 1000, accelerate 0
+12:35:04: debug: 执行脚本: move eye  0 100 0
+12:35:04: debug: rotate: servo eye : pos 382, speed 1000, accelerate 0
+12:35:04: debug: 执行脚本: move eye  50 100 0
+12:35:04: debug: rotate: servo eye : pos 452, speed 1000, accelerate 0
+12:35:05: debug: 执行脚本: move mouth  100 100 0
+12:35:05: debug: rotate: servo mouth : pos 689, speed 1000, accelerate 0
+12:35:06: debug: 执行脚本: move mouth  0 100 0
+12:35:06: debug: rotate: servo mouth : pos 633, speed 1000, accelerate 0
+12:35:06: debug: 执行脚本: move eyelid  0 100 0
+12:35:06: debug: rotate: servo eyelid : pos 245, speed 1000, accelerate 0
+12:35:07: debug: 执行脚本: move eyelid  100 100 0
+12:35:07: debug: rotate: servo eyelid : pos 382, speed 1000, accelerate 0
+12:35:07: debug: 执行脚本: move eyelid  0 100 0
+12:35:07: debug: rotate: servo eyelid : pos 245, speed 1000, accelerate 0
+12:35:08: debug: 执行脚本: move eye  100 100 0
+12:35:08: debug: rotate: servo eye : pos 523, speed 1000, accelerate 0
+12:35:08: debug: 执行脚本: move neckroll  14 79 10
+12:35:08: debug: rotate: servo neckroll : pos 3052, speed 316, accelerate 10
+12:35:09: debug: 执行脚本: move necknode  24 63 10
+12:35:09: debug: rotate: servo necknode : pos 1926, speed 126, accelerate 10
+12:35:09: debug: 执行脚本: move eye  0 100 0
+12:35:09: debug: rotate: servo eye : pos 382, speed 1000, accelerate 0
+12:35:10: debug: 执行脚本: move eye  100 100 0
+12:35:10: debug: rotate: servo eye : pos 523, speed 1000, accelerate 0
+12:35:10: debug: 执行脚本: move eye  50 100 0
+12:35:10: debug: rotate: servo eye : pos 452, speed 1000, accelerate 0
+12:35:11: debug: 执行脚本: move eye  0 100 0
+12:35:11: debug: rotate: servo eye : pos 382, speed 1000, accelerate 0
+12:35:12: debug: 执行脚本: move eye  100 100 0
+12:35:12: debug: rotate: servo eye : pos 523, speed 1000, accelerate 0
+12:35:12: debug: 执行脚本: move eye  50 100 0
+12:35:12: debug: rotate: servo eye : pos 452, speed 1000, accelerate 0
+12:35:13: debug: 执行脚本: move eyelid  0 100 0
+12:35:13: debug: rotate: servo eyelid : pos 245, speed 1000, accelerate 0
+12:35:13: debug: 执行脚本: move eyelid  100 100 0
+12:35:13: debug: rotate: servo eyelid : pos 382, speed 1000, accelerate 0
+12:35:14: debug: 执行脚本: move eyelid  0 100 0
+12:35:14: debug: rotate: servo eyelid : pos 245, speed 1000, accelerate 0
+12:35:14: debug: 执行脚本: move eyelid  0 100 0
+12:35:14: debug: rotate: servo eyelid : pos 245, speed 1000, accelerate 0
+12:35:15: debug: 执行脚本: move eyelid  100 100 0
+12:35:15: debug: rotate: servo eyelid : pos 382, speed 1000, accelerate 0
+12:35:15: debug: 执行脚本: move eyelid  0 100 0
+12:35:15: debug: rotate: servo eyelid : pos 245, speed 1000, accelerate 0
+12:35:16: debug: 执行脚本: move neckroll  93 56 10
+12:35:16: debug: rotate: servo neckroll : pos 4006, speed 224, accelerate 10
+12:35:16: debug: 执行脚本: move necknode  96 30 10
+12:35:16: debug: rotate: servo necknode : pos 2109, speed 60, accelerate 10
+12:35:16: debug: 执行脚本: move eye  50 100 0
+12:35:16: debug: rotate: servo eye : pos 452, speed 1000, accelerate 0
+12:35:17: debug: 执行脚本: move neckroll  68 31 10
+12:35:17: debug: rotate: servo neckroll : pos 3704, speed 124, accelerate 10
+12:35:17: debug: 执行脚本: move necknode  87 59 10
+12:35:17: debug: rotate: servo necknode : pos 2086, speed 118, accelerate 10
+12:35:18: debug: 执行脚本: move neckroll  17 35 10
+12:35:18: debug: rotate: servo neckroll : pos 3088, speed 140, accelerate 10
+12:35:18: debug: 执行脚本: move necknode  26 40 10
+12:35:18: debug: rotate: servo necknode : pos 1931, speed 80, accelerate 10
+12:35:18: debug: 执行脚本: move mouth  100 100 0
+12:35:18: debug: rotate: servo mouth : pos 689, speed 1000, accelerate 0
+12:35:19: debug: 执行脚本: move mouth  0 100 0
+12:35:19: debug: rotate: servo mouth : pos 633, speed 1000, accelerate 0
+12:35:19: debug: 执行脚本: move neckroll  13 67 10
+12:35:19: debug: rotate: servo neckroll : pos 3040, speed 268, accelerate 10
+12:35:20: debug: 执行脚本: move necknode  12 40 10
+12:35:20: debug: rotate: servo necknode : pos 1895, speed 80, accelerate 10
+12:35:20: debug: 执行脚本: move eye  0 100 0
+12:35:20: debug: rotate: servo eye : pos 382, speed 1000, accelerate 0
+12:35:21: debug: 执行脚本: move neckroll  78 56 10
+12:35:21: debug: rotate: servo neckroll : pos 3825, speed 224, accelerate 10
+12:35:21: debug: 执行脚本: move necknode  0 36 10
+12:35:21: debug: rotate: servo necknode : pos 1865, speed 72, accelerate 10
+12:35:21: debug: 执行脚本: move neckroll  78 68 10
+12:35:21: debug: rotate: servo neckroll : pos 3825, speed 272, accelerate 10
+12:35:21: debug: 执行脚本: move necknode  32 49 10
+12:35:21: debug: rotate: servo necknode : pos 1946, speed 98, accelerate 10
+12:35:22: debug: 执行脚本: move eyelid  0 100 0
+12:35:22: debug: rotate: servo eyelid : pos 245, speed 1000, accelerate 0
+12:35:22: debug: 执行脚本: move eyelid  100 100 0
+12:35:22: debug: rotate: servo eyelid : pos 382, speed 1000, accelerate 0
+12:35:23: debug: 执行脚本: move eyelid  0 100 0
+12:35:23: debug: rotate: servo eyelid : pos 245, speed 1000, accelerate 0
+12:35:23: debug: 执行脚本: move neckroll  74 77 10
+12:35:23: debug: rotate: servo neckroll : pos 3776, speed 308, accelerate 10
+12:35:24: debug: 执行脚本: move necknode  92 73 10
+12:35:24: debug: rotate: servo necknode : pos 2099, speed 146, accelerate 10
+12:35:24: debug: 执行脚本: move neckroll  39 76 10
+12:35:24: debug: rotate: servo neckroll : pos 3354, speed 304, accelerate 10
+12:35:24: debug: 执行脚本: move necknode  49 72 10
+12:35:24: debug: rotate: servo necknode : pos 1989, speed 144, accelerate 10
+12:35:25: debug: 执行脚本: move eyelid  0 100 0
+12:35:25: debug: rotate: servo eyelid : pos 245, speed 1000, accelerate 0
+12:35:25: debug: 执行脚本: move eyelid  100 100 0
+12:35:25: debug: rotate: servo eyelid : pos 382, speed 1000, accelerate 0
+12:35:26: debug: 执行脚本: move eyelid  0 100 0
+12:35:26: debug: rotate: servo eyelid : pos 245, speed 1000, accelerate 0
+12:35:26: debug: 执行脚本: move eye  50 100 0
+12:35:26: debug: rotate: servo eye : pos 452, speed 1000, accelerate 0
+12:35:27: debug: 执行脚本: move eye  50 100 0
+12:35:27: debug: rotate: servo eye : pos 452, speed 1000, accelerate 0
+12:35:27: debug: 执行脚本: move eye  50 100 0
+12:35:27: debug: rotate: servo eye : pos 452, speed 1000, accelerate 0
+12:35:28: debug: 执行脚本: move eye  50 100 0
+12:35:28: debug: rotate: servo eye : pos 452, speed 1000, accelerate 0
+12:35:28: debug: 执行脚本: move eye  100 100 0
+12:35:28: debug: rotate: servo eye : pos 523, speed 1000, accelerate 0
+12:35:29: debug: 执行脚本: move mouth  100 100 0
+12:35:29: debug: rotate: servo mouth : pos 689, speed 1000, accelerate 0
+12:35:30: debug: 执行脚本: move mouth  0 100 0
+12:35:30: debug: rotate: servo mouth : pos 633, speed 1000, accelerate 0
+12:35:30: debug: 执行脚本: move neckroll  17 38 10
+12:35:30: debug: rotate: servo neckroll : pos 3088, speed 152, accelerate 10
+12:35:31: debug: 执行脚本: move necknode  5 46 10
+12:35:31: debug: rotate: servo necknode : pos 1877, speed 92, accelerate 10
+12:35:31: debug: 执行脚本: move neckroll  27 40 10
+12:35:31: debug: rotate: servo neckroll : pos 3209, speed 160, accelerate 10
+12:35:31: debug: 执行脚本: move necknode  64 59 10
+12:35:31: debug: rotate: servo necknode : pos 2028, speed 118, accelerate 10
+12:35:31: debug: 执行脚本: move eye  50 100 0
+12:35:31: debug: rotate: servo eye : pos 452, speed 1000, accelerate 0
+12:35:32: debug: 执行脚本: move neckroll  23 36 10
+12:35:32: debug: rotate: servo neckroll : pos 3160, speed 144, accelerate 10
+12:35:32: debug: 执行脚本: move necknode  73 37 10
+12:35:32: debug: rotate: servo necknode : pos 2051, speed 74, accelerate 10
+12:35:33: debug: 执行脚本: move eye  0 100 0
+12:35:33: debug: rotate: servo eye : pos 382, speed 1000, accelerate 0
+12:35:33: debug: 执行脚本: move neckroll  61 54 10
+12:35:33: debug: rotate: servo neckroll : pos 3619, speed 216, accelerate 10
+12:35:33: debug: 执行脚本: move necknode  49 70 10
+12:35:33: debug: rotate: servo necknode : pos 1989, speed 140, accelerate 10
+12:35:34: debug: 执行脚本: move eye  50 100 0
+12:35:34: debug: rotate: servo eye : pos 452, speed 1000, accelerate 0
+12:35:34: debug: 执行脚本: move eye  100 100 0
+12:35:34: debug: rotate: servo eye : pos 523, speed 1000, accelerate 0
+12:35:35: debug: 执行脚本: move neckroll  37 64 10
+12:35:35: debug: rotate: servo neckroll : pos 3329, speed 256, accelerate 10
+12:35:35: debug: 执行脚本: move necknode  71 52 10
+12:35:35: debug: rotate: servo necknode : pos 2046, speed 104, accelerate 10
+12:35:36: debug: 执行脚本: move eye  50 100 0
+12:35:36: debug: rotate: servo eye : pos 452, speed 1000, accelerate 0
+12:35:36: debug: 执行脚本: move neckroll  71 57 10
+12:35:36: debug: rotate: servo neckroll : pos 3740, speed 228, accelerate 10
+12:35:37: debug: 执行脚本: move necknode  80 55 10
+12:35:37: debug: rotate: servo necknode : pos 2069, speed 110, accelerate 10
+12:35:37: debug: 执行脚本: move eye  50 100 0
+12:35:37: debug: rotate: servo eye : pos 452, speed 1000, accelerate 0
+12:35:38: debug: 执行脚本: move eye  100 100 0
+12:35:38: debug: rotate: servo eye : pos 523, speed 1000, accelerate 0
+12:35:38: debug: 执行脚本: move eyelid  0 100 0
+12:35:38: debug: rotate: servo eyelid : pos 245, speed 1000, accelerate 0
+12:35:39: debug: 执行脚本: move eyelid  100 100 0
+12:35:39: debug: rotate: servo eyelid : pos 382, speed 1000, accelerate 0
+12:35:39: debug: 执行脚本: move eyelid  0 100 0
+12:35:39: debug: rotate: servo eyelid : pos 245, speed 1000, accelerate 0
+12:35:40: debug: 执行脚本: move eyelid  0 100 0
+12:35:40: debug: rotate: servo eyelid : pos 245, speed 1000, accelerate 0
+12:35:40: debug: 执行脚本: move eyelid  100 100 0
+12:35:40: debug: rotate: servo eyelid : pos 382, speed 1000, accelerate 0
+12:35:41: debug: 执行脚本: move eyelid  0 100 0
+12:35:41: debug: rotate: servo eyelid : pos 245, speed 1000, accelerate 0
+12:35:42: debug: 执行脚本: move eye  0 100 0
+12:35:42: debug: rotate: servo eye : pos 382, speed 1000, accelerate 0
+12:35:42: debug: 执行脚本: move eye  50 100 0
+12:35:42: debug: rotate: servo eye : pos 452, speed 1000, accelerate 0
+12:35:43: debug: 执行脚本: move eye  50 100 0
+12:35:43: debug: rotate: servo eye : pos 452, speed 1000, accelerate 0
+12:35:43: debug: 执行脚本: move eye  50 100 0
+12:35:43: debug: rotate: servo eye : pos 452, speed 1000, accelerate 0
+12:35:44: debug: 执行脚本: move eye  100 100 0
+12:35:44: debug: rotate: servo eye : pos 523, speed 1000, accelerate 0
+12:35:45: debug: 执行脚本: move mouth  100 100 0
+12:35:45: debug: rotate: servo mouth : pos 689, speed 1000, accelerate 0
+12:35:45: debug: 执行脚本: move mouth  0 100 0
+12:35:45: debug: rotate: servo mouth : pos 633, speed 1000, accelerate 0
+12:35:46: debug: 执行脚本: move eye  0 100 0
+12:35:46: debug: rotate: servo eye : pos 382, speed 1000, accelerate 0
+12:35:46: debug: 执行脚本: move neckroll  44 66 10
+12:35:46: debug: rotate: servo neckroll : pos 3414, speed 264, accelerate 10
+12:35:47: debug: 执行脚本: move necknode  63 78 10
+12:35:47: debug: rotate: servo necknode : pos 2025, speed 156, accelerate 10
+12:35:47: debug: 执行脚本: move neckroll  40 51 10
+12:35:47: debug: rotate: servo neckroll : pos 3366, speed 204, accelerate 10
+12:35:47: debug: 执行脚本: move necknode  95 62 10
+12:35:47: debug: rotate: servo necknode : pos 2107, speed 124, accelerate 10
+12:35:48: debug: 执行脚本: move mouth  100 100 0
+12:35:48: debug: rotate: servo mouth : pos 689, speed 1000, accelerate 0
+12:35:48: debug: 执行脚本: move mouth  0 100 0
+12:35:48: debug: rotate: servo mouth : pos 633, speed 1000, accelerate 0
+12:35:49: debug: 执行脚本: move eye  0 100 0
+12:35:49: debug: rotate: servo eye : pos 382, speed 1000, accelerate 0
+12:35:50: debug: 执行脚本: move mouth  100 100 0
+12:35:50: debug: rotate: servo mouth : pos 689, speed 1000, accelerate 0
+12:35:50: debug: 执行脚本: move mouth  0 100 0
+12:35:50: debug: rotate: servo mouth : pos 633, speed 1000, accelerate 0
+12:35:51: debug: 执行脚本: move eye  100 100 0
+12:35:51: debug: rotate: servo eye : pos 523, speed 1000, accelerate 0
+12:35:51: debug: 执行脚本: move eye  100 100 0
+12:35:51: debug: rotate: servo eye : pos 523, speed 1000, accelerate 0
+12:35:52: debug: 执行脚本: move neckroll  0 77 10
+12:35:52: debug: rotate: servo neckroll : pos 2883, speed 308, accelerate 10
+12:35:52: debug: 执行脚本: move necknode  23 36 10
+12:35:52: debug: rotate: servo necknode : pos 1923, speed 72, accelerate 10
+12:35:53: debug: 执行脚本: move neckroll  31 31 10
+12:35:53: debug: rotate: servo neckroll : pos 3257, speed 124, accelerate 10
+12:35:53: debug: 执行脚本: move necknode  93 52 10
+12:35:53: debug: rotate: servo necknode : pos 2102, speed 104, accelerate 10
+12:35:53: debug: 执行脚本: move neckroll  60 40 10
+12:35:53: debug: rotate: servo neckroll : pos 3607, speed 160, accelerate 10
+12:35:53: debug: 执行脚本: move necknode  61 59 10
+12:35:53: debug: rotate: servo necknode : pos 2020, speed 118, accelerate 10
+12:35:54: debug: 执行脚本: move neckroll  70 38 10
+12:35:54: debug: rotate: servo neckroll : pos 3728, speed 152, accelerate 10
+12:35:54: debug: 执行脚本: move necknode  52 76 10
+12:35:54: debug: rotate: servo necknode : pos 1997, speed 152, accelerate 10
+12:35:54: debug: 执行脚本: move eyelid  0 100 0
+12:35:54: debug: rotate: servo eyelid : pos 245, speed 1000, accelerate 0
+12:35:55: debug: 执行脚本: move eyelid  100 100 0
+12:35:55: debug: rotate: servo eyelid : pos 382, speed 1000, accelerate 0
+12:35:55: debug: 执行脚本: move eyelid  0 100 0
+12:35:55: debug: rotate: servo eyelid : pos 245, speed 1000, accelerate 0
+12:35:56: debug: 执行脚本: move neckroll  4 50 10
+12:35:56: debug: rotate: servo neckroll : pos 2931, speed 200, accelerate 10
+12:35:56: debug: 执行脚本: move necknode  74 49 10
+12:35:56: debug: rotate: servo necknode : pos 2053, speed 98, accelerate 10
+12:35:56: debug: 执行脚本: move neckroll  26 69 10
+12:35:56: debug: rotate: servo neckroll : pos 3197, speed 276, accelerate 10
+12:35:57: debug: 执行脚本: move necknode  97 66 10
+12:35:57: debug: rotate: servo necknode : pos 2112, speed 132, accelerate 10
+12:35:57: debug: 执行脚本: move eye  50 100 0
+12:35:57: debug: rotate: servo eye : pos 452, speed 1000, accelerate 0
+12:35:58: debug: 执行脚本: move neckroll  44 32 10
+12:35:58: debug: rotate: servo neckroll : pos 3414, speed 128, accelerate 10
+12:35:58: debug: 执行脚本: move necknode  58 55 10
+12:35:58: debug: rotate: servo necknode : pos 2012, speed 110, accelerate 10
+12:35:58: debug: 执行脚本: move neckroll  75 61 10
+12:35:58: debug: rotate: servo neckroll : pos 3789, speed 244, accelerate 10
+12:35:59: debug: 执行脚本: move necknode  17 69 10
+12:35:59: debug: rotate: servo necknode : pos 1908, speed 138, accelerate 10
+12:35:59: debug: 执行脚本: move mouth  100 100 0
+12:35:59: debug: rotate: servo mouth : pos 689, speed 1000, accelerate 0
+12:35:59: debug: 执行脚本: move mouth  0 100 0
+12:35:59: debug: rotate: servo mouth : pos 633, speed 1000, accelerate 0
+12:36:00: debug: 执行脚本: move neckroll  13 52 10
+12:36:00: debug: rotate: servo neckroll : pos 3040, speed 208, accelerate 10
+12:36:00: debug: 执行脚本: move necknode  80 42 10
+12:36:00: debug: rotate: servo necknode : pos 2069, speed 84, accelerate 10
+12:36:01: debug: 执行脚本: move eye  50 100 0
+12:36:01: debug: rotate: servo eye : pos 452, speed 1000, accelerate 0
+12:36:01: debug: 执行脚本: move neckroll  25 65 10
+12:36:01: debug: rotate: servo neckroll : pos 3185, speed 260, accelerate 10
+12:36:01: debug: 执行脚本: move necknode  44 75 10
+12:36:01: debug: rotate: servo necknode : pos 1977, speed 150, accelerate 10
+12:36:02: debug: 执行脚本: move neckroll  18 36 10
+12:36:02: debug: rotate: servo neckroll : pos 3100, speed 144, accelerate 10
+12:36:02: debug: 执行脚本: move necknode  34 69 10
+12:36:02: debug: rotate: servo necknode : pos 1951, speed 138, accelerate 10
+12:36:02: debug: 执行脚本: move neckroll  66 30 10
+12:36:02: debug: rotate: servo neckroll : pos 3680, speed 120, accelerate 10
+12:36:03: debug: 执行脚本: move necknode  14 78 10
+12:36:03: debug: rotate: servo necknode : pos 1900, speed 156, accelerate 10
+12:36:03: debug: 执行脚本: move neckroll  86 43 10
+12:36:03: debug: rotate: servo neckroll : pos 3921, speed 172, accelerate 10
+12:36:03: debug: 执行脚本: move necknode  59 60 10
+12:36:03: debug: rotate: servo necknode : pos 2015, speed 120, accelerate 10
+12:36:03: debug: 执行脚本: move eye  0 100 0
+12:36:03: debug: rotate: servo eye : pos 382, speed 1000, accelerate 0
+12:36:04: debug: 执行脚本: move neckroll  80 37 10
+12:36:04: debug: rotate: servo neckroll : pos 3849, speed 148, accelerate 10
+12:36:04: debug: 执行脚本: move necknode  12 39 10
+12:36:04: debug: rotate: servo necknode : pos 1895, speed 78, accelerate 10
+12:36:05: debug: 执行脚本: move eye  100 100 0
+12:36:05: debug: rotate: servo eye : pos 523, speed 1000, accelerate 0
+12:36:05: debug: 执行脚本: move eye  50 100 0
+12:36:05: debug: rotate: servo eye : pos 452, speed 1000, accelerate 0
+12:36:06: debug: 执行脚本: move eye  50 100 0
+12:36:06: debug: rotate: servo eye : pos 452, speed 1000, accelerate 0
+12:36:07: debug: 执行脚本: move neckroll  93 46 10
+12:36:07: debug: rotate: servo neckroll : pos 4006, speed 184, accelerate 10
+12:36:07: debug: 执行脚本: move necknode  9 45 10
+12:36:07: debug: rotate: servo necknode : pos 1887, speed 90, accelerate 10
+12:36:07: debug: 执行脚本: move neckroll  32 45 10
+12:36:07: debug: rotate: servo neckroll : pos 3269, speed 180, accelerate 10
+12:36:07: debug: 执行脚本: move necknode  74 39 10
+12:36:07: debug: rotate: servo necknode : pos 2053, speed 78, accelerate 10
+12:36:07: 写入数据失败:  servo: necknode, servo id: 4 地址: 32, 写入数据: 78
+12:36:07: [TxRxResult] Port is in use!
+12:36:07: dxl_comm.send_script() script : move necknode  74 39 10  
+12:36:08: debug: 执行脚本: move neckroll  86 60 10
+12:36:08: debug: rotate: servo neckroll : pos 3921, speed 240, accelerate 10
+12:36:08: 写入数据失败:  servo: neckroll, servo id: 5 地址: 73, 写入数据: 10
+12:36:08: [TxRxResult] Port is in use!
+12:36:08: 写入数据失败:  servo: neckroll, servo id: 5 地址: 32, 写入数据: 240
+12:36:08: [TxRxResult] Port is in use!
+12:36:08: dxl_comm.send_script() script : move neckroll  86 60 10  
+12:36:08: debug: 执行脚本: move necknode  80 40 10
+12:36:08: debug: rotate: servo necknode : pos 2069, speed 80, accelerate 10
+12:36:08: 写入数据失败:  servo: necknode, servo id: 4 地址: 73, 写入数据: 10
+12:36:08: [TxRxResult] Port is in use!
+12:36:08: 写入数据失败:  servo: necknode, servo id: 4 地址: 32, 写入数据: 80
+12:36:08: [TxRxResult] Port is in use!
+12:36:08: dxl_comm.send_script() script : move necknode  80 40 10  
+12:36:08: debug: 执行脚本: move eye  100 100 0
+12:36:08: debug: rotate: servo eye : pos 523, speed 1000, accelerate 0
+12:36:08: 写入数据失败:  servo: eye, servo id: 2 地址: 32, 写入数据: 1000
+12:36:08: [TxRxResult] Port is in use!
+12:36:08: dxl_comm.send_script() script : move eye  100 100 0  
+12:36:09: debug: 执行脚本: move neckroll  84 37 10
+12:36:09: debug: rotate: servo neckroll : pos 3897, speed 148, accelerate 10
+12:36:09: 写入数据失败:  servo: neckroll, servo id: 5 地址: 73, 写入数据: 10
+12:36:09: [TxRxResult] Port is in use!
+12:36:09: 写入数据失败:  servo: neckroll, servo id: 5 地址: 32, 写入数据: 148
+12:36:09: [TxRxResult] Port is in use!
+12:36:09: dxl_comm.send_script() script : move neckroll  84 37 10  
+12:36:09: debug: 执行脚本: move necknode  6 38 10
+12:36:09: debug: rotate: servo necknode : pos 1880, speed 76, accelerate 10
+12:36:09: 写入数据失败:  servo: necknode, servo id: 4 地址: 73, 写入数据: 10
+12:36:09: [TxRxResult] Port is in use!
+12:36:09: 写入数据失败:  servo: necknode, servo id: 4 地址: 32, 写入数据: 76
+12:36:09: [TxRxResult] Port is in use!
+12:36:09: dxl_comm.send_script() script : move necknode  6 38 10  
+12:36:09: debug: 执行脚本: move eyelid  0 100 0
+12:36:09: debug: rotate: servo eyelid : pos 245, speed 1000, accelerate 0
+12:36:09: 写入数据失败:  servo: eyelid, servo id: 1 地址: 32, 写入数据: 1000
+12:36:09: [TxRxResult] Port is in use!
+12:36:09: dxl_comm.send_script() script : move eyelid  0 100 0  
+12:36:10: debug: 执行脚本: move eyelid  100 100 0
+12:36:10: debug: rotate: servo eyelid : pos 382, speed 1000, accelerate 0
+12:36:10: 写入数据失败:  servo: eyelid, servo id: 1 地址: 32, 写入数据: 1000
+12:36:10: [TxRxResult] Port is in use!
+12:36:10: dxl_comm.send_script() script : move eyelid  100 100 0  
+12:36:10: debug: 执行脚本: move eyelid  0 100 0
+12:36:10: debug: rotate: servo eyelid : pos 245, speed 1000, accelerate 0
+12:36:10: 写入数据失败:  servo: eyelid, servo id: 1 地址: 32, 写入数据: 1000
+12:36:10: [TxRxResult] Port is in use!
+12:36:10: dxl_comm.send_script() script : move eyelid  0 100 0  
+12:36:11: debug: 执行脚本: move eye  50 100 0
+12:36:11: debug: rotate: servo eye : pos 452, speed 1000, accelerate 0
+12:36:11: 写入数据失败:  servo: eye, servo id: 2 地址: 32, 写入数据: 1000
+12:36:11: [TxRxResult] Port is in use!
+12:36:11: dxl_comm.send_script() script : move eye  50 100 0  
+12:36:12: debug: 执行脚本: move eye  50 100 0
+12:36:12: debug: rotate: servo eye : pos 452, speed 1000, accelerate 0
+12:36:12: 写入数据失败:  servo: eye, servo id: 2 地址: 32, 写入数据: 1000
+12:36:12: [TxRxResult] Port is in use!
+12:36:12: dxl_comm.send_script() script : move eye  50 100 0  
+12:36:12: debug: 执行脚本: move neckroll  9 58 10
+12:36:12: debug: rotate: servo neckroll : pos 2991, speed 232, accelerate 10
+12:36:12: 写入数据失败:  servo: neckroll, servo id: 5 地址: 73, 写入数据: 10
+12:36:12: [TxRxResult] Port is in use!
+12:36:12: 写入数据失败:  servo: neckroll, servo id: 5 地址: 32, 写入数据: 232
+12:36:12: [TxRxResult] Port is in use!
+12:36:12: dxl_comm.send_script() script : move neckroll  9 58 10  
+12:36:13: debug: 执行脚本: move necknode  81 50 10
+12:36:13: debug: rotate: servo necknode : pos 2071, speed 100, accelerate 10
+12:36:13: 写入数据失败:  servo: necknode, servo id: 4 地址: 73, 写入数据: 10
+12:36:13: [TxRxResult] Port is in use!
+12:36:13: 写入数据失败:  servo: necknode, servo id: 4 地址: 32, 写入数据: 100
+12:36:13: [TxRxResult] Port is in use!
+12:36:13: dxl_comm.send_script() script : move necknode  81 50 10  
+12:36:13: debug: 执行脚本: move neckroll  5 55 10
+12:36:13: debug: rotate: servo neckroll : pos 2943, speed 220, accelerate 10
+12:36:13: 写入数据失败:  servo: neckroll, servo id: 5 地址: 73, 写入数据: 10
+12:36:13: [TxRxResult] Port is in use!
+12:36:13: 写入数据失败:  servo: neckroll, servo id: 5 地址: 32, 写入数据: 220
+12:36:13: [TxRxResult] Port is in use!
+12:36:13: dxl_comm.send_script() script : move neckroll  5 55 10  
+12:36:13: debug: 执行脚本: move necknode  53 79 10
+12:36:13: debug: rotate: servo necknode : pos 2000, speed 158, accelerate 10
+12:36:13: 写入数据失败:  servo: necknode, servo id: 4 地址: 73, 写入数据: 10
+12:36:13: [TxRxResult] Port is in use!
+12:36:13: 写入数据失败:  servo: necknode, servo id: 4 地址: 32, 写入数据: 158
+12:36:13: [TxRxResult] Port is in use!
+12:36:13: dxl_comm.send_script() script : move necknode  53 79 10  
+12:36:14: debug: 执行脚本: move eye  100 100 0
+12:36:14: debug: rotate: servo eye : pos 523, speed 1000, accelerate 0
+12:36:14: 写入数据失败:  servo: eye, servo id: 2 地址: 32, 写入数据: 1000
+12:36:14: [TxRxResult] Port is in use!
+12:36:14: dxl_comm.send_script() script : move eye  100 100 0  
+12:36:14: debug: 执行脚本: move neckroll  74 68 10
+12:36:14: debug: rotate: servo neckroll : pos 3776, speed 272, accelerate 10
+12:36:14: 写入数据失败:  servo: neckroll, servo id: 5 地址: 73, 写入数据: 10
+12:36:14: [TxRxResult] Port is in use!
+12:36:14: 写入数据失败:  servo: neckroll, servo id: 5 地址: 32, 写入数据: 272
+12:36:14: [TxRxResult] Port is in use!
+12:36:14: dxl_comm.send_script() script : move neckroll  74 68 10  
+12:36:14: debug: 执行脚本: move necknode  58 77 10
+12:36:14: debug: rotate: servo necknode : pos 2012, speed 154, accelerate 10
+12:36:14: 写入数据失败:  servo: necknode, servo id: 4 地址: 73, 写入数据: 10
+12:36:14: [TxRxResult] Port is in use!
+12:36:14: 写入数据失败:  servo: necknode, servo id: 4 地址: 32, 写入数据: 154
+12:36:14: [TxRxResult] Port is in use!
+12:36:14: dxl_comm.send_script() script : move necknode  58 77 10  
+12:36:15: debug: 执行脚本: move mouth  100 100 0
+12:36:15: debug: rotate: servo mouth : pos 689, speed 1000, accelerate 0
+12:36:15: 写入数据失败:  servo: mouth, servo id: 3 地址: 32, 写入数据: 1000
+12:36:15: [TxRxResult] Port is in use!
+12:36:15: dxl_comm.send_script() script : move mouth  100 100 0  
+12:36:15: debug: 执行脚本: move mouth  0 100 0
+12:36:15: debug: rotate: servo mouth : pos 633, speed 1000, accelerate 0
+12:36:15: 写入数据失败:  servo: mouth, servo id: 3 地址: 32, 写入数据: 1000
+12:36:15: [TxRxResult] Port is in use!
+12:36:15: dxl_comm.send_script() script : move mouth  0 100 0  
+12:36:16: debug: 执行脚本: move neckroll  23 63 10
+12:36:16: debug: rotate: servo neckroll : pos 3160, speed 252, accelerate 10
+12:36:16: 写入数据失败:  servo: neckroll, servo id: 5 地址: 73, 写入数据: 10
+12:36:16: [TxRxResult] Port is in use!
+12:36:16: 写入数据失败:  servo: neckroll, servo id: 5 地址: 32, 写入数据: 252
+12:36:16: [TxRxResult] Port is in use!
+12:36:16: dxl_comm.send_script() script : move neckroll  23 63 10  
+12:36:16: debug: 执行脚本: move necknode  34 70 10
+12:36:16: debug: rotate: servo necknode : pos 1951, speed 140, accelerate 10
+12:36:16: 写入数据失败:  servo: necknode, servo id: 4 地址: 73, 写入数据: 10
+12:36:16: [TxRxResult] Port is in use!
+12:36:16: 写入数据失败:  servo: necknode, servo id: 4 地址: 32, 写入数据: 140
+12:36:16: [TxRxResult] Port is in use!
+12:36:16: dxl_comm.send_script() script : move necknode  34 70 10  
+12:36:16: debug: 执行脚本: move neckroll  84 76 10
+12:36:16: debug: rotate: servo neckroll : pos 3897, speed 304, accelerate 10
+12:36:16: 写入数据失败:  servo: neckroll, servo id: 5 地址: 73, 写入数据: 10
+12:36:16: [TxRxResult] Port is in use!
+12:36:16: 写入数据失败:  servo: neckroll, servo id: 5 地址: 32, 写入数据: 304
+12:36:16: [TxRxResult] Port is in use!
+12:36:16: dxl_comm.send_script() script : move neckroll  84 76 10  
+12:36:17: debug: 执行脚本: move necknode  0 46 10
+12:36:17: debug: rotate: servo necknode : pos 1865, speed 92, accelerate 10
+12:36:17: 写入数据失败:  servo: necknode, servo id: 4 地址: 73, 写入数据: 10
+12:36:17: [TxRxResult] Port is in use!
+12:36:17: 写入数据失败:  servo: necknode, servo id: 4 地址: 32, 写入数据: 92
+12:36:17: [TxRxResult] Port is in use!
+12:36:17: dxl_comm.send_script() script : move necknode  0 46 10  
+12:36:17: debug: 执行脚本: move neckroll  98 78 10
+12:36:17: debug: rotate: servo neckroll : pos 4066, speed 312, accelerate 10
+12:36:17: 写入数据失败:  servo: neckroll, servo id: 5 地址: 73, 写入数据: 10
+12:36:17: [TxRxResult] Port is in use!
+12:36:17: 写入数据失败:  servo: neckroll, servo id: 5 地址: 32, 写入数据: 312
+12:36:17: [TxRxResult] Port is in use!
+12:36:17: dxl_comm.send_script() script : move neckroll  98 78 10  
+12:36:17: debug: 执行脚本: move necknode  15 52 10
+12:36:17: debug: rotate: servo necknode : pos 1903, speed 104, accelerate 10
+12:36:17: 写入数据失败:  servo: necknode, servo id: 4 地址: 73, 写入数据: 10
+12:36:17: [TxRxResult] Port is in use!
+12:36:17: 写入数据失败:  servo: necknode, servo id: 4 地址: 32, 写入数据: 104
+12:36:17: [TxRxResult] Port is in use!
+12:36:17: dxl_comm.send_script() script : move necknode  15 52 10  
+12:36:18: debug: 执行脚本: move eye  100 100 0
+12:36:18: debug: rotate: servo eye : pos 523, speed 1000, accelerate 0
+12:36:18: 写入数据失败:  servo: eye, servo id: 2 地址: 32, 写入数据: 1000
+12:36:18: [TxRxResult] Port is in use!
+12:36:18: dxl_comm.send_script() script : move eye  100 100 0  
+12:36:18: debug: 执行脚本: move eye  0 100 0
+12:36:18: debug: rotate: servo eye : pos 382, speed 1000, accelerate 0
+12:36:18: 写入数据失败:  servo: eye, servo id: 2 地址: 32, 写入数据: 1000
+12:36:18: [TxRxResult] Port is in use!
+12:36:18: dxl_comm.send_script() script : move eye  0 100 0  
+12:36:19: debug: 执行脚本: move mouth  100 100 0
+12:36:19: debug: rotate: servo mouth : pos 689, speed 1000, accelerate 0
+12:36:19: 写入数据失败:  servo: mouth, servo id: 3 地址: 32, 写入数据: 1000
+12:36:19: [TxRxResult] Port is in use!
+12:36:19: dxl_comm.send_script() script : move mouth  100 100 0  
+12:36:19: debug: 执行脚本: move mouth  0 100 0
+12:36:19: debug: rotate: servo mouth : pos 633, speed 1000, accelerate 0
+12:36:19: 写入数据失败:  servo: mouth, servo id: 3 地址: 32, 写入数据: 1000
+12:36:19: [TxRxResult] Port is in use!
+12:36:19: dxl_comm.send_script() script : move mouth  0 100 0  
+12:36:20: debug: 执行脚本: move eye  50 100 0
+12:36:20: debug: rotate: servo eye : pos 452, speed 1000, accelerate 0
+12:36:20: 写入数据失败:  servo: eye, servo id: 2 地址: 32, 写入数据: 1000
+12:36:20: [TxRxResult] Port is in use!
+12:36:20: dxl_comm.send_script() script : move eye  50 100 0  
+12:36:21: debug: 执行脚本: move eye  100 100 0
+12:36:21: debug: rotate: servo eye : pos 523, speed 1000, accelerate 0
+12:36:21: 写入数据失败:  servo: eye, servo id: 2 地址: 32, 写入数据: 1000
+12:36:21: [TxRxResult] Port is in use!
+12:36:21: dxl_comm.send_script() script : move eye  100 100 0  
+12:36:21: debug: 执行脚本: move eye  50 100 0
+12:36:21: debug: rotate: servo eye : pos 452, speed 1000, accelerate 0
+12:36:21: 写入数据失败:  servo: eye, servo id: 2 地址: 32, 写入数据: 1000
+12:36:21: [TxRxResult] Port is in use!
+12:36:21: dxl_comm.send_script() script : move eye  50 100 0  
+12:36:22: debug: 执行脚本: move neckroll  53 62 10
+12:36:22: debug: rotate: servo neckroll : pos 3523, speed 248, accelerate 10
+12:36:22: 写入数据失败:  servo: neckroll, servo id: 5 地址: 73, 写入数据: 10
+12:36:22: [TxRxResult] Port is in use!
+12:36:22: 写入数据失败:  servo: neckroll, servo id: 5 地址: 32, 写入数据: 248
+12:36:22: [TxRxResult] Port is in use!
+12:36:22: dxl_comm.send_script() script : move neckroll  53 62 10  
+12:36:22: debug: 执行脚本: move necknode  60 30 10
+12:36:22: debug: rotate: servo necknode : pos 2018, speed 60, accelerate 10
+12:36:22: 写入数据失败:  servo: necknode, servo id: 4 地址: 73, 写入数据: 10
+12:36:22: [TxRxResult] Port is in use!
+12:36:22: 写入数据失败:  servo: necknode, servo id: 4 地址: 32, 写入数据: 60
+12:36:22: [TxRxResult] Port is in use!
+12:36:22: dxl_comm.send_script() script : move necknode  60 30 10  
+12:36:22: debug: 执行脚本: move eyelid  0 100 0
+12:36:22: debug: rotate: servo eyelid : pos 245, speed 1000, accelerate 0
+12:36:22: 写入数据失败:  servo: eyelid, servo id: 1 地址: 32, 写入数据: 1000
+12:36:22: [TxRxResult] Port is in use!
+12:36:22: dxl_comm.send_script() script : move eyelid  0 100 0  
+12:36:23: debug: 执行脚本: move eyelid  100 100 0
+12:36:23: debug: rotate: servo eyelid : pos 382, speed 1000, accelerate 0
+12:36:23: 写入数据失败:  servo: eyelid, servo id: 1 地址: 32, 写入数据: 1000
+12:36:23: [TxRxResult] Port is in use!
+12:36:23: dxl_comm.send_script() script : move eyelid  100 100 0  
+12:36:23: debug: 执行脚本: move eyelid  0 100 0
+12:36:23: debug: rotate: servo eyelid : pos 245, speed 1000, accelerate 0
+12:36:23: 写入数据失败:  servo: eyelid, servo id: 1 地址: 32, 写入数据: 1000
+12:36:23: [TxRxResult] Port is in use!
+12:36:23: dxl_comm.send_script() script : move eyelid  0 100 0  
+12:36:24: debug: 执行脚本: move neckroll  20 63 10
+12:36:24: debug: rotate: servo neckroll : pos 3124, speed 252, accelerate 10
+12:36:24: 写入数据失败:  servo: neckroll, servo id: 5 地址: 73, 写入数据: 10
+12:36:24: [TxRxResult] Port is in use!
+12:36:24: 写入数据失败:  servo: neckroll, servo id: 5 地址: 32, 写入数据: 252
+12:36:24: [TxRxResult] Port is in use!
+12:36:24: dxl_comm.send_script() script : move neckroll  20 63 10  
+12:36:24: debug: 执行脚本: move necknode  8 57 10
+12:36:24: debug: rotate: servo necknode : pos 1885, speed 114, accelerate 10
+12:36:24: 写入数据失败:  servo: necknode, servo id: 4 地址: 73, 写入数据: 10
+12:36:24: [TxRxResult] Port is in use!
+12:36:24: 写入数据失败:  servo: necknode, servo id: 4 地址: 32, 写入数据: 114
+12:36:24: [TxRxResult] Port is in use!
+12:36:24: dxl_comm.send_script() script : move necknode  8 57 10  
+12:36:25: debug: 执行脚本: move neckroll  50 41 10
+12:36:25: debug: rotate: servo neckroll : pos 3487, speed 164, accelerate 10
+12:36:25: 写入数据失败:  servo: neckroll, servo id: 5 地址: 73, 写入数据: 10
+12:36:25: [TxRxResult] Port is in use!
+12:36:25: 写入数据失败:  servo: neckroll, servo id: 5 地址: 32, 写入数据: 164
+12:36:25: [TxRxResult] Port is in use!
+12:36:25: dxl_comm.send_script() script : move neckroll  50 41 10  
+12:36:25: debug: 执行脚本: move necknode  31 68 10
+12:36:25: debug: rotate: servo necknode : pos 1944, speed 136, accelerate 10
+12:36:25: 写入数据失败:  servo: necknode, servo id: 4 地址: 73, 写入数据: 10
+12:36:25: [TxRxResult] Port is in use!
+12:36:25: 写入数据失败:  servo: necknode, servo id: 4 地址: 32, 写入数据: 136
+12:36:25: [TxRxResult] Port is in use!
+12:36:25: dxl_comm.send_script() script : move necknode  31 68 10  
+12:36:25: debug: 执行脚本: move neckroll  59 70 10
+12:36:25: debug: rotate: servo neckroll : pos 3595, speed 280, accelerate 10
+12:36:25: 写入数据失败:  servo: neckroll, servo id: 5 地址: 73, 写入数据: 10
+12:36:25: [TxRxResult] Port is in use!
+12:36:25: 写入数据失败:  servo: neckroll, servo id: 5 地址: 32, 写入数据: 280
+12:36:25: [TxRxResult] Port is in use!
+12:36:25: dxl_comm.send_script() script : move neckroll  59 70 10  
+12:36:26: debug: 执行脚本: move necknode  48 74 10
+12:36:26: debug: rotate: servo necknode : pos 1987, speed 148, accelerate 10
+12:36:26: 写入数据失败:  servo: necknode, servo id: 4 地址: 73, 写入数据: 10
+12:36:26: [TxRxResult] Port is in use!
+12:36:26: 写入数据失败:  servo: necknode, servo id: 4 地址: 32, 写入数据: 148
+12:36:26: [TxRxResult] Port is in use!
+12:36:26: dxl_comm.send_script() script : move necknode  48 74 10  
+12:36:26: debug: 执行脚本: move eye  100 100 0
+12:36:26: debug: rotate: servo eye : pos 523, speed 1000, accelerate 0
+12:36:26: 写入数据失败:  servo: eye, servo id: 2 地址: 32, 写入数据: 1000
+12:36:26: [TxRxResult] Port is in use!
+12:36:26: dxl_comm.send_script() script : move eye  100 100 0  
+12:36:27: debug: 执行脚本: move eye  0 100 0
+12:36:27: debug: rotate: servo eye : pos 382, speed 1000, accelerate 0
+12:36:27: 写入数据失败:  servo: eye, servo id: 2 地址: 32, 写入数据: 1000
+12:36:27: [TxRxResult] Port is in use!
+12:36:27: dxl_comm.send_script() script : move eye  0 100 0  
+12:36:27: debug: 执行脚本: move neckroll  7 36 10
+12:36:27: debug: rotate: servo neckroll : pos 2967, speed 144, accelerate 10
+12:36:27: 写入数据失败:  servo: neckroll, servo id: 5 地址: 73, 写入数据: 10
+12:36:27: [TxRxResult] Port is in use!
+12:36:27: 写入数据失败:  servo: neckroll, servo id: 5 地址: 32, 写入数据: 144
+12:36:27: [TxRxResult] Port is in use!
+12:36:27: dxl_comm.send_script() script : move neckroll  7 36 10  
+12:36:27: debug: 执行脚本: move necknode  60 74 10
+12:36:27: debug: rotate: servo necknode : pos 2018, speed 148, accelerate 10
+12:36:27: 写入数据失败:  servo: necknode, servo id: 4 地址: 73, 写入数据: 10
+12:36:27: [TxRxResult] Port is in use!
+12:36:27: 写入数据失败:  servo: necknode, servo id: 4 地址: 32, 写入数据: 148
+12:36:27: [TxRxResult] Port is in use!
+12:36:27: dxl_comm.send_script() script : move necknode  60 74 10  
+12:36:28: debug: 执行脚本: move eye  50 100 0
+12:36:28: debug: rotate: servo eye : pos 452, speed 1000, accelerate 0
+12:36:28: 写入数据失败:  servo: eye, servo id: 2 地址: 32, 写入数据: 1000
+12:36:28: [TxRxResult] Port is in use!
+12:36:28: dxl_comm.send_script() script : move eye  50 100 0  
+12:36:28: debug: 执行脚本: move neckroll  48 70 10
+12:36:28: debug: rotate: servo neckroll : pos 3462, speed 280, accelerate 10
+12:36:28: 写入数据失败:  servo: neckroll, servo id: 5 地址: 73, 写入数据: 10
+12:36:28: [TxRxResult] Port is in use!
+12:36:28: 写入数据失败:  servo: neckroll, servo id: 5 地址: 32, 写入数据: 280
+12:36:28: [TxRxResult] Port is in use!
+12:36:28: dxl_comm.send_script() script : move neckroll  48 70 10  
+12:36:29: debug: 执行脚本: move necknode  77 35 10
+12:36:29: debug: rotate: servo necknode : pos 2061, speed 70, accelerate 10
+12:36:29: 写入数据失败:  servo: necknode, servo id: 4 地址: 73, 写入数据: 10
+12:36:29: [TxRxResult] Port is in use!
+12:36:29: 写入数据失败:  servo: necknode, servo id: 4 地址: 32, 写入数据: 70
+12:36:29: [TxRxResult] Port is in use!
+12:36:29: dxl_comm.send_script() script : move necknode  77 35 10  
+12:36:29: debug: 执行脚本: move mouth  100 100 0
+12:36:29: debug: rotate: servo mouth : pos 689, speed 1000, accelerate 0
+12:36:29: 写入数据失败:  servo: mouth, servo id: 3 地址: 32, 写入数据: 1000
+12:36:29: [TxRxResult] Port is in use!
+12:36:29: dxl_comm.send_script() script : move mouth  100 100 0  
+12:36:30: debug: 执行脚本: move mouth  0 100 0
+12:36:30: debug: rotate: servo mouth : pos 633, speed 1000, accelerate 0
+12:36:30: 写入数据失败:  servo: mouth, servo id: 3 地址: 32, 写入数据: 1000
+12:36:30: [TxRxResult] Port is in use!
+12:36:30: dxl_comm.send_script() script : move mouth  0 100 0  
+12:36:30: debug: 执行脚本: move neckroll  88 52 10
+12:36:30: debug: rotate: servo neckroll : pos 3946, speed 208, accelerate 10
+12:36:30: 写入数据失败:  servo: neckroll, servo id: 5 地址: 73, 写入数据: 10
+12:36:30: [TxRxResult] Port is in use!
+12:36:30: 写入数据失败:  servo: neckroll, servo id: 5 地址: 32, 写入数据: 208
+12:36:30: [TxRxResult] Port is in use!
+12:36:30: dxl_comm.send_script() script : move neckroll  88 52 10  
+12:36:30: debug: 执行脚本: move necknode  0 62 10
+12:36:30: debug: rotate: servo necknode : pos 1865, speed 124, accelerate 10
+12:36:30: 写入数据失败:  servo: necknode, servo id: 4 地址: 73, 写入数据: 10
+12:36:30: [TxRxResult] Port is in use!
+12:36:30: 写入数据失败:  servo: necknode, servo id: 4 地址: 32, 写入数据: 124
+12:36:30: [TxRxResult] Port is in use!
+12:36:30: dxl_comm.send_script() script : move necknode  0 62 10  
+12:36:31: debug: 执行脚本: move eye  50 100 0
+12:36:31: debug: rotate: servo eye : pos 452, speed 1000, accelerate 0
+12:36:31: 写入数据失败:  servo: eye, servo id: 2 地址: 32, 写入数据: 1000
+12:36:31: [TxRxResult] Port is in use!
+12:36:31: dxl_comm.send_script() script : move eye  50 100 0  
+12:36:31: debug: 执行脚本: move neckroll  67 72 10
+12:36:31: debug: rotate: servo neckroll : pos 3692, speed 288, accelerate 10
+12:36:32: 写入数据失败:  servo: neckroll, servo id: 5 地址: 73, 写入数据: 10
+12:36:32: [TxRxResult] Port is in use!
+12:36:32: 写入数据失败:  servo: neckroll, servo id: 5 地址: 32, 写入数据: 288
+12:36:32: [TxRxResult] Port is in use!
+12:36:32: dxl_comm.send_script() script : move neckroll  67 72 10  
+12:36:32: debug: 执行脚本: move necknode  52 72 10
+12:36:32: debug: rotate: servo necknode : pos 1997, speed 144, accelerate 10
+12:36:32: 写入数据失败:  servo: necknode, servo id: 4 地址: 73, 写入数据: 10
+12:36:32: [TxRxResult] Port is in use!
+12:36:32: 写入数据失败:  servo: necknode, servo id: 4 地址: 32, 写入数据: 144
+12:36:32: [TxRxResult] Port is in use!
+12:36:32: dxl_comm.send_script() script : move necknode  52 72 10  
+12:36:32: debug: 执行脚本: move eye  100 100 0
+12:36:32: debug: rotate: servo eye : pos 523, speed 1000, accelerate 0
+12:36:32: 写入数据失败:  servo: eye, servo id: 2 地址: 32, 写入数据: 1000
+12:36:32: [TxRxResult] Port is in use!
+12:36:32: dxl_comm.send_script() script : move eye  100 100 0  
+12:36:33: debug: 执行脚本: move mouth  100 100 0
+12:36:33: debug: rotate: servo mouth : pos 689, speed 1000, accelerate 0
+12:36:33: 写入数据失败:  servo: mouth, servo id: 3 地址: 32, 写入数据: 1000
+12:36:33: [TxRxResult] Port is in use!
+12:36:33: dxl_comm.send_script() script : move mouth  100 100 0  
+12:36:33: debug: 执行脚本: move mouth  0 100 0
+12:36:33: debug: rotate: servo mouth : pos 633, speed 1000, accelerate 0
+12:36:33: 写入数据失败:  servo: mouth, servo id: 3 地址: 32, 写入数据: 1000
+12:36:33: [TxRxResult] Port is in use!
+12:36:33: dxl_comm.send_script() script : move mouth  0 100 0  
+12:36:34: debug: 执行脚本: move neckroll  4 57 10
+12:36:34: debug: rotate: servo neckroll : pos 2931, speed 228, accelerate 10
+12:36:34: 写入数据失败:  servo: neckroll, servo id: 5 地址: 73, 写入数据: 10
+12:36:34: [TxRxResult] Port is in use!
+12:36:34: 写入数据失败:  servo: neckroll, servo id: 5 地址: 32, 写入数据: 228
+12:36:34: [TxRxResult] Port is in use!
+12:36:34: dxl_comm.send_script() script : move neckroll  4 57 10  
+12:36:34: debug: 执行脚本: move necknode  44 40 10
+12:36:34: debug: rotate: servo necknode : pos 1977, speed 80, accelerate 10
+12:36:34: 写入数据失败:  servo: necknode, servo id: 4 地址: 73, 写入数据: 10
+12:36:34: [TxRxResult] Port is in use!
+12:36:34: 写入数据失败:  servo: necknode, servo id: 4 地址: 32, 写入数据: 80
+12:36:34: [TxRxResult] Port is in use!
+12:36:34: dxl_comm.send_script() script : move necknode  44 40 10  
+12:36:34: debug: 执行脚本: move eye  50 100 0
+12:36:34: debug: rotate: servo eye : pos 452, speed 1000, accelerate 0
+12:36:34: 写入数据失败:  servo: eye, servo id: 2 地址: 32, 写入数据: 1000
+12:36:34: [TxRxResult] Port is in use!
+12:36:34: dxl_comm.send_script() script : move eye  50 100 0  
+12:36:35: debug: 执行脚本: move neckroll  35 33 10
+12:36:35: debug: rotate: servo neckroll : pos 3305, speed 132, accelerate 10
+12:36:35: 写入数据失败:  servo: neckroll, servo id: 5 地址: 73, 写入数据: 10
+12:36:35: [TxRxResult] Port is in use!
+12:36:35: 写入数据失败:  servo: neckroll, servo id: 5 地址: 32, 写入数据: 132
+12:36:35: [TxRxResult] Port is in use!
+12:36:35: dxl_comm.send_script() script : move neckroll  35 33 10  
+12:36:35: debug: 执行脚本: move necknode  55 56 10
+12:36:35: debug: rotate: servo necknode : pos 2005, speed 112, accelerate 10
+12:36:35: 写入数据失败:  servo: necknode, servo id: 4 地址: 73, 写入数据: 10
+12:36:35: [TxRxResult] Port is in use!
+12:36:35: 写入数据失败:  servo: necknode, servo id: 4 地址: 32, 写入数据: 112
+12:36:35: [TxRxResult] Port is in use!
+12:36:35: dxl_comm.send_script() script : move necknode  55 56 10  
+12:36:35: debug: 执行脚本: move neckroll  82 64 10
+12:36:35: debug: rotate: servo neckroll : pos 3873, speed 256, accelerate 10
+12:36:35: 写入数据失败:  servo: neckroll, servo id: 5 地址: 73, 写入数据: 10
+12:36:35: [TxRxResult] Port is in use!
+12:36:35: 写入数据失败:  servo: neckroll, servo id: 5 地址: 32, 写入数据: 256
+12:36:35: [TxRxResult] Port is in use!
+12:36:35: dxl_comm.send_script() script : move neckroll  82 64 10  
+12:36:36: debug: 执行脚本: move necknode  33 34 10
+12:36:36: debug: rotate: servo necknode : pos 1949, speed 68, accelerate 10
+12:36:36: 写入数据失败:  servo: necknode, servo id: 4 地址: 73, 写入数据: 10
+12:36:36: [TxRxResult] Port is in use!
+12:36:36: 写入数据失败:  servo: necknode, servo id: 4 地址: 32, 写入数据: 68
+12:36:36: [TxRxResult] Port is in use!
+12:36:36: dxl_comm.send_script() script : move necknode  33 34 10  
+12:36:36: debug: 执行脚本: move neckroll  79 49 10
+12:36:36: debug: rotate: servo neckroll : pos 3837, speed 196, accelerate 10
+12:36:36: 写入数据失败:  servo: neckroll, servo id: 5 地址: 73, 写入数据: 10
+12:36:36: [TxRxResult] Port is in use!
+12:36:36: 写入数据失败:  servo: neckroll, servo id: 5 地址: 32, 写入数据: 196
+12:36:36: [TxRxResult] Port is in use!
+12:36:36: dxl_comm.send_script() script : move neckroll  79 49 10  
+12:36:36: debug: 执行脚本: move necknode  83 59 10
+12:36:36: debug: rotate: servo necknode : pos 2076, speed 118, accelerate 10
+12:36:36: 写入数据失败:  servo: necknode, servo id: 4 地址: 73, 写入数据: 10
+12:36:36: [TxRxResult] Port is in use!
+12:36:36: 写入数据失败:  servo: necknode, servo id: 4 地址: 32, 写入数据: 118
+12:36:36: [TxRxResult] Port is in use!
+12:36:36: dxl_comm.send_script() script : move necknode  83 59 10  
+12:36:37: debug: 执行脚本: move eyelid  0 100 0
+12:36:37: debug: rotate: servo eyelid : pos 245, speed 1000, accelerate 0
+12:36:37: 写入数据失败:  servo: eyelid, servo id: 1 地址: 32, 写入数据: 1000
+12:36:37: [TxRxResult] Port is in use!
+12:36:37: dxl_comm.send_script() script : move eyelid  0 100 0  
+12:36:37: debug: 执行脚本: move eyelid  100 100 0
+12:36:37: debug: rotate: servo eyelid : pos 382, speed 1000, accelerate 0
+12:36:37: 写入数据失败:  servo: eyelid, servo id: 1 地址: 32, 写入数据: 1000
+12:36:37: [TxRxResult] Port is in use!
+12:36:37: dxl_comm.send_script() script : move eyelid  100 100 0  
+12:36:38: debug: 执行脚本: move eyelid  0 100 0
+12:36:38: debug: rotate: servo eyelid : pos 245, speed 1000, accelerate 0
+12:36:38: 写入数据失败:  servo: eyelid, servo id: 1 地址: 32, 写入数据: 1000
+12:36:38: [TxRxResult] Port is in use!
+12:36:38: dxl_comm.send_script() script : move eyelid  0 100 0  
+12:36:38: debug: 执行脚本: move eye  100 100 0
+12:36:38: debug: rotate: servo eye : pos 523, speed 1000, accelerate 0
+12:36:38: 写入数据失败:  servo: eye, servo id: 2 地址: 32, 写入数据: 1000
+12:36:38: [TxRxResult] Port is in use!
+12:36:38: dxl_comm.send_script() script : move eye  100 100 0  
+12:36:39: debug: 执行脚本: move eye  50 100 0
+12:36:39: debug: rotate: servo eye : pos 452, speed 1000, accelerate 0
+12:36:39: 写入数据失败:  servo: eye, servo id: 2 地址: 32, 写入数据: 1000
+12:36:39: [TxRxResult] Port is in use!
+12:36:39: dxl_comm.send_script() script : move eye  50 100 0  
+12:36:39: debug: 执行脚本: move eye  50 100 0
+12:36:39: debug: rotate: servo eye : pos 452, speed 1000, accelerate 0
+12:36:39: 写入数据失败:  servo: eye, servo id: 2 地址: 32, 写入数据: 1000
+12:36:39: [TxRxResult] Port is in use!
+12:36:39: dxl_comm.send_script() script : move eye  50 100 0  
+12:36:40: debug: 执行脚本: move eye  50 100 0
+12:36:40: debug: rotate: servo eye : pos 452, speed 1000, accelerate 0
+12:36:40: 写入数据失败:  servo: eye, servo id: 2 地址: 32, 写入数据: 1000
+12:36:40: [TxRxResult] Port is in use!
+12:36:40: dxl_comm.send_script() script : move eye  50 100 0  
+12:36:41: debug: 执行脚本: move eye  50 100 0
+12:36:41: debug: rotate: servo eye : pos 452, speed 1000, accelerate 0
+12:36:41: 写入数据失败:  servo: eye, servo id: 2 地址: 32, 写入数据: 1000
+12:36:41: [TxRxResult] Port is in use!
+12:36:41: dxl_comm.send_script() script : move eye  50 100 0  
+12:36:41: debug: 执行脚本: move neckroll  19 33 10
+12:36:41: debug: rotate: servo neckroll : pos 3112, speed 132, accelerate 10
+12:36:41: 写入数据失败:  servo: neckroll, servo id: 5 地址: 73, 写入数据: 10
+12:36:41: [TxRxResult] Port is in use!
+12:36:41: 写入数据失败:  servo: neckroll, servo id: 5 地址: 32, 写入数据: 132
+12:36:41: [TxRxResult] Port is in use!
+12:36:41: dxl_comm.send_script() script : move neckroll  19 33 10  
+12:36:41: debug: 执行脚本: move necknode  93 52 10
+12:36:41: debug: rotate: servo necknode : pos 2102, speed 104, accelerate 10
+12:36:41: 写入数据失败:  servo: necknode, servo id: 4 地址: 73, 写入数据: 10
+12:36:41: [TxRxResult] Port is in use!
+12:36:41: 写入数据失败:  servo: necknode, servo id: 4 地址: 32, 写入数据: 104
+12:36:41: [TxRxResult] Port is in use!
+12:36:41: dxl_comm.send_script() script : move necknode  93 52 10  
+12:36:42: debug: 执行脚本: move neckroll  51 68 10
+12:36:42: debug: rotate: servo neckroll : pos 3499, speed 272, accelerate 10
+12:36:42: 写入数据失败:  servo: neckroll, servo id: 5 地址: 73, 写入数据: 10
+12:36:42: [TxRxResult] Port is in use!
+12:36:42: 写入数据失败:  servo: neckroll, servo id: 5 地址: 32, 写入数据: 272
+12:36:42: [TxRxResult] Port is in use!
+12:36:42: dxl_comm.send_script() script : move neckroll  51 68 10  
+12:36:42: debug: 执行脚本: move necknode  70 68 10
+12:36:42: debug: rotate: servo necknode : pos 2043, speed 136, accelerate 10
+12:36:42: 写入数据失败:  servo: necknode, servo id: 4 地址: 73, 写入数据: 10
+12:36:42: [TxRxResult] Port is in use!
+12:36:42: 写入数据失败:  servo: necknode, servo id: 4 地址: 32, 写入数据: 136
+12:36:42: [TxRxResult] Port is in use!
+12:36:42: dxl_comm.send_script() script : move necknode  70 68 10  
+12:36:42: debug: 执行脚本: move eye  100 100 0
+12:36:42: debug: rotate: servo eye : pos 523, speed 1000, accelerate 0
+12:36:42: 写入数据失败:  servo: eye, servo id: 2 地址: 32, 写入数据: 1000
+12:36:42: [TxRxResult] Port is in use!
+12:36:42: dxl_comm.send_script() script : move eye  100 100 0  
+12:36:43: debug: 执行脚本: move neckroll  21 41 10
+12:36:43: debug: rotate: servo neckroll : pos 3136, speed 164, accelerate 10
+12:36:43: 写入数据失败:  servo: neckroll, servo id: 5 地址: 73, 写入数据: 10
+12:36:43: [TxRxResult] Port is in use!
+12:36:43: 写入数据失败:  servo: neckroll, servo id: 5 地址: 32, 写入数据: 164
+12:36:43: [TxRxResult] Port is in use!
+12:36:43: dxl_comm.send_script() script : move neckroll  21 41 10  
+12:36:43: debug: 执行脚本: move necknode  72 65 10
+12:36:43: debug: rotate: servo necknode : pos 2048, speed 130, accelerate 10
+12:36:43: 写入数据失败:  servo: necknode, servo id: 4 地址: 73, 写入数据: 10
+12:36:43: [TxRxResult] Port is in use!
+12:36:43: 写入数据失败:  servo: necknode, servo id: 4 地址: 32, 写入数据: 130
+12:36:43: [TxRxResult] Port is in use!
+12:36:43: dxl_comm.send_script() script : move necknode  72 65 10  
+12:36:44: debug: 执行脚本: move neckroll  35 44 10
+12:36:44: debug: rotate: servo neckroll : pos 3305, speed 176, accelerate 10
+12:36:44: 写入数据失败:  servo: neckroll, servo id: 5 地址: 73, 写入数据: 10
+12:36:44: [TxRxResult] Port is in use!
+12:36:44: 写入数据失败:  servo: neckroll, servo id: 5 地址: 32, 写入数据: 176
+12:36:44: [TxRxResult] Port is in use!
+12:36:44: dxl_comm.send_script() script : move neckroll  35 44 10  
+12:36:44: debug: 执行脚本: move necknode  42 52 10
+12:36:44: debug: rotate: servo necknode : pos 1972, speed 104, accelerate 10
+12:36:44: 写入数据失败:  servo: necknode, servo id: 4 地址: 73, 写入数据: 10
+12:36:44: [TxRxResult] Port is in use!
+12:36:44: 写入数据失败:  servo: necknode, servo id: 4 地址: 32, 写入数据: 104
+12:36:44: [TxRxResult] Port is in use!
+12:36:44: dxl_comm.send_script() script : move necknode  42 52 10  
+12:36:44: debug: 执行脚本: move mouth  100 100 0
+12:36:44: debug: rotate: servo mouth : pos 689, speed 1000, accelerate 0
+12:36:44: 写入数据失败:  servo: mouth, servo id: 3 地址: 32, 写入数据: 1000
+12:36:44: [TxRxResult] Port is in use!
+12:36:44: dxl_comm.send_script() script : move mouth  100 100 0  
+12:36:45: debug: 执行脚本: move mouth  0 100 0
+12:36:45: debug: rotate: servo mouth : pos 633, speed 1000, accelerate 0
+12:36:45: 写入数据失败:  servo: mouth, servo id: 3 地址: 32, 写入数据: 1000
+12:36:45: [TxRxResult] Port is in use!
+12:36:45: dxl_comm.send_script() script : move mouth  0 100 0  
+12:36:45: debug: 执行脚本: move neckroll  58 50 10
+12:36:45: debug: rotate: servo neckroll : pos 3583, speed 200, accelerate 10
+12:36:45: 写入数据失败:  servo: neckroll, servo id: 5 地址: 73, 写入数据: 10
+12:36:45: [TxRxResult] Port is in use!
+12:36:45: 写入数据失败:  servo: neckroll, servo id: 5 地址: 32, 写入数据: 200
+12:36:45: [TxRxResult] Port is in use!
+12:36:45: dxl_comm.send_script() script : move neckroll  58 50 10  
+12:36:45: debug: 执行脚本: move necknode  27 72 10
+12:36:45: debug: rotate: servo necknode : pos 1933, speed 144, accelerate 10
+12:36:45: 写入数据失败:  servo: necknode, servo id: 4 地址: 73, 写入数据: 10
+12:36:45: [TxRxResult] Port is in use!
+12:36:45: 写入数据失败:  servo: necknode, servo id: 4 地址: 32, 写入数据: 144
+12:36:45: [TxRxResult] Port is in use!
+12:36:45: dxl_comm.send_script() script : move necknode  27 72 10  
+12:36:46: debug: 执行脚本: move neckroll  51 54 10
+12:36:46: debug: rotate: servo neckroll : pos 3499, speed 216, accelerate 10
+12:36:46: 写入数据失败:  servo: neckroll, servo id: 5 地址: 73, 写入数据: 10
+12:36:46: [TxRxResult] Port is in use!
+12:36:46: 写入数据失败:  servo: neckroll, servo id: 5 地址: 32, 写入数据: 216
+12:36:46: [TxRxResult] Port is in use!
+12:36:46: dxl_comm.send_script() script : move neckroll  51 54 10  
+12:36:46: debug: 执行脚本: move necknode  72 79 10
+12:36:46: debug: rotate: servo necknode : pos 2048, speed 158, accelerate 10
+12:36:46: 写入数据失败:  servo: necknode, servo id: 4 地址: 73, 写入数据: 10
+12:36:46: [TxRxResult] Port is in use!
+12:36:46: 写入数据失败:  servo: necknode, servo id: 4 地址: 32, 写入数据: 158
+12:36:46: [TxRxResult] Port is in use!
+12:36:46: dxl_comm.send_script() script : move necknode  72 79 10  
+12:36:46: debug: 执行脚本: move neckroll  80 32 10
+12:36:46: debug: rotate: servo neckroll : pos 3849, speed 128, accelerate 10
+12:36:46: 写入数据失败:  servo: neckroll, servo id: 5 地址: 73, 写入数据: 10
+12:36:46: [TxRxResult] Port is in use!
+12:36:46: 写入数据失败:  servo: neckroll, servo id: 5 地址: 32, 写入数据: 128
+12:36:46: [TxRxResult] Port is in use!
+12:36:46: dxl_comm.send_script() script : move neckroll  80 32 10  
+12:36:47: debug: 执行脚本: move necknode  77 74 10
+12:36:47: debug: rotate: servo necknode : pos 2061, speed 148, accelerate 10
+12:36:47: 写入数据失败:  servo: necknode, servo id: 4 地址: 73, 写入数据: 10
+12:36:47: [TxRxResult] Port is in use!
+12:36:47: 写入数据失败:  servo: necknode, servo id: 4 地址: 32, 写入数据: 148
+12:36:47: [TxRxResult] Port is in use!
+12:36:47: dxl_comm.send_script() script : move necknode  77 74 10  
+12:36:47: debug: 执行脚本: move neckroll  72 66 10
+12:36:47: debug: rotate: servo neckroll : pos 3752, speed 264, accelerate 10
+12:36:47: 写入数据失败:  servo: neckroll, servo id: 5 地址: 73, 写入数据: 10
+12:36:47: [TxRxResult] Port is in use!
+12:36:47: 写入数据失败:  servo: neckroll, servo id: 5 地址: 32, 写入数据: 264
+12:36:47: [TxRxResult] Port is in use!
+12:36:47: dxl_comm.send_script() script : move neckroll  72 66 10  
+12:36:47: debug: 执行脚本: move necknode  74 31 10
+12:36:47: debug: rotate: servo necknode : pos 2053, speed 62, accelerate 10
+12:36:47: 写入数据失败:  servo: necknode, servo id: 4 地址: 73, 写入数据: 10
+12:36:47: [TxRxResult] Port is in use!
+12:36:47: 写入数据失败:  servo: necknode, servo id: 4 地址: 32, 写入数据: 62
+12:36:47: [TxRxResult] Port is in use!
+12:36:47: dxl_comm.send_script() script : move necknode  74 31 10  
+12:36:48: debug: 执行脚本: move eye  50 100 0
+12:36:48: debug: rotate: servo eye : pos 452, speed 1000, accelerate 0
+12:36:48: 写入数据失败:  servo: eye, servo id: 2 地址: 32, 写入数据: 1000
+12:36:48: [TxRxResult] Port is in use!
+12:36:48: dxl_comm.send_script() script : move eye  50 100 0  
+12:36:48: debug: 执行脚本: move eyelid  0 100 0
+12:36:48: debug: rotate: servo eyelid : pos 245, speed 1000, accelerate 0
+12:36:48: 写入数据失败:  servo: eyelid, servo id: 1 地址: 32, 写入数据: 1000
+12:36:48: [TxRxResult] Port is in use!
+12:36:48: dxl_comm.send_script() script : move eyelid  0 100 0  
+12:36:49: debug: 执行脚本: move eyelid  100 100 0
+12:36:49: debug: rotate: servo eyelid : pos 382, speed 1000, accelerate 0
+12:36:49: 写入数据失败:  servo: eyelid, servo id: 1 地址: 32, 写入数据: 1000
+12:36:49: [TxRxResult] Port is in use!
+12:36:49: dxl_comm.send_script() script : move eyelid  100 100 0  
+12:36:49: debug: 执行脚本: move eyelid  0 100 0
+12:36:49: debug: rotate: servo eyelid : pos 245, speed 1000, accelerate 0
+12:36:49: 写入数据失败:  servo: eyelid, servo id: 1 地址: 32, 写入数据: 1000
+12:36:49: [TxRxResult] Port is in use!
+12:36:49: dxl_comm.send_script() script : move eyelid  0 100 0  
+12:36:50: debug: 执行脚本: move neckroll  65 61 10
+12:36:50: debug: rotate: servo neckroll : pos 3668, speed 244, accelerate 10
+12:36:50: 写入数据失败:  servo: neckroll, servo id: 5 地址: 73, 写入数据: 10
+12:36:50: [TxRxResult] Port is in use!
+12:36:50: 写入数据失败:  servo: neckroll, servo id: 5 地址: 32, 写入数据: 244
+12:36:50: [TxRxResult] Port is in use!
+12:36:50: dxl_comm.send_script() script : move neckroll  65 61 10  
+12:36:50: debug: 执行脚本: move necknode  99 40 10
+12:36:50: debug: rotate: servo necknode : pos 2117, speed 80, accelerate 10
+12:36:50: 写入数据失败:  servo: necknode, servo id: 4 地址: 73, 写入数据: 10
+12:36:50: [TxRxResult] Port is in use!
+12:36:50: 写入数据失败:  servo: necknode, servo id: 4 地址: 32, 写入数据: 80
+12:36:50: [TxRxResult] Port is in use!
+12:36:50: dxl_comm.send_script() script : move necknode  99 40 10  
+12:36:50: debug: 执行脚本: move neckroll  48 63 10
+12:36:50: debug: rotate: servo neckroll : pos 3462, speed 252, accelerate 10
+12:36:50: 写入数据失败:  servo: neckroll, servo id: 5 地址: 73, 写入数据: 10
+12:36:50: [TxRxResult] Port is in use!
+12:36:50: 写入数据失败:  servo: neckroll, servo id: 5 地址: 32, 写入数据: 252
+12:36:50: [TxRxResult] Port is in use!
+12:36:50: dxl_comm.send_script() script : move neckroll  48 63 10  
+12:36:51: debug: 执行脚本: move necknode  28 53 10
+12:36:51: debug: rotate: servo necknode : pos 1936, speed 106, accelerate 10
+12:36:51: 写入数据失败:  servo: necknode, servo id: 4 地址: 73, 写入数据: 10
+12:36:51: [TxRxResult] Port is in use!
+12:36:51: 写入数据失败:  servo: necknode, servo id: 4 地址: 32, 写入数据: 106
+12:36:51: [TxRxResult] Port is in use!
+12:36:51: dxl_comm.send_script() script : move necknode  28 53 10  
+12:36:51: debug: 执行脚本: move eye  100 100 0
+12:36:51: debug: rotate: servo eye : pos 523, speed 1000, accelerate 0
+12:36:51: 写入数据失败:  servo: eye, servo id: 2 地址: 32, 写入数据: 1000
+12:36:51: [TxRxResult] Port is in use!
+12:36:51: dxl_comm.send_script() script : move eye  100 100 0  
+12:36:52: debug: 执行脚本: move neckroll  18 41 10
+12:36:52: debug: rotate: servo neckroll : pos 3100, speed 164, accelerate 10
+12:36:52: 写入数据失败:  servo: neckroll, servo id: 5 地址: 73, 写入数据: 10
+12:36:52: [TxRxResult] Port is in use!
+12:36:52: 写入数据失败:  servo: neckroll, servo id: 5 地址: 32, 写入数据: 164
+12:36:52: [TxRxResult] Port is in use!
+12:36:52: dxl_comm.send_script() script : move neckroll  18 41 10  
+12:36:52: debug: 执行脚本: move necknode  73 66 10
+12:36:52: debug: rotate: servo necknode : pos 2051, speed 132, accelerate 10
+12:36:52: 写入数据失败:  servo: necknode, servo id: 4 地址: 73, 写入数据: 10
+12:36:52: [TxRxResult] Port is in use!
+12:36:52: 写入数据失败:  servo: necknode, servo id: 4 地址: 32, 写入数据: 132
+12:36:52: [TxRxResult] Port is in use!
+12:36:52: dxl_comm.send_script() script : move necknode  73 66 10  
+12:36:52: debug: 执行脚本: move eyelid  0 100 0
+12:36:52: debug: rotate: servo eyelid : pos 245, speed 1000, accelerate 0
+12:36:52: 写入数据失败:  servo: eyelid, servo id: 1 地址: 32, 写入数据: 1000
+12:36:52: [TxRxResult] Port is in use!
+12:36:52: dxl_comm.send_script() script : move eyelid  0 100 0  
+12:36:53: debug: 执行脚本: move eyelid  100 100 0
+12:36:53: debug: rotate: servo eyelid : pos 382, speed 1000, accelerate 0
+12:36:53: 写入数据失败:  servo: eyelid, servo id: 1 地址: 32, 写入数据: 1000
+12:36:53: [TxRxResult] Port is in use!
+12:36:53: dxl_comm.send_script() script : move eyelid  100 100 0  
+12:36:53: debug: 执行脚本: move eyelid  0 100 0
+12:36:53: debug: rotate: servo eyelid : pos 245, speed 1000, accelerate 0
+12:36:53: 写入数据失败:  servo: eyelid, servo id: 1 地址: 32, 写入数据: 1000
+12:36:53: [TxRxResult] Port is in use!
+12:36:53: dxl_comm.send_script() script : move eyelid  0 100 0  
+12:36:54: debug: 执行脚本: move eye  50 100 0
+12:36:54: debug: rotate: servo eye : pos 452, speed 1000, accelerate 0
+12:36:54: 写入数据失败:  servo: eye, servo id: 2 地址: 32, 写入数据: 1000
+12:36:54: [TxRxResult] Port is in use!
+12:36:54: dxl_comm.send_script() script : move eye  50 100 0  
+12:36:54: debug: 执行脚本: move neckroll  55 55 10
+12:36:54: debug: rotate: servo neckroll : pos 3547, speed 220, accelerate 10
+12:36:54: 写入数据失败:  servo: neckroll, servo id: 5 地址: 73, 写入数据: 10
+12:36:54: [TxRxResult] Port is in use!
+12:36:54: 写入数据失败:  servo: neckroll, servo id: 5 地址: 32, 写入数据: 220
+12:36:54: [TxRxResult] Port is in use!
+12:36:54: dxl_comm.send_script() script : move neckroll  55 55 10  
+12:36:55: debug: 执行脚本: move necknode  69 58 10
+12:36:55: debug: rotate: servo necknode : pos 2040, speed 116, accelerate 10
+12:36:55: 写入数据失败:  servo: necknode, servo id: 4 地址: 73, 写入数据: 10
+12:36:55: [TxRxResult] Port is in use!
+12:36:55: 写入数据失败:  servo: necknode, servo id: 4 地址: 32, 写入数据: 116
+12:36:55: [TxRxResult] Port is in use!
+12:36:55: dxl_comm.send_script() script : move necknode  69 58 10  
+12:36:55: debug: 执行脚本: move eye  50 100 0
+12:36:55: debug: rotate: servo eye : pos 452, speed 1000, accelerate 0
+12:36:55: 写入数据失败:  servo: eye, servo id: 2 地址: 32, 写入数据: 1000
+12:36:55: [TxRxResult] Port is in use!
+12:36:55: dxl_comm.send_script() script : move eye  50 100 0  
+12:36:55: debug: 执行脚本: move neckroll  93 67 10
+12:36:55: debug: rotate: servo neckroll : pos 4006, speed 268, accelerate 10
+12:36:56: 写入数据失败:  servo: neckroll, servo id: 5 地址: 73, 写入数据: 10
+12:36:56: [TxRxResult] Port is in use!
+12:36:56: 写入数据失败:  servo: neckroll, servo id: 5 地址: 32, 写入数据: 268
+12:36:56: [TxRxResult] Port is in use!
+12:36:56: dxl_comm.send_script() script : move neckroll  93 67 10  
+12:36:56: debug: 执行脚本: move necknode  88 46 10
+12:36:56: debug: rotate: servo necknode : pos 2089, speed 92, accelerate 10
+12:36:56: 写入数据失败:  servo: necknode, servo id: 4 地址: 73, 写入数据: 10
+12:36:56: [TxRxResult] Port is in use!
+12:36:56: 写入数据失败:  servo: necknode, servo id: 4 地址: 32, 写入数据: 92
+12:36:56: [TxRxResult] Port is in use!
+12:36:56: dxl_comm.send_script() script : move necknode  88 46 10  
+12:36:56: debug: 执行脚本: move neckroll  26 78 10
+12:36:56: debug: rotate: servo neckroll : pos 3197, speed 312, accelerate 10
+12:36:56: 写入数据失败:  servo: neckroll, servo id: 5 地址: 73, 写入数据: 10
+12:36:56: [TxRxResult] Port is in use!
+12:36:56: 写入数据失败:  servo: neckroll, servo id: 5 地址: 32, 写入数据: 312
+12:36:56: [TxRxResult] Port is in use!
+12:36:56: dxl_comm.send_script() script : move neckroll  26 78 10  
+12:36:56: debug: 执行脚本: move necknode  59 67 10
+12:36:56: debug: rotate: servo necknode : pos 2015, speed 134, accelerate 10
+12:36:56: 写入数据失败:  servo: necknode, servo id: 4 地址: 73, 写入数据: 10
+12:36:56: [TxRxResult] Port is in use!
+12:36:56: 写入数据失败:  servo: necknode, servo id: 4 地址: 32, 写入数据: 134
+12:36:56: [TxRxResult] Port is in use!
+12:36:56: dxl_comm.send_script() script : move necknode  59 67 10  
+12:36:57: debug: 执行脚本: move eye  50 100 0
+12:36:57: debug: rotate: servo eye : pos 452, speed 1000, accelerate 0
+12:36:57: 写入数据失败:  servo: eye, servo id: 2 地址: 32, 写入数据: 1000
+12:36:57: [TxRxResult] Port is in use!
+12:36:57: dxl_comm.send_script() script : move eye  50 100 0  
+12:36:57: debug: 执行脚本: move eye  0 100 0
+12:36:57: debug: rotate: servo eye : pos 382, speed 1000, accelerate 0
+12:36:57: 写入数据失败:  servo: eye, servo id: 2 地址: 32, 写入数据: 1000
+12:36:57: [TxRxResult] Port is in use!
+12:36:57: dxl_comm.send_script() script : move eye  0 100 0  
+12:36:58: debug: 执行脚本: move neckroll  24 68 10
+12:36:58: debug: rotate: servo neckroll : pos 3172, speed 272, accelerate 10
+12:36:58: 写入数据失败:  servo: neckroll, servo id: 5 地址: 73, 写入数据: 10
+12:36:58: [TxRxResult] Port is in use!
+12:36:58: 写入数据失败:  servo: neckroll, servo id: 5 地址: 32, 写入数据: 272
+12:36:58: [TxRxResult] Port is in use!
+12:36:58: dxl_comm.send_script() script : move neckroll  24 68 10  
+12:36:58: debug: 执行脚本: move necknode  47 45 10
+12:36:58: debug: rotate: servo necknode : pos 1984, speed 90, accelerate 10
+12:36:58: 写入数据失败:  servo: necknode, servo id: 4 地址: 73, 写入数据: 10
+12:36:58: [TxRxResult] Port is in use!
+12:36:58: 写入数据失败:  servo: necknode, servo id: 4 地址: 32, 写入数据: 90
+12:36:58: [TxRxResult] Port is in use!
+12:36:58: dxl_comm.send_script() script : move necknode  47 45 10  
+12:36:58: debug: 执行脚本: move eye  100 100 0
+12:36:58: debug: rotate: servo eye : pos 523, speed 1000, accelerate 0
+12:36:58: 写入数据失败:  servo: eye, servo id: 2 地址: 32, 写入数据: 1000
+12:36:58: [TxRxResult] Port is in use!
+12:36:58: dxl_comm.send_script() script : move eye  100 100 0  
+12:36:59: debug: 执行脚本: move eye  0 100 0
+12:36:59: debug: rotate: servo eye : pos 382, speed 1000, accelerate 0
+12:36:59: 写入数据失败:  servo: eye, servo id: 2 地址: 32, 写入数据: 1000
+12:36:59: [TxRxResult] Port is in use!
+12:36:59: dxl_comm.send_script() script : move eye  0 100 0  
+12:37:00: debug: 执行脚本: move neckroll  82 48 10
+12:37:00: debug: rotate: servo neckroll : pos 3873, speed 192, accelerate 10
+12:37:00: 写入数据失败:  servo: neckroll, servo id: 5 地址: 73, 写入数据: 10
+12:37:00: [TxRxResult] Port is in use!
+12:37:00: 写入数据失败:  servo: neckroll, servo id: 5 地址: 32, 写入数据: 192
+12:37:00: [TxRxResult] Port is in use!
+12:37:00: dxl_comm.send_script() script : move neckroll  82 48 10  
+12:37:00: debug: 执行脚本: move necknode  84 74 10
+12:37:00: debug: rotate: servo necknode : pos 2079, speed 148, accelerate 10
+12:37:00: 写入数据失败:  servo: necknode, servo id: 4 地址: 73, 写入数据: 10
+12:37:00: [TxRxResult] Port is in use!
+12:37:00: 写入数据失败:  servo: necknode, servo id: 4 地址: 32, 写入数据: 148
+12:37:00: [TxRxResult] Port is in use!
+12:37:00: dxl_comm.send_script() script : move necknode  84 74 10  
+12:37:00: debug: 执行脚本: move neckroll  81 34 10
+12:37:00: debug: rotate: servo neckroll : pos 3861, speed 136, accelerate 10
+12:37:00: 写入数据失败:  servo: neckroll, servo id: 5 地址: 73, 写入数据: 10
+12:37:00: [TxRxResult] Port is in use!
+12:37:00: 写入数据失败:  servo: neckroll, servo id: 5 地址: 32, 写入数据: 136
+12:37:00: [TxRxResult] Port is in use!
+12:37:00: dxl_comm.send_script() script : move neckroll  81 34 10  
+12:37:01: debug: 执行脚本: move necknode  21 33 10
+12:37:01: debug: rotate: servo necknode : pos 1918, speed 66, accelerate 10
+12:37:01: 写入数据失败:  servo: necknode, servo id: 4 地址: 73, 写入数据: 10
+12:37:01: [TxRxResult] Port is in use!
+12:37:01: 写入数据失败:  servo: necknode, servo id: 4 地址: 32, 写入数据: 66
+12:37:01: [TxRxResult] Port is in use!
+12:37:01: dxl_comm.send_script() script : move necknode  21 33 10  
+12:37:01: debug: 执行脚本: move neckroll  39 78 10
+12:37:01: debug: rotate: servo neckroll : pos 3354, speed 312, accelerate 10
+12:37:01: 写入数据失败:  servo: neckroll, servo id: 5 地址: 73, 写入数据: 10
+12:37:01: [TxRxResult] Port is in use!
+12:37:01: 写入数据失败:  servo: neckroll, servo id: 5 地址: 32, 写入数据: 312
+12:37:01: [TxRxResult] Port is in use!
+12:37:01: dxl_comm.send_script() script : move neckroll  39 78 10  
+12:37:01: debug: 执行脚本: move necknode  28 40 10
+12:37:01: debug: rotate: servo necknode : pos 1936, speed 80, accelerate 10
+12:37:01: 写入数据失败:  servo: necknode, servo id: 4 地址: 73, 写入数据: 10
+12:37:01: [TxRxResult] Port is in use!
+12:37:01: 写入数据失败:  servo: necknode, servo id: 4 地址: 32, 写入数据: 80
+12:37:01: [TxRxResult] Port is in use!
+12:37:01: dxl_comm.send_script() script : move necknode  28 40 10  
+12:37:01: debug: 执行脚本: move eyelid  0 100 0
+12:37:01: debug: rotate: servo eyelid : pos 245, speed 1000, accelerate 0
+12:37:01: 写入数据失败:  servo: eyelid, servo id: 1 地址: 32, 写入数据: 1000
+12:37:01: [TxRxResult] Port is in use!
+12:37:01: dxl_comm.send_script() script : move eyelid  0 100 0  
+12:37:02: debug: 执行脚本: move eyelid  100 100 0
+12:37:02: debug: rotate: servo eyelid : pos 382, speed 1000, accelerate 0
+12:37:02: 写入数据失败:  servo: eyelid, servo id: 1 地址: 32, 写入数据: 1000
+12:37:02: [TxRxResult] Port is in use!
+12:37:02: dxl_comm.send_script() script : move eyelid  100 100 0  
+12:37:02: debug: 执行脚本: move eyelid  0 100 0
+12:37:02: debug: rotate: servo eyelid : pos 245, speed 1000, accelerate 0
+12:37:02: 写入数据失败:  servo: eyelid, servo id: 1 地址: 32, 写入数据: 1000
+12:37:02: [TxRxResult] Port is in use!
+12:37:02: dxl_comm.send_script() script : move eyelid  0 100 0  
+12:37:03: debug: 执行脚本: move eye  100 100 0
+12:37:03: debug: rotate: servo eye : pos 523, speed 1000, accelerate 0
+12:37:03: 写入数据失败:  servo: eye, servo id: 2 地址: 32, 写入数据: 1000
+12:37:03: [TxRxResult] Port is in use!
+12:37:03: dxl_comm.send_script() script : move eye  100 100 0  
+12:37:04: debug: 执行脚本: move eyelid  0 100 0
+12:37:04: debug: rotate: servo eyelid : pos 245, speed 1000, accelerate 0
+12:37:04: 写入数据失败:  servo: eyelid, servo id: 1 地址: 32, 写入数据: 1000
+12:37:04: [TxRxResult] Port is in use!
+12:37:04: dxl_comm.send_script() script : move eyelid  0 100 0  
+12:37:04: debug: 执行脚本: move eyelid  100 100 0
+12:37:04: debug: rotate: servo eyelid : pos 382, speed 1000, accelerate 0
+12:37:04: 写入数据失败:  servo: eyelid, servo id: 1 地址: 32, 写入数据: 1000
+12:37:04: [TxRxResult] Port is in use!
+12:37:04: dxl_comm.send_script() script : move eyelid  100 100 0  
+12:37:05: debug: 执行脚本: move eyelid  0 100 0
+12:37:05: debug: rotate: servo eyelid : pos 245, speed 1000, accelerate 0
+12:37:05: 写入数据失败:  servo: eyelid, servo id: 1 地址: 32, 写入数据: 1000
+12:37:05: [TxRxResult] Port is in use!
+12:37:05: dxl_comm.send_script() script : move eyelid  0 100 0  
+12:37:05: debug: 执行脚本: move eye  100 100 0
+12:37:05: debug: rotate: servo eye : pos 523, speed 1000, accelerate 0
+12:37:05: 写入数据失败:  servo: eye, servo id: 2 地址: 32, 写入数据: 1000
+12:37:05: [TxRxResult] Port is in use!
+12:37:05: dxl_comm.send_script() script : move eye  100 100 0  
+12:37:06: debug: 执行脚本: move neckroll  84 62 10
+12:37:06: debug: rotate: servo neckroll : pos 3897, speed 248, accelerate 10
+12:37:06: 写入数据失败:  servo: neckroll, servo id: 5 地址: 73, 写入数据: 10
+12:37:06: [TxRxResult] Port is in use!
+12:37:06: 写入数据失败:  servo: neckroll, servo id: 5 地址: 32, 写入数据: 248
+12:37:06: [TxRxResult] Port is in use!
+12:37:06: dxl_comm.send_script() script : move neckroll  84 62 10  
+12:37:06: debug: 执行脚本: move necknode  2 43 10
+12:37:06: debug: rotate: servo necknode : pos 1870, speed 86, accelerate 10
+12:37:06: 写入数据失败:  servo: necknode, servo id: 4 地址: 73, 写入数据: 10
+12:37:06: [TxRxResult] Port is in use!
+12:37:06: 写入数据失败:  servo: necknode, servo id: 4 地址: 32, 写入数据: 86
+12:37:06: [TxRxResult] Port is in use!
+12:37:06: dxl_comm.send_script() script : move necknode  2 43 10  
+12:37:06: debug: 执行脚本: move mouth  100 100 0
+12:37:06: debug: rotate: servo mouth : pos 689, speed 1000, accelerate 0
+12:37:06: 写入数据失败:  servo: mouth, servo id: 3 地址: 32, 写入数据: 1000
+12:37:06: [TxRxResult] Port is in use!
+12:37:06: dxl_comm.send_script() script : move mouth  100 100 0  
+12:37:07: debug: 执行脚本: move mouth  0 100 0
+12:37:07: debug: rotate: servo mouth : pos 633, speed 1000, accelerate 0
+12:37:07: 写入数据失败:  servo: mouth, servo id: 3 地址: 32, 写入数据: 1000
+12:37:07: [TxRxResult] Port is in use!
+12:37:07: dxl_comm.send_script() script : move mouth  0 100 0  
+12:37:07: debug: 执行脚本: move eye  50 100 0
+12:37:07: debug: rotate: servo eye : pos 452, speed 1000, accelerate 0
+12:37:07: 写入数据失败:  servo: eye, servo id: 2 地址: 32, 写入数据: 1000
+12:37:07: [TxRxResult] Port is in use!
+12:37:07: dxl_comm.send_script() script : move eye  50 100 0  
+12:37:08: debug: 执行脚本: move neckroll  14 30 10
+12:37:08: debug: rotate: servo neckroll : pos 3052, speed 120, accelerate 10
+12:37:08: 写入数据失败:  servo: neckroll, servo id: 5 地址: 73, 写入数据: 10
+12:37:08: [TxRxResult] Port is in use!
+12:37:08: 写入数据失败:  servo: neckroll, servo id: 5 地址: 32, 写入数据: 120
+12:37:08: [TxRxResult] Port is in use!
+12:37:08: dxl_comm.send_script() script : move neckroll  14 30 10  
+12:37:08: debug: 执行脚本: move necknode  12 78 10
+12:37:08: debug: rotate: servo necknode : pos 1895, speed 156, accelerate 10
+12:37:08: 写入数据失败:  servo: necknode, servo id: 4 地址: 73, 写入数据: 10
+12:37:08: [TxRxResult] Port is in use!
+12:37:08: 写入数据失败:  servo: necknode, servo id: 4 地址: 32, 写入数据: 156
+12:37:08: [TxRxResult] Port is in use!
+12:37:08: dxl_comm.send_script() script : move necknode  12 78 10  
+12:37:09: debug: 执行脚本: move neckroll  51 35 10
+12:37:09: debug: rotate: servo neckroll : pos 3499, speed 140, accelerate 10
+12:37:09: 写入数据失败:  servo: neckroll, servo id: 5 地址: 73, 写入数据: 10
+12:37:09: [TxRxResult] Port is in use!
+12:37:09: 写入数据失败:  servo: neckroll, servo id: 5 地址: 32, 写入数据: 140
+12:37:09: [TxRxResult] Port is in use!
+12:37:09: dxl_comm.send_script() script : move neckroll  51 35 10  
+12:37:09: debug: 执行脚本: move necknode  8 50 10
+12:37:09: debug: rotate: servo necknode : pos 1885, speed 100, accelerate 10
+12:37:09: 写入数据失败:  servo: necknode, servo id: 4 地址: 73, 写入数据: 10
+12:37:09: [TxRxResult] Port is in use!
+12:37:09: 写入数据失败:  servo: necknode, servo id: 4 地址: 32, 写入数据: 100
+12:37:09: [TxRxResult] Port is in use!
+12:37:09: dxl_comm.send_script() script : move necknode  8 50 10  
+12:37:09: debug: 执行脚本: move eye  0 100 0
+12:37:09: debug: rotate: servo eye : pos 382, speed 1000, accelerate 0
+12:37:09: 写入数据失败:  servo: eye, servo id: 2 地址: 32, 写入数据: 1000
+12:37:09: [TxRxResult] Port is in use!
+12:37:09: dxl_comm.send_script() script : move eye  0 100 0  
+12:37:10: debug: 执行脚本: move eye  50 100 0
+12:37:10: debug: rotate: servo eye : pos 452, speed 1000, accelerate 0
+12:37:10: 写入数据失败:  servo: eye, servo id: 2 地址: 32, 写入数据: 1000
+12:37:10: [TxRxResult] Port is in use!
+12:37:10: dxl_comm.send_script() script : move eye  50 100 0  
+12:37:11: debug: 执行脚本: move eye  0 100 0
+12:37:11: debug: rotate: servo eye : pos 382, speed 1000, accelerate 0
+12:37:11: 写入数据失败:  servo: eye, servo id: 2 地址: 32, 写入数据: 1000
+12:37:11: [TxRxResult] Port is in use!
+12:37:11: dxl_comm.send_script() script : move eye  0 100 0  
+12:37:11: debug: 执行脚本: move neckroll  56 53 10
+12:37:11: debug: rotate: servo neckroll : pos 3559, speed 212, accelerate 10
+12:37:11: 写入数据失败:  servo: neckroll, servo id: 5 地址: 73, 写入数据: 10
+12:37:11: [TxRxResult] Port is in use!
+12:37:11: 写入数据失败:  servo: neckroll, servo id: 5 地址: 32, 写入数据: 212
+12:37:11: [TxRxResult] Port is in use!
+12:37:11: dxl_comm.send_script() script : move neckroll  56 53 10  
+12:37:12: debug: 执行脚本: move necknode  32 62 10
+12:37:12: debug: rotate: servo necknode : pos 1946, speed 124, accelerate 10
+12:37:12: 写入数据失败:  servo: necknode, servo id: 4 地址: 73, 写入数据: 10
+12:37:12: [TxRxResult] Port is in use!
+12:37:12: 写入数据失败:  servo: necknode, servo id: 4 地址: 32, 写入数据: 124
+12:37:12: [TxRxResult] Port is in use!
+12:37:12: dxl_comm.send_script() script : move necknode  32 62 10  
+12:37:12: debug: 执行脚本: move eye  50 100 0
+12:37:12: debug: rotate: servo eye : pos 452, speed 1000, accelerate 0
+12:37:12: 写入数据失败:  servo: eye, servo id: 2 地址: 32, 写入数据: 1000
+12:37:12: [TxRxResult] Port is in use!
+12:37:12: dxl_comm.send_script() script : move eye  50 100 0  
+12:37:13: debug: 执行脚本: move neckroll  42 71 10
+12:37:13: debug: rotate: servo neckroll : pos 3390, speed 284, accelerate 10
+12:37:13: 写入数据失败:  servo: neckroll, servo id: 5 地址: 73, 写入数据: 10
+12:37:13: [TxRxResult] Port is in use!
+12:37:13: 写入数据失败:  servo: neckroll, servo id: 5 地址: 32, 写入数据: 284
+12:37:13: [TxRxResult] Port is in use!
+12:37:13: dxl_comm.send_script() script : move neckroll  42 71 10  
+12:37:13: debug: 执行脚本: move necknode  86 72 10
+12:37:13: debug: rotate: servo necknode : pos 2084, speed 144, accelerate 10
+12:37:13: 写入数据失败:  servo: necknode, servo id: 4 地址: 73, 写入数据: 10
+12:37:13: [TxRxResult] Port is in use!
+12:37:13: 写入数据失败:  servo: necknode, servo id: 4 地址: 32, 写入数据: 144
+12:37:13: [TxRxResult] Port is in use!
+12:37:13: dxl_comm.send_script() script : move necknode  86 72 10  
+12:37:13: debug: 执行脚本: move neckroll  46 36 10
+12:37:13: debug: rotate: servo neckroll : pos 3438, speed 144, accelerate 10
+12:37:13: 写入数据失败:  servo: neckroll, servo id: 5 地址: 73, 写入数据: 10
+12:37:13: [TxRxResult] Port is in use!
+12:37:13: 写入数据失败:  servo: neckroll, servo id: 5 地址: 32, 写入数据: 144
+12:37:13: [TxRxResult] Port is in use!
+12:37:13: dxl_comm.send_script() script : move neckroll  46 36 10  
+12:37:13: debug: 执行脚本: move necknode  59 39 10
+12:37:13: debug: rotate: servo necknode : pos 2015, speed 78, accelerate 10
+12:37:13: 写入数据失败:  servo: necknode, servo id: 4 地址: 73, 写入数据: 10
+12:37:13: [TxRxResult] Port is in use!
+12:37:13: 写入数据失败:  servo: necknode, servo id: 4 地址: 32, 写入数据: 78
+12:37:13: [TxRxResult] Port is in use!
+12:37:13: dxl_comm.send_script() script : move necknode  59 39 10  
+12:37:14: debug: 执行脚本: move neckroll  81 32 10
+12:37:14: debug: rotate: servo neckroll : pos 3861, speed 128, accelerate 10
+12:37:14: 写入数据失败:  servo: neckroll, servo id: 5 地址: 73, 写入数据: 10
+12:37:14: [TxRxResult] Port is in use!
+12:37:14: 写入数据失败:  servo: neckroll, servo id: 5 地址: 32, 写入数据: 128
+12:37:14: [TxRxResult] Port is in use!
+12:37:14: dxl_comm.send_script() script : move neckroll  81 32 10  
+12:37:14: debug: 执行脚本: move necknode  98 69 10
+12:37:14: debug: rotate: servo necknode : pos 2114, speed 138, accelerate 10
+12:37:14: 写入数据失败:  servo: necknode, servo id: 4 地址: 73, 写入数据: 10
+12:37:14: [TxRxResult] Port is in use!
+12:37:14: 写入数据失败:  servo: necknode, servo id: 4 地址: 32, 写入数据: 138
+12:37:14: [TxRxResult] Port is in use!
+12:37:14: dxl_comm.send_script() script : move necknode  98 69 10  
+12:37:14: debug: 执行脚本: move neckroll  17 68 10
+12:37:14: debug: rotate: servo neckroll : pos 3088, speed 272, accelerate 10
+12:37:14: 写入数据失败:  servo: neckroll, servo id: 5 地址: 73, 写入数据: 10
+12:37:14: [TxRxResult] Port is in use!
+12:37:14: 写入数据失败:  servo: neckroll, servo id: 5 地址: 32, 写入数据: 272
+12:37:14: [TxRxResult] Port is in use!
+12:37:14: dxl_comm.send_script() script : move neckroll  17 68 10  
+12:37:15: debug: 执行脚本: move necknode  52 58 10
+12:37:15: debug: rotate: servo necknode : pos 1997, speed 116, accelerate 10
+12:37:15: 写入数据失败:  servo: necknode, servo id: 4 地址: 73, 写入数据: 10
+12:37:15: [TxRxResult] Port is in use!
+12:37:15: 写入数据失败:  servo: necknode, servo id: 4 地址: 32, 写入数据: 116
+12:37:15: [TxRxResult] Port is in use!
+12:37:15: dxl_comm.send_script() script : move necknode  52 58 10  
+12:37:15: debug: 执行脚本: move mouth  100 100 0
+12:37:15: debug: rotate: servo mouth : pos 689, speed 1000, accelerate 0
+12:37:15: 写入数据失败:  servo: mouth, servo id: 3 地址: 32, 写入数据: 1000
+12:37:15: [TxRxResult] Port is in use!
+12:37:15: dxl_comm.send_script() script : move mouth  100 100 0  
+12:37:15: debug: 执行脚本: move mouth  0 100 0
+12:37:15: debug: rotate: servo mouth : pos 633, speed 1000, accelerate 0
+12:37:15: 写入数据失败:  servo: mouth, servo id: 3 地址: 32, 写入数据: 1000
+12:37:15: [TxRxResult] Port is in use!
+12:37:15: dxl_comm.send_script() script : move mouth  0 100 0  
+12:37:16: debug: 执行脚本: move neckroll  0 53 10
+12:37:16: debug: rotate: servo neckroll : pos 2883, speed 212, accelerate 10
+12:37:16: 写入数据失败:  servo: neckroll, servo id: 5 地址: 73, 写入数据: 10
+12:37:16: [TxRxResult] Port is in use!
+12:37:16: 写入数据失败:  servo: neckroll, servo id: 5 地址: 32, 写入数据: 212
+12:37:16: [TxRxResult] Port is in use!
+12:37:16: dxl_comm.send_script() script : move neckroll  0 53 10  
+12:37:16: debug: 执行脚本: move necknode  15 78 10
+12:37:16: debug: rotate: servo necknode : pos 1903, speed 156, accelerate 10
+12:37:16: 写入数据失败:  servo: necknode, servo id: 4 地址: 73, 写入数据: 10
+12:37:16: [TxRxResult] Port is in use!
+12:37:16: 写入数据失败:  servo: necknode, servo id: 4 地址: 32, 写入数据: 156
+12:37:16: [TxRxResult] Port is in use!
+12:37:16: dxl_comm.send_script() script : move necknode  15 78 10  

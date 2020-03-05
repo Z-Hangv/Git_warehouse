@@ -1,0 +1,287 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>robot faq</title>
+</head>
+<body>
+preset robot<br>
+<script>
+
+// function  turn_on_torque()
+// {
+//     var cmd=document.getElementById("command");
+//     var passwd = document.getElementById("passwd");
+//     var servo = document.getElementById("servo");
+//     if (passwd.value == "") {
+//         alert("密码不能为空");
+//         return
+//     }
+//     cmd.value="preset " +  passwd.value + " " + servo.value + " turn_on_torque";
+//     var myform = document.getElementById("myform");
+//     myform.submit()
+// }
+
+// function  turn_off_torque()
+// {
+//     var cmd=document.getElementById("command");
+//     var passwd = document.getElementById("passwd");
+//     var servo = document.getElementById("servo");
+//     if (passwd.value == "") {
+//         alert("密码不能为空");
+//         return
+//     }
+//     cmd.value="preset " +  passwd.value + " " + servo.value + " turn_off_torque";
+//     var myform = document.getElementById("myform");
+//     myform.submit()
+
+// }
+
+function  set_torque()
+{
+    var cmd=document.getElementById("command");
+    var passwd = document.getElementById("passwd");
+    var servo = document.getElementById("servo");
+    var torque = document.getElementById("torque");
+    if (torque.value == "") return;
+    if (passwd.value == "") {
+        alert("密码不能为空");
+        return
+    }
+    cmd.value="preset " +  passwd.value + " " + servo.value + " set_torque " + torque.value;
+    var myform = document.getElementById("myform");
+    myform.submit()
+
+}
+
+function  set_speed()
+{
+    var cmd=document.getElementById("command");
+    var passwd = document.getElementById("passwd");
+    var servo = document.getElementById("servo");
+    var speed = document.getElementById("speed");
+    if (speed.value == "") return;
+    if (passwd.value == "") {
+        alert("密码不能为空");
+        return
+    }
+    cmd.value="preset " +  passwd.value + " " + servo.value + " set_speed " + speed.value;
+    var myform = document.getElementById("myform");
+    myform.submit()
+
+}
+
+
+function  move_plus()
+{
+    var cmd=document.getElementById("command");
+    var passwd = document.getElementById("passwd");
+    var servo = document.getElementById("servo");
+    if (passwd.value == "") {
+        alert("密码不能为空");
+        return
+    }
+    cmd.value="preset " +  passwd.value + " " + servo.value + " rotate " + "3";
+    var myform = document.getElementById("myform");
+    myform.submit()
+
+}
+
+
+function  move_minus()
+{
+    var cmd=document.getElementById("command");
+    var passwd = document.getElementById("passwd");
+    var servo = document.getElementById("servo");
+    if (passwd.value == "") {
+        alert("密码不能为空");
+        return
+    }
+    cmd.value="preset " +  passwd.value + " " + servo.value + " rotate " + "-3";
+    var myform = document.getElementById("myform");
+    myform.submit()
+
+}
+
+function  save_max_pos()
+{
+    var cmd=document.getElementById("command");
+    var passwd = document.getElementById("passwd");
+    var servo = document.getElementById("servo");
+    if (passwd.value == "") {
+        alert("密码不能为空");
+        return
+    }
+    cmd.value="preset " +  passwd.value + " " + servo.value + " save_max_pos";
+    var myform = document.getElementById("myform");
+    myform.submit()
+}
+
+function  save_min_pos()
+{
+    var cmd=document.getElementById("command");
+    var passwd = document.getElementById("passwd");
+    var servo = document.getElementById("servo");
+    if (passwd.value == "") {
+        alert("密码不能为空");
+        return
+    }
+    cmd.value="preset " +  passwd.value + " " + servo.value + " save_min_pos";
+    var myform = document.getElementById("myform");
+    myform.submit()
+}
+
+function  save_max_speed()
+{
+    var cmd=document.getElementById("command");
+    var passwd = document.getElementById("passwd");
+    var servo = document.getElementById("servo");
+    var speed = document.getElementById("speed");
+    if (speed.value == "") {
+        alert("速度不能为空");
+        return
+    }
+    if (passwd.value == "") {
+        alert("密码不能为空");
+        return
+    }
+    cmd.value="preset " +  passwd.value + " " + servo.value + " save_max_speed " + speed.value;
+    var myform = document.getElementById("myform");
+    myform.submit()
+}
+
+function  save_permanent_torqe()
+{
+    var cmd=document.getElementById("command");
+    var passwd = document.getElementById("passwd");
+    var servo = document.getElementById("servo");
+    var torque = document.getElementById("torque");
+    if (torque.value == "") {
+        alert("请选择力矩");
+        return
+    }
+    if (passwd.value == "") {
+        alert("密码不能为空");
+        return
+    }
+    cmd.value="preset " +  passwd.value + " " + servo.value + " save_permanent_torqe " + torque.value;
+    var myform = document.getElementById("myform");
+    myform.submit()
+}
+
+
+function  reset_max_pos()
+{
+    var cmd=document.getElementById("command");
+    var passwd = document.getElementById("passwd");
+    var servo = document.getElementById("servo");
+    if (passwd.value == "") {
+        alert("密码不能为空");
+        return
+    }
+    cmd.value="preset " +  passwd.value + " " + servo.value + " reset_max_pos";
+    var myform = document.getElementById("myform");
+    myform.submit()
+}
+
+function  reset_min_pos()
+{
+    var cmd=document.getElementById("command");
+    var passwd = document.getElementById("passwd");
+    var servo = document.getElementById("servo");
+    if (passwd.value == "") {
+        alert("密码不能为空");
+        return
+    }
+    cmd.value="preset " +  passwd.value + " " + servo.value + " reset_min_pos";
+    var myform = document.getElementById("myform");
+    myform.submit()
+}
+
+
+
+function  get_servo_data()
+{
+    var cmd=document.getElementById("command");
+    var passwd = document.getElementById("passwd");
+    var servo = document.getElementById("servo");
+    if (passwd.value == "") {
+        alert("密码不能为空");
+        return
+    }
+    cmd.value="preset " +  passwd.value + " " + servo.value + " get_servo_data";
+    var myform = document.getElementById("myform");
+    myform.submit()
+}
+
+function  change_servo()
+{
+    var torque = document.getElementById("torque");
+    torque.options[0].selected=true;
+    var speed = document.getElementById("speed");
+    speed.options[0].selected=true;
+    get_servo_data();
+
+}
+
+</script>
+
+<select name="servo" id="servo"  onchange="javascript:change_servo()"> 
+    <option value="eye">eye</option> 
+    <option value="eyelid">eyelid</option> 
+    <option value="mouth">mouth</option> 
+    <option value="neckroll">neckroll</option> 
+    <option value="necknode">necknode</option> 
+
+	    
+</select> 
+力矩
+<select name="torque" id="torque" onchange="javascript:set_torque()"> 
+    <option value="">设定力矩大小</option>
+    <option value="1">1</option>
+    <option value="200">200</option> 
+    <option value="400">400</option> 
+    <option value="600">600</option> 
+    <option value="800">800</option> 
+    <option value="1000">1000</option> 
+</select> 
+<button type="button" onclick="javascript:save_permanent_torqe()">*当前力矩保存为永久力矩*</button><br>
+
+
+<br>
+<!-- <button type="button" onclick="javascript:turn_on_torque()">打开转矩</button>
+<button type="button" onclick="javascript:turn_off_torque()">关闭转矩</button> -->
+速度
+<select name="speed" id="speed" onchange="javascript:set_speed()"> 
+        <option value="">设定速度大小</option>
+        <option value="200">200</option> 
+        <option value="400">400</option> 
+        <option value="600">600</option> 
+        <option value="800">800</option> 
+        <option value="1000">1000</option> 
+    </select> 
+<button type="button" onclick="javascript:save_max_speed()">*当前速度保存为最大安全速度*</button><br>
+
+<button type="button" onclick="javascript:move_plus()">转动增加1步</button>
+<button type="button" onclick="javascript:save_max_pos()">*保存当前位置为最大角度*</button>
+<button type="button" onclick="javascript:reset_max_pos()">重置最大角度</button>
+<button type="button" onclick="javascript:move_minus()">转动减少1步</button>
+<button type="button" onclick="javascript:save_min_pos()">*保存当前位置为最小角度*</button>
+<button type="button" onclick="javascript:reset_min_pos()">重置最小角度</button><br>
+
+<button type="button" onclick="javascript:get_servo_data()">读取舵机寄存器数据</button>
+<br>
+password: <input type="password" name="passwd" id="passwd" value="chaoren">
+
+<form action="preset_robot.php" method="POST" id="myform"  target="hidden_frame">
+    command: <input type="text" name="cmd" id="command" style="width:300px;">
+    <input type="submit" name="提交">
+</form>
+
+<br><br><br><br><br><br>
+<iframe name="hidden_frame"></iframe>
+</body>
+</html>

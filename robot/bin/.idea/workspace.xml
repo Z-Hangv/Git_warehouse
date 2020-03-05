@@ -1,0 +1,638 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1ddb7ad1-a2fb-484e-9cdc-bb46c5671e4a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1RPQonJcbTlG96lzoNDjNTbp2lR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/kouxing2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="run.code.analysis.last.selected.profile" value="aDefault" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;&#10;" module-name="robotmain" is-module-sdk="true">
+        <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;&#10;" />
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="robotmain" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\myprojects\xrobot4\xrobot4a\deploy\pi\home\robot\bin\feetech" />
+      <recent name="D:\myprojects\xrobot4\xrobot4a\deploy\pi\root\robot\bin\dxl_server" />
+      <recent name="D:\myprojects\xrobot4\xrobot4a\deploy\pi\root\robot\bin\feetech" />
+      <recent name="C:\mycode\projects\xrobot4\home\script" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\myprojects\xrobot4\xrobot4a\deploy\pi\root\robot\bin\movement" />
+      <recent name="C:\myprojects\xrobot4\xrobot4a\deploy\pi\root\robot\bin\kouxing_recording" />
+      <recent name="C:\myprojects\xrobot4\xrobot4a\deploy\pi\root\robot\bin" />
+      <recent name="C:\myprojects\xrobot4\xrobot4v2\bin" />
+      <recent name="C:\mycode\projects\xrobot4\robot" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.test_t1_head">
+    <configuration name="record (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="robotmain" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/feetech" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/feetech/record.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="server (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="robotmain" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dxl_server" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dxl_server/server.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="server" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="robotmain" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/feetech" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/feetech/server.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_feetech_arm (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="robotmain" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/feetech" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/feetech/test_feetech_arm.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_t1_head" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="robotmain" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dxl_server" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dxl_server/test_t1_head.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.test_feetech_arm (1)" />
+      <item itemvalue="Python.server" />
+      <item itemvalue="Python.record (1)" />
+      <item itemvalue="Python.server (1)" />
+      <item itemvalue="Python.test_t1_head" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.test_t1_head" />
+        <item itemvalue="Python.record (1)" />
+        <item itemvalue="Python.server (1)" />
+        <item itemvalue="Python.test_feetech_arm (1)" />
+        <item itemvalue="Python.server" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+    <option name="showServicesTree" value="false" />
+  </component>
+  <component name="StructureViewFactory">
+    <option name="AUTOSCROLL_FROM_SOURCE" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1ddb7ad1-a2fb-484e-9cdc-bb46c5671e4a" name="Default Changelist" comment="" />
+      <created>1569566428061</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569566428061</updated>
+      <workItem from="1569566429177" duration="12303000" />
+      <workItem from="1569580199104" duration="57000" />
+      <workItem from="1569580309194" duration="6055000" />
+      <workItem from="1569630453763" duration="19029000" />
+      <workItem from="1569816470037" duration="697000" />
+      <workItem from="1569829243607" duration="4389000" />
+      <workItem from="1569833958202" duration="5250000" />
+      <workItem from="1570524272187" duration="133000" />
+      <workItem from="1570527915571" duration="1242000" />
+      <workItem from="1570530434416" duration="4288000" />
+      <workItem from="1570597300360" duration="5753000" />
+      <workItem from="1570607273790" duration="7602000" />
+      <workItem from="1570616045324" duration="3472000" />
+      <workItem from="1570675190424" duration="4827000" />
+      <workItem from="1570686706845" duration="2741000" />
+      <workItem from="1570762472334" duration="3011000" />
+      <workItem from="1570766382892" duration="16000" />
+      <workItem from="1570775882575" duration="11466000" />
+      <workItem from="1570790188801" duration="638000" />
+      <workItem from="1570844544756" duration="9209000" />
+      <workItem from="1570855707883" duration="31000" />
+      <workItem from="1570863420011" duration="7363000" />
+      <workItem from="1571024521637" duration="313000" />
+      <workItem from="1571024964078" duration="106000" />
+      <workItem from="1571025105200" duration="18713000" />
+      <workItem from="1571046716135" duration="2255000" />
+      <workItem from="1571050479718" duration="17000" />
+      <workItem from="1571127505151" duration="2512000" />
+      <workItem from="1571221819058" duration="41000" />
+      <workItem from="1571222001819" duration="1835000" />
+      <workItem from="1571292175676" duration="952000" />
+      <workItem from="1571294020625" duration="6331000" />
+      <workItem from="1571365246340" duration="381000" />
+      <workItem from="1571370287029" duration="4438000" />
+      <workItem from="1571391236929" duration="1591000" />
+      <workItem from="1571393324309" duration="4276000" />
+      <workItem from="1571991130286" duration="3163000" />
+      <workItem from="1572324978279" duration="11520000" />
+      <workItem from="1572401038546" duration="577000" />
+      <workItem from="1572414835921" duration="13159000" />
+      <workItem from="1572491069182" duration="7000" />
+      <workItem from="1572491229065" duration="18478000" />
+      <workItem from="1572571475220" duration="2903000" />
+      <workItem from="1572587377033" duration="609000" />
+      <workItem from="1572590544457" duration="3138000" />
+      <workItem from="1572593909606" duration="7075000" />
+      <workItem from="1572688185275" duration="8421000" />
+      <workItem from="1572704701637" duration="10345000" />
+      <workItem from="1572740732166" duration="2146000" />
+      <workItem from="1572742919343" duration="473000" />
+      <workItem from="1572743469118" duration="5405000" />
+      <workItem from="1572749004211" duration="10000" />
+      <workItem from="1572782566798" duration="3027000" />
+      <workItem from="1572785751863" duration="135000" />
+      <workItem from="1572833405714" duration="28806000" />
+      <workItem from="1572920327843" duration="606000" />
+      <workItem from="1572920951745" duration="743000" />
+      <workItem from="1572921743786" duration="1402000" />
+      <workItem from="1572923604700" duration="12087000" />
+      <workItem from="1572942812405" duration="3230000" />
+      <workItem from="1573004527218" duration="13942000" />
+      <workItem from="1573021207827" duration="14346000" />
+      <workItem from="1573091005218" duration="1255000" />
+      <workItem from="1573093823243" duration="17276000" />
+      <workItem from="1573114221101" duration="1250000" />
+      <workItem from="1573186643909" duration="16182000" />
+      <workItem from="1573203131283" duration="21000" />
+      <workItem from="1573457703956" duration="8816000" />
+      <workItem from="1573467473686" duration="11000" />
+      <workItem from="1573524017732" duration="11906000" />
+      <workItem from="1573711238742" duration="42000" />
+      <workItem from="1573790298909" duration="1189000" />
+      <workItem from="1573792006684" duration="3859000" />
+      <workItem from="1573796470869" duration="1933000" />
+      <workItem from="1573801076369" duration="5078000" />
+      <workItem from="1574041661438" duration="8770000" />
+      <workItem from="1574053587116" duration="1956000" />
+      <workItem from="1574128305729" duration="8913000" />
+      <workItem from="1574137929455" duration="17000" />
+      <workItem from="1574137983790" duration="74000" />
+      <workItem from="1574142654181" duration="10051000" />
+      <workItem from="1574153388657" duration="30000" />
+      <workItem from="1574153461350" duration="474000" />
+      <workItem from="1574215335838" duration="13437000" />
+      <workItem from="1574236551389" duration="6600000" />
+      <workItem from="1574243459532" duration="985000" />
+      <workItem from="1574311396865" duration="2978000" />
+      <workItem from="1574314820257" duration="841000" />
+      <workItem from="1574316223601" duration="1299000" />
+      <workItem from="1574326628059" duration="1325000" />
+      <workItem from="1574327991297" duration="96000" />
+      <workItem from="1574328205764" duration="57000" />
+      <workItem from="1574393740163" duration="6838000" />
+      <workItem from="1574415314558" duration="2113000" />
+      <workItem from="1574418243244" duration="174000" />
+      <workItem from="1574418520042" duration="606000" />
+      <workItem from="1574655896249" duration="6954000" />
+      <workItem from="1574674618129" duration="12000" />
+      <workItem from="1574674717062" duration="3000" />
+      <workItem from="1574674826318" duration="1309000" />
+      <workItem from="1574744258904" duration="12745000" />
+      <workItem from="1574836072874" duration="12753000" />
+      <workItem from="1574911943251" duration="8000" />
+      <workItem from="1574913052151" duration="404000" />
+      <workItem from="1575009253708" duration="5189000" />
+      <workItem from="1575102980339" duration="3215000" />
+      <workItem from="1575106326304" duration="27944000" />
+      <workItem from="1575134539641" duration="201000" />
+      <workItem from="1575134768424" duration="745000" />
+      <workItem from="1575136228561" duration="229000" />
+      <workItem from="1575165659694" duration="3450000" />
+      <workItem from="1575261336779" duration="8631000" />
+      <workItem from="1575271149399" duration="413000" />
+      <workItem from="1575271895983" duration="3934000" />
+      <workItem from="1575351201126" duration="6328000" />
+      <workItem from="1575357908826" duration="3701000" />
+      <workItem from="1575435985566" duration="9187000" />
+      <workItem from="1575445265195" duration="79000" />
+      <workItem from="1575445361236" duration="2345000" />
+      <workItem from="1575447726070" duration="2821000" />
+      <workItem from="1575450580558" duration="1878000" />
+      <workItem from="1575507777868" duration="1875000" />
+      <workItem from="1575509703717" duration="1335000" />
+      <workItem from="1575511062479" duration="481000" />
+      <workItem from="1575511559551" duration="9682000" />
+      <workItem from="1575521350986" duration="2181000" />
+      <workItem from="1575523548871" duration="4538000" />
+      <workItem from="1575529711721" duration="3245000" />
+      <workItem from="1575533003052" duration="10625000" />
+      <workItem from="1575594797847" duration="9251000" />
+      <workItem from="1575605612073" duration="17361000" />
+      <workItem from="1575862907130" duration="3879000" />
+      <workItem from="1575941637386" duration="16764000" />
+      <workItem from="1576027849821" duration="8319000" />
+      <workItem from="1576047788401" duration="609000" />
+      <workItem from="1576048540455" duration="5465000" />
+      <workItem from="1576058970820" duration="9623000" />
+      <workItem from="1576113530162" duration="11068000" />
+      <workItem from="1576127088017" duration="13112000" />
+      <workItem from="1576213440934" duration="5578000" />
+      <workItem from="1576219795909" duration="10054000" />
+      <workItem from="1576461819954" duration="14087000" />
+      <workItem from="1576483095030" duration="5955000" />
+      <workItem from="1576545998832" duration="19752000" />
+      <workItem from="1576573682341" duration="1707000" />
+      <workItem from="1576637634358" duration="8736000" />
+      <workItem from="1576719815613" duration="10819000" />
+      <workItem from="1576733257816" duration="11530000" />
+      <workItem from="1576750698247" duration="86000" />
+      <workItem from="1576804407598" duration="28516000" />
+      <workItem from="1577066475636" duration="2174000" />
+      <workItem from="1577072665102" duration="1104000" />
+      <workItem from="1577083101143" duration="965000" />
+      <workItem from="1577084571447" duration="3375000" />
+      <workItem from="1577178507840" duration="3296000" />
+      <workItem from="1577241463860" duration="13760000" />
+      <workItem from="1577262470340" duration="5589000" />
+      <workItem from="1577331166745" duration="5184000" />
+      <workItem from="1577339961572" duration="8161000" />
+      <workItem from="1577428033395" duration="5433000" />
+      <workItem from="1577440719045" duration="6462000" />
+      <workItem from="1577448621348" duration="2636000" />
+      <workItem from="1577582599414" duration="2105000" />
+      <workItem from="1577672804801" duration="16422000" />
+      <workItem from="1577759145871" duration="19049000" />
+      <workItem from="1577938361591" duration="1476000" />
+      <workItem from="1577940213266" duration="61000" />
+      <workItem from="1583219785001" duration="29000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.device" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="872" y="178" key="#Inspections" timestamp="1576215214772">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="872" y="178" key="#Inspections/0.0.2560.1040@0.0.2560.1040" timestamp="1576215214772" />
+    <state x="1010" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1576133452653">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="1010" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2560.1040@0.0.2560.1040" timestamp="1576133452653" />
+    <state x="988" y="145" key="#dxl_comm" timestamp="1577681580185">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="988" y="145" key="#dxl_comm/0.0.2560.1040@0.0.2560.1040" timestamp="1577681580185" />
+    <state x="1034" y="389" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1577686287729">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="1034" y="389" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.2560.1040@0.0.2560.1040" timestamp="1577686287729" />
+    <state width="405" height="466" key="DebuggerActiveHint" timestamp="1577334360906">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="405" height="466" key="DebuggerActiveHint/0.0.2560.1040@0.0.2560.1040" timestamp="1577334360906" />
+    <state x="2660" y="277" key="FileChooserDialogImpl" timestamp="1583219812245">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2660" y="277" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1583219812245" />
+    <state width="2517" height="231" key="GridCell.Tab.0.bottom" timestamp="1577939837967">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="2517" height="231" key="GridCell.Tab.0.bottom/0.0.2560.1040@0.0.2560.1040" timestamp="1577939837967" />
+    <state width="2517" height="231" key="GridCell.Tab.0.center" timestamp="1577939837967">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="2517" height="231" key="GridCell.Tab.0.center/0.0.2560.1040@0.0.2560.1040" timestamp="1577939837967" />
+    <state width="2517" height="231" key="GridCell.Tab.0.left" timestamp="1577939837967">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="2517" height="231" key="GridCell.Tab.0.left/0.0.2560.1040@0.0.2560.1040" timestamp="1577939837967" />
+    <state width="2517" height="231" key="GridCell.Tab.0.right" timestamp="1577939837967">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="2517" height="231" key="GridCell.Tab.0.right/0.0.2560.1040@0.0.2560.1040" timestamp="1577939837967" />
+    <state width="2517" height="341" key="GridCell.Tab.1.bottom" timestamp="1577775623186">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="2517" height="341" key="GridCell.Tab.1.bottom/0.0.2560.1040@0.0.2560.1040" timestamp="1577775623186" />
+    <state width="2517" height="341" key="GridCell.Tab.1.center" timestamp="1577775623186">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="2517" height="341" key="GridCell.Tab.1.center/0.0.2560.1040@0.0.2560.1040" timestamp="1577775623186" />
+    <state width="2517" height="341" key="GridCell.Tab.1.left" timestamp="1577775623186">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="2517" height="341" key="GridCell.Tab.1.left/0.0.2560.1040@0.0.2560.1040" timestamp="1577775623186" />
+    <state width="2517" height="341" key="GridCell.Tab.1.right" timestamp="1577775623186">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="2517" height="341" key="GridCell.Tab.1.right/0.0.2560.1040@0.0.2560.1040" timestamp="1577775623186" />
+    <state x="781" y="162" key="SettingsEditor" timestamp="1576720394945">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="781" y="162" key="SettingsEditor/0.0.2560.1040@0.0.2560.1040" timestamp="1576720394945" />
+    <state x="626" y="192" width="786" height="590" key="find.popup" timestamp="1577938479457">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="626" y="192" width="786" height="590" key="find.popup/0.0.2560.1040@0.0.2560.1040" timestamp="1577938479457" />
+    <state x="1021" y="162" key="refactoring.ChangeSignatureDialog" timestamp="1577678201081">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="1021" y="162" key="refactoring.ChangeSignatureDialog/0.0.2560.1040@0.0.2560.1040" timestamp="1577678201081" />
+    <state x="943" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1576066192983">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="943" y="225" width="672" height="678" key="search.everywhere.popup/0.0.2560.1040@0.0.2560.1040" timestamp="1576066192983" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/t1v2/dxl_serveo.py</url>
+          <line>236</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/t1v2/dxl_serveo.py</url>
+          <line>187</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/dxl_server/sdk/build/lib/dynamixel_sdk/protocol1_packet_handler.py</url>
+          <line>409</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/dxl_server/sdk/build/lib/dynamixel_sdk/protocol1_packet_handler.py</url>
+          <line>426</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/script_server/task_script.py</url>
+          <line>50</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/script_server/task_script.py</url>
+          <line>49</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/feetech/test_feetech_arm.py</url>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/feetech/test.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/bin$test_t11.coverage" NAME="test-t11 Coverage Results" MODIFIED="1572520619660" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/bin$__init____1_.coverage" NAME="__init__ (1) Coverage Results" MODIFIED="1576488928028" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Documents/WeChat Files/liantian1/FileStorage/File/2019-12" />
+    <SUITE FILE_PATH="coverage/bin$test_innfos_arm.coverage" NAME="test_innfos_arm Coverage Results" MODIFIED="1577584677352" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/script" />
+    <SUITE FILE_PATH="coverage/bin$temp.coverage" NAME="temp Coverage Results" MODIFIED="1576231327428" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tool" />
+    <SUITE FILE_PATH="coverage/bin$kaoji_mouth.coverage" NAME="kaoji_mouth Coverage Results" MODIFIED="1573113665374" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/t1v2/script" />
+    <SUITE FILE_PATH="coverage/bin$tests.coverage" NAME="tests Coverage Results" MODIFIED="1575009638417" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/speed-recognition" />
+    <SUITE FILE_PATH="coverage/bin$sys_idle.coverage" NAME="sys_idle Coverage Results" MODIFIED="1573535292392" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/script" />
+    <SUITE FILE_PATH="coverage/bin$task_script.coverage" NAME="task_script Coverage Results" MODIFIED="1575628763508" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/script_server" />
+    <SUITE FILE_PATH="coverage/bin$com_server1.coverage" NAME="com_server1 Coverage Results" MODIFIED="1572426818239" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/robot$arduino_server.coverage" NAME="arduino_server Coverage Results" MODIFIED="1570865987269" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/bin$autostart.coverage" NAME="autostart Coverage Results" MODIFIED="1573464392908" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/script" />
+    <SUITE FILE_PATH="coverage/bin$com_interface.coverage" NAME="com_interface Coverage Results" MODIFIED="1572694834928" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/t1test1" />
+    <SUITE FILE_PATH="coverage/robot$wav_server.coverage" NAME="wav_server Coverage Results" MODIFIED="1570855733765" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/bin$sing.coverage" NAME="sing Coverage Results" MODIFIED="1576813523345" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/script" />
+    <SUITE FILE_PATH="coverage/robot$task_script.coverage" NAME="task_script Coverage Results" MODIFIED="1570865939261" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/bin$sys_autostart.coverage" NAME="sys_autostart Coverage Results" MODIFIED="1574048740992" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/script" />
+    <SUITE FILE_PATH="coverage/bin$dynamix_com_msg.coverage" NAME="dynamix_com_msg Coverage Results" MODIFIED="1571370416158" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/bin$feetech.coverage" NAME="feetech Coverage Results" MODIFIED="1577263966583" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/movement" />
+    <SUITE FILE_PATH="coverage/bin$kaoji_eye.coverage" NAME="kaoji_eye Coverage Results" MODIFIED="1573200059178" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/script" />
+    <SUITE FILE_PATH="coverage/bin$xconfig.coverage" NAME="xconfig Coverage Results" MODIFIED="1573186761096" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/bin$feetech_tmp.coverage" NAME="feetech_tmp Coverage Results" MODIFIED="1577267080210" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/movement" />
+    <SUITE FILE_PATH="coverage/bin$dxl_serveo.coverage" NAME="dxl_serveo Coverage Results" MODIFIED="1572847234405" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dxltest1" />
+    <SUITE FILE_PATH="coverage/bin$test_pressure__1_.coverage" NAME="test_pressure (1) Coverage Results" MODIFIED="1574395826429" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/bin$test_innfos.coverage" NAME="test_innfos Coverage Results" MODIFIED="1574137989054" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/bin$wav_server.coverage" NAME="wav_server Coverage Results" MODIFIED="1573201998687" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/robot$robot_config.coverage" NAME="robot_config Coverage Results" MODIFIED="1570850195903" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/bin$dynamix485_com_code.coverage" NAME="dynamix485_com_code Coverage Results" MODIFIED="1572432619671" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/bin$restart_robot.coverage" NAME="restart_robot Coverage Results" MODIFIED="1577067160189" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/bin$sock_server.coverage" NAME="sock_server Coverage Results" MODIFIED="1573014658744" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/bin$testimport__1_.coverage" NAME="testimport (1) Coverage Results" MODIFIED="1572496276047" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/robot$wav.coverage" NAME="wav Coverage Results" MODIFIED="1570534393832" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/bin$joint.coverage" NAME="joint Coverage Results" MODIFIED="1577443597886" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/movement" />
+    <SUITE FILE_PATH="coverage/bin$script_server.coverage" NAME="script_server Coverage Results" MODIFIED="1574838819873" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/robot$testlog.coverage" NAME="testlog Coverage Results" MODIFIED="1570765172989" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/bin$test_feetech_arm__1_.coverage" NAME="test_feetech_arm (1) Coverage Results" MODIFIED="1577780671318" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/feetech" />
+    <SUITE FILE_PATH="coverage/bin$dxl.coverage" NAME="dxl Coverage Results" MODIFIED="1577083643372" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/movement" />
+    <SUITE FILE_PATH="coverage/bin$kouxing_analyz.coverage" NAME="kouxing_analyz Coverage Results" MODIFIED="1575440678542" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/kouxing2" />
+    <SUITE FILE_PATH="coverage/robot$sock_server.coverage" NAME="sock_server Coverage Results" MODIFIED="1569632421967" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/bin$server__1_.coverage" NAME="server (1) Coverage Results" MODIFIED="1577939638134" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dxl_server" />
+    <SUITE FILE_PATH="coverage/bin$smart_voice.coverage" NAME="smart_voice Coverage Results" MODIFIED="1574137719780" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/bin$feetech__1_.coverage" NAME="feetech (1) Coverage Results" MODIFIED="1577428841888" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/movement" />
+    <SUITE FILE_PATH="coverage/robot$robot_wav.coverage" NAME="robot_wav Coverage Results" MODIFIED="1570603157099" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/bin$test__1_.coverage" NAME="test (1) Coverage Results" MODIFIED="1577687242156" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/feetech" />
+    <SUITE FILE_PATH="coverage/bin$temp1.coverage" NAME="temp1 Coverage Results" MODIFIED="1576637892073" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/temp" />
+    <SUITE FILE_PATH="coverage/bin$test_crc.coverage" NAME="test_crc Coverage Results" MODIFIED="1571035280514" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/bin$test_arm.coverage" NAME="test_arm Coverage Results" MODIFIED="1577431421093" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/script" />
+    <SUITE FILE_PATH="coverage/bin$servo.coverage" NAME="servo Coverage Results" MODIFIED="1577673216844" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dxl_server" />
+    <SUITE FILE_PATH="coverage/bin$ax12.coverage" NAME="ax12 Coverage Results" MODIFIED="1573097262504" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/t1v2" />
+    <SUITE FILE_PATH="coverage/bin$check_memory.coverage" NAME="check_memory Coverage Results" MODIFIED="1574396881954" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/bin$dxl_serveo__1_.coverage" NAME="dxl_serveo (1) Coverage Results" MODIFIED="1572930681531" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/t1v2" />
+    <SUITE FILE_PATH="coverage/robot$serial_server.coverage" NAME="serial_server Coverage Results" MODIFIED="1569839431984" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/bin$com_server.coverage" NAME="com_server Coverage Results" MODIFIED="1574397593603" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/bin$AudioS_XFS5152_raw.coverage" NAME="AudioS_XFS5152_raw Coverage Results" MODIFIED="1575949891611" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tts_xfsv2" />
+    <SUITE FILE_PATH="coverage/bin$record__1_.coverage" NAME="record (1) Coverage Results" MODIFIED="1577939642029" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/feetech" />
+    <SUITE FILE_PATH="coverage/bin$t1_com_server.coverage" NAME="t1_com_server Coverage Results" MODIFIED="1571992992315" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/bin$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1575448493243" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wav_server" />
+    <SUITE FILE_PATH="coverage/bin$base.coverage" NAME="base Coverage Results" MODIFIED="1575105710165" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/bin$test_server.coverage" NAME="test_server Coverage Results" MODIFIED="1571223798520" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/bin$AudioS_XFS5152__1_.coverage" NAME="AudioS_XFS5152 (1) Coverage Results" MODIFIED="1575952460734" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tts_xfs5152" />
+    <SUITE FILE_PATH="coverage/bin$mood.coverage" NAME="mood Coverage Results" MODIFIED="1577432572224" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/script" />
+    <SUITE FILE_PATH="coverage/bin$kaoji.coverage" NAME="kaoji Coverage Results" MODIFIED="1573112080112" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/t1v2/script" />
+    <SUITE FILE_PATH="coverage/bin$dxl1.coverage" NAME="dxl1 Coverage Results" MODIFIED="1572744535800" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dxltest1" />
+    <SUITE FILE_PATH="coverage/bin$stop_server.coverage" NAME="stop_server Coverage Results" MODIFIED="1573015053185" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/bin$testimport.coverage" NAME="testimport Coverage Results" MODIFIED="1572493315153" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tool" />
+    <SUITE FILE_PATH="coverage/bin$robot_config.coverage" NAME="robot_config Coverage Results" MODIFIED="1571993690465" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/bin$auto_start.coverage" NAME="auto_start Coverage Results" MODIFIED="1576563960748" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/script" />
+    <SUITE FILE_PATH="coverage/bin$test_deltmp.coverage" NAME="test_deltmp Coverage Results" MODIFIED="1571223553859" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/bin$ax12_read_write__1_.coverage" NAME="ax12-read_write (1) Coverage Results" MODIFIED="1572688197148" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dxltest1" />
+    <SUITE FILE_PATH="coverage/bin$test.coverage" NAME="test Coverage Results" MODIFIED="1577687226473" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dxl_server" />
+    <SUITE FILE_PATH="coverage/bin$kaoji_eyelid.coverage" NAME="kaoji_eyelid Coverage Results" MODIFIED="1573113101564" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/t1v2/script/不用" />
+    <SUITE FILE_PATH="coverage/bin$stop_robot.coverage" NAME="stop_robot Coverage Results" MODIFIED="1577067346406" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/bin$test_t1_head.coverage" NAME="test_t1_head Coverage Results" MODIFIED="1577939701361" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dxl_server" />
+    <SUITE FILE_PATH="coverage/bin$base_script.coverage" NAME="base_script Coverage Results" MODIFIED="1576812868665" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/script" />
+    <SUITE FILE_PATH="coverage/bin$test_pressure.coverage" NAME="test_pressure Coverage Results" MODIFIED="1574394601673" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/script" />
+    <SUITE FILE_PATH="coverage/bin$record.coverage" NAME="record Coverage Results" MODIFIED="1577763203734" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dxl_server" />
+    <SUITE FILE_PATH="coverage/bin$dynamix_comcode__1_.coverage" NAME="dynamix_comcode (1) Coverage Results" MODIFIED="1572329965392" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tool" />
+    <SUITE FILE_PATH="coverage/robotmain$TaskScript.coverage" NAME="TaskScript Coverage Results" MODIFIED="1569579088006" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/bin$dxl_u2d2.coverage" NAME="dxl_u2d2 Coverage Results" MODIFIED="1574417257183" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/comm" />
+    <SUITE FILE_PATH="coverage/bin$test_dxl_neck_roll.coverage" NAME="test_dxl_neck_roll Coverage Results" MODIFIED="1577432965832" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/script" />
+    <SUITE FILE_PATH="coverage/bin$com_server__1_.coverage" NAME="com_server (1) Coverage Results" MODIFIED="1572590587838" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/t1test1" />
+    <SUITE FILE_PATH="coverage/robot$TaskScript.coverage" NAME="TaskScript Coverage Results" MODIFIED="1569586347697" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/bin$run_robot.coverage" NAME="run_robot Coverage Results" MODIFIED="1577066820917" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/bin$dynamix_server.coverage" NAME="dynamix_server Coverage Results" MODIFIED="1571397607948" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/bin$__init__.coverage" NAME="__init__ Coverage Results" MODIFIED="1576546196139" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tts_xfs5152" />
+    <SUITE FILE_PATH="coverage/bin$comm.coverage" NAME="comm Coverage Results" MODIFIED="1575126967717" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dxl_server" />
+    <SUITE FILE_PATH="coverage/robot$serialserver.coverage" NAME="serialserver Coverage Results" MODIFIED="1569586343592" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/bin$test_np.coverage" NAME="test-np Coverage Results" MODIFIED="1575353922543" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/kouxing2" />
+    <SUITE FILE_PATH="coverage/bin$arduino_server.coverage" NAME="arduino_server Coverage Results" MODIFIED="1571222059667" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/robot$testInt2Byte.coverage" NAME="testInt2Byte Coverage Results" MODIFIED="1570847927941" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/bin$face_opencv_server.coverage" NAME="face_opencv_server Coverage Results" MODIFIED="1574913227880" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/bin$arduino.coverage" NAME="arduino Coverage Results" MODIFIED="1572694235735" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/t1test1" />
+    <SUITE FILE_PATH="coverage/bin$AudioS_XFS5152.coverage" NAME="AudioS_XFS5152 Coverage Results" MODIFIED="1575951300085" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tts_xfsv2" />
+    <SUITE FILE_PATH="coverage/bin$dynamixel485.coverage" NAME="dynamixel485 Coverage Results" MODIFIED="1572519495071" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/t1test1" />
+    <SUITE FILE_PATH="coverage/robot$test.coverage" NAME="test Coverage Results" MODIFIED="1570873442798" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/bin$xbase.coverage" NAME="xbase Coverage Results" MODIFIED="1577765463025" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/bin$test_sock.coverage" NAME="test-sock Coverage Results" MODIFIED="1575597574968" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/bin$test_sock_cmd.coverage" NAME="test_sock_cmd Coverage Results" MODIFIED="1571370916689" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/robot$dynamix_server.coverage" NAME="dynamix_server Coverage Results" MODIFIED="1570873418682" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/bin$raw_script.coverage" NAME="raw_script Coverage Results" MODIFIED="1573536611304" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/script" />
+    <SUITE FILE_PATH="coverage/bin$kouxing.coverage" NAME="kouxing Coverage Results" MODIFIED="1574312664090" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/bin$a.coverage" NAME="a Coverage Results" MODIFIED="1572833959656" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/bin$robot_wav.coverage" NAME="robot_wav Coverage Results" MODIFIED="1575447111524" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wav_server" />
+    <SUITE FILE_PATH="coverage/bin$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1576832515888" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/innfos" />
+    <SUITE FILE_PATH="coverage/bin$test_feetech_arm.coverage" NAME="test_feetech_arm Coverage Results" MODIFIED="1577685818693" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/script" />
+    <SUITE FILE_PATH="coverage/bin$shutdown_script_server.coverage" NAME="shutdown_script_server Coverage Results" MODIFIED="1571299614869" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/robot$testlistdir.coverage" NAME="testlistdir Coverage Results" MODIFIED="1570689241371" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/bin$preset_servos.coverage" NAME="preset_servos Coverage Results" MODIFIED="1577675671258" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dxl_server" />
+    <SUITE FILE_PATH="coverage/bin$face_detect_respond.coverage" NAME="face_detect_respond Coverage Results" MODIFIED="1574242129185" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/script" />
+    <SUITE FILE_PATH="coverage/bin$voice_server.coverage" NAME="voice_server Coverage Results" MODIFIED="1574152843960" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/bin$dynamix_comcode.coverage" NAME="dynamix_comcode Coverage Results" MODIFIED="1577263368105" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Documents/WeChat Files/liantian1/FileStorage/File/2019-12" />
+    <SUITE FILE_PATH="coverage/robot$send_sock.coverage" NAME="send_sock Coverage Results" MODIFIED="1569839444192" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/bin$ax12_read_write.coverage" NAME="ax12-read_write Coverage Results" MODIFIED="1572705778564" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dxltest1" />
+    <SUITE FILE_PATH="coverage/bin$xproject.coverage" NAME="xproject Coverage Results" MODIFIED="1574416547293" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/comm" />
+    <SUITE FILE_PATH="coverage/bin$tool.coverage" NAME="tool Coverage Results" MODIFIED="1573015971970" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/bin$test_task_script.coverage" NAME="test_task_script Coverage Results" MODIFIED="1577067532083" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/script_server" />
+    <SUITE FILE_PATH="coverage/bin$dxl_comm.coverage" NAME="dxl_comm Coverage Results" MODIFIED="1577681118714" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dxl_server" />
+    <SUITE FILE_PATH="coverage/bin$xsock.coverage" NAME="xsock Coverage Results" MODIFIED="1576218349327" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tool" />
+    <SUITE FILE_PATH="coverage/bin$test_t1.coverage" NAME="test-t1 Coverage Results" MODIFIED="1571370354905" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/bin$innfos.coverage" NAME="innfos Coverage Results" MODIFIED="1577444640459" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/movement" />
+    <SUITE FILE_PATH="coverage/bin$test_nn.coverage" NAME="test_nn Coverage Results" MODIFIED="1574044838272" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/bin$server__2_.coverage" NAME="server (2) Coverage Results" MODIFIED="1577683847258" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/movement" />
+    <SUITE FILE_PATH="coverage/robot$script_server.coverage" NAME="script_server Coverage Results" MODIFIED="1570873422519" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/bin$server.coverage" NAME="server Coverage Results" MODIFIED="1577780661645" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/feetech" />
+    <SUITE FILE_PATH="coverage/robot$testString2Hex.coverage" NAME="testString2Hex Coverage Results" MODIFIED="1570783653183" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

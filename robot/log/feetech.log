@@ -1,0 +1,2858 @@
+16:24:21: feetech starting...
+16:24:22: 挂载舵机 bigarm 完成 最大位置: 2626, 最小位置:920, 最大速度:1000
+16:24:22: 挂载舵机 elbow 完成 最大位置: 2043, 最小位置:1189, 最大速度:1000
+16:24:22: 挂载舵机 liftshoulder 完成 最大位置: 2425, 最小位置:1674, 最大速度:1000
+16:24:22: 挂载舵机 rotateshoulder 完成 最大位置: 3151, 最小位置:2113, 最大速度:1000
+16:24:22: 设备串口初始化成功, 共有 4 个servo 
+16:24:22: COM端口号: com12
+16:24:22: 波特率:115200 
+16:24:31: debug: 执行脚本: move rotateshoulder  11 300 30 -30
+16:24:31: debug: rotate: servo rotateshoulder : pos 2227, speed 1000, accelerate 30
+16:24:32: debug: 执行脚本: move liftshoulder  82 300 30 -30
+16:24:32: debug: rotate: servo liftshoulder : pos 2289, speed 1000, accelerate 30
+16:24:32: debug: 执行脚本: move bigarm  41 300 30 -30
+16:24:32: debug: rotate: servo bigarm : pos 1619, speed 1000, accelerate 30
+16:24:32: debug: 执行脚本: move elbow  8 300 30 -30
+16:24:32: debug: rotate: servo elbow : pos 1257, speed 1000, accelerate 30
+16:24:33: debug: 执行脚本: move rotateshoulder  97 300 30 -30
+16:24:33: debug: rotate: servo rotateshoulder : pos 3119, speed 1000, accelerate 30
+16:24:34: debug: 执行脚本: move liftshoulder  95 300 30 -30
+16:24:34: debug: rotate: servo liftshoulder : pos 2387, speed 1000, accelerate 30
+16:24:34: debug: 执行脚本: move bigarm  33 300 30 -30
+16:24:34: debug: rotate: servo bigarm : pos 1482, speed 1000, accelerate 30
+16:24:35: debug: 执行脚本: move elbow  97 300 30 -30
+16:24:35: debug: rotate: servo elbow : pos 2017, speed 1000, accelerate 30
+16:24:36: debug: 执行脚本: move rotateshoulder  41 300 30 -30
+16:24:36: debug: rotate: servo rotateshoulder : pos 2538, speed 1000, accelerate 30
+16:24:36: debug: 执行脚本: move liftshoulder  4 300 30 -30
+16:24:36: debug: rotate: servo liftshoulder : pos 1704, speed 1000, accelerate 30
+16:24:37: debug: 执行脚本: move bigarm  91 300 30 -30
+16:24:37: debug: rotate: servo bigarm : pos 2472, speed 1000, accelerate 30
+16:24:38: debug: 执行脚本: move elbow  28 300 30 -30
+16:24:38: debug: rotate: servo elbow : pos 1428, speed 1000, accelerate 30
+16:24:39: debug: 执行脚本: move rotateshoulder  16 300 30 -30
+16:24:39: debug: rotate: servo rotateshoulder : pos 2279, speed 1000, accelerate 30
+16:24:39: debug: 执行脚本: move liftshoulder  8 300 30 -30
+16:24:39: debug: rotate: servo liftshoulder : pos 1734, speed 1000, accelerate 30
+16:24:39: debug: 执行脚本: move bigarm  53 300 30 -30
+16:24:39: debug: rotate: servo bigarm : pos 1824, speed 1000, accelerate 30
+16:24:40: debug: 执行脚本: move elbow  7 300 30 -30
+16:24:40: debug: rotate: servo elbow : pos 1248, speed 1000, accelerate 30
+16:24:40: debug: 执行脚本: move rotateshoulder  82 300 30 -30
+16:24:40: debug: rotate: servo rotateshoulder : pos 2964, speed 1000, accelerate 30
+16:24:40: debug: 执行脚本: move liftshoulder  94 300 30 -30
+16:24:40: debug: rotate: servo liftshoulder : pos 2379, speed 1000, accelerate 30
+16:24:41: debug: 执行脚本: move bigarm  7 300 30 -30
+16:24:41: debug: rotate: servo bigarm : pos 1039, speed 1000, accelerate 30
+16:24:41: debug: 执行脚本: move elbow  97 300 30 -30
+16:24:41: debug: rotate: servo elbow : pos 2017, speed 1000, accelerate 30
+16:24:41: debug: 执行脚本: move rotateshoulder  0 300 30 -30
+16:24:41: debug: rotate: servo rotateshoulder : pos 2113, speed 1000, accelerate 30
+16:24:42: debug: 执行脚本: move liftshoulder  56 300 30 -30
+16:24:42: debug: rotate: servo liftshoulder : pos 2094, speed 1000, accelerate 30
+16:24:42: debug: 执行脚本: move bigarm  77 300 30 -30
+16:24:42: debug: rotate: servo bigarm : pos 2233, speed 1000, accelerate 30
+16:24:43: debug: 执行脚本: move elbow  21 300 30 -30
+16:24:43: debug: rotate: servo elbow : pos 1368, speed 1000, accelerate 30
+16:24:44: debug: 执行脚本: move rotateshoulder  86 300 30 -30
+16:24:44: debug: rotate: servo rotateshoulder : pos 3005, speed 1000, accelerate 30
+16:24:45: debug: 执行脚本: move liftshoulder  93 300 30 -30
+16:24:45: debug: rotate: servo liftshoulder : pos 2372, speed 1000, accelerate 30
+16:24:45: debug: 执行脚本: move bigarm  34 300 30 -30
+16:24:45: debug: rotate: servo bigarm : pos 1500, speed 1000, accelerate 30
+16:24:45: debug: 执行脚本: move elbow  43 300 30 -30
+16:24:45: debug: rotate: servo elbow : pos 1556, speed 1000, accelerate 30
+16:24:46: debug: 执行脚本: move rotateshoulder  91 300 30 -30
+16:24:46: debug: rotate: servo rotateshoulder : pos 3057, speed 1000, accelerate 30
+16:24:46: debug: 执行脚本: move liftshoulder  5 300 30 -30
+16:24:46: debug: rotate: servo liftshoulder : pos 1711, speed 1000, accelerate 30
+16:24:47: debug: 执行脚本: move bigarm  20 300 30 -30
+16:24:47: debug: rotate: servo bigarm : pos 1261, speed 1000, accelerate 30
+16:24:48: debug: 执行脚本: move elbow  28 300 30 -30
+16:24:48: debug: rotate: servo elbow : pos 1428, speed 1000, accelerate 30
+16:24:49: debug: 执行脚本: move rotateshoulder  29 300 30 -30
+16:24:49: debug: rotate: servo rotateshoulder : pos 2414, speed 1000, accelerate 30
+16:24:49: debug: 执行脚本: move liftshoulder  7 300 30 -30
+16:24:49: debug: rotate: servo liftshoulder : pos 1726, speed 1000, accelerate 30
+16:24:49: debug: 执行脚本: move bigarm  3 300 30 -30
+16:24:49: debug: rotate: servo bigarm : pos 971, speed 1000, accelerate 30
+16:24:50: debug: 执行脚本: move elbow  67 300 30 -30
+16:24:50: debug: rotate: servo elbow : pos 1761, speed 1000, accelerate 30
+16:24:50: debug: 执行脚本: move rotateshoulder  0 300 30 -30
+16:24:50: debug: rotate: servo rotateshoulder : pos 2113, speed 1000, accelerate 30
+16:24:51: debug: 执行脚本: move liftshoulder  97 300 30 -30
+16:24:51: debug: rotate: servo liftshoulder : pos 2402, speed 1000, accelerate 30
+16:24:51: debug: 执行脚本: move bigarm  33 300 30 -30
+16:24:51: debug: rotate: servo bigarm : pos 1482, speed 1000, accelerate 30
+16:24:51: debug: 执行脚本: move elbow  59 300 30 -30
+16:24:51: debug: rotate: servo elbow : pos 1692, speed 1000, accelerate 30
+16:24:52: debug: 执行脚本: move rotateshoulder  41 300 30 -30
+16:24:52: debug: rotate: servo rotateshoulder : pos 2538, speed 1000, accelerate 30
+16:24:52: debug: 执行脚本: move liftshoulder  75 300 30 -30
+16:24:52: debug: rotate: servo liftshoulder : pos 2237, speed 1000, accelerate 30
+16:24:53: debug: 执行脚本: move bigarm  4 300 30 -30
+16:24:53: debug: rotate: servo bigarm : pos 988, speed 1000, accelerate 30
+16:24:54: debug: 执行脚本: move elbow  75 300 30 -30
+16:24:54: debug: rotate: servo elbow : pos 1829, speed 1000, accelerate 30
+16:24:54: debug: 执行脚本: move rotateshoulder  15 300 30 -30
+16:24:54: debug: rotate: servo rotateshoulder : pos 2268, speed 1000, accelerate 30
+16:24:55: debug: 执行脚本: move liftshoulder  22 300 30 -30
+16:24:55: debug: rotate: servo liftshoulder : pos 1839, speed 1000, accelerate 30
+16:24:55: debug: 执行脚本: move bigarm  82 300 30 -30
+16:24:55: debug: rotate: servo bigarm : pos 2318, speed 1000, accelerate 30
+16:24:56: debug: 执行脚本: move elbow  3 300 30 -30
+16:24:56: debug: rotate: servo elbow : pos 1214, speed 1000, accelerate 30
+16:24:57: debug: 执行脚本: move rotateshoulder  49 300 30 -30
+16:24:57: debug: rotate: servo rotateshoulder : pos 2621, speed 1000, accelerate 30
+16:24:58: debug: 执行脚本: move liftshoulder  44 300 30 -30
+16:24:58: debug: rotate: servo liftshoulder : pos 2004, speed 1000, accelerate 30
+16:24:58: debug: 执行脚本: move bigarm  63 300 30 -30
+16:24:58: debug: rotate: servo bigarm : pos 1994, speed 1000, accelerate 30
+16:24:59: debug: 执行脚本: move elbow  71 300 30 -30
+16:24:59: debug: rotate: servo elbow : pos 1795, speed 1000, accelerate 30
+16:24:59: debug: 执行脚本: move rotateshoulder  52 300 30 -30
+16:24:59: debug: rotate: servo rotateshoulder : pos 2652, speed 1000, accelerate 30
+16:25:00: debug: 执行脚本: move liftshoulder  49 300 30 -30
+16:25:00: debug: rotate: servo liftshoulder : pos 2041, speed 1000, accelerate 30
+16:25:00: debug: 执行脚本: move bigarm  43 300 30 -30
+16:25:00: debug: rotate: servo bigarm : pos 1653, speed 1000, accelerate 30
+16:25:01: debug: 执行脚本: move elbow  22 300 30 -30
+16:25:01: debug: rotate: servo elbow : pos 1376, speed 1000, accelerate 30
+16:25:01: debug: 执行脚本: move rotateshoulder  87 300 30 -30
+16:25:01: debug: rotate: servo rotateshoulder : pos 3016, speed 1000, accelerate 30
+16:25:02: debug: 执行脚本: move liftshoulder  29 300 30 -30
+16:25:02: debug: rotate: servo liftshoulder : pos 1891, speed 1000, accelerate 30
+16:25:02: debug: 执行脚本: move bigarm  20 300 30 -30
+16:25:02: debug: rotate: servo bigarm : pos 1261, speed 1000, accelerate 30
+16:25:03: debug: 执行脚本: move elbow  19 300 30 -30
+16:25:03: debug: rotate: servo elbow : pos 1351, speed 1000, accelerate 30
+16:25:03: debug: 执行脚本: move rotateshoulder  96 300 30 -30
+16:25:03: debug: rotate: servo rotateshoulder : pos 3109, speed 1000, accelerate 30
+16:25:04: debug: 执行脚本: move liftshoulder  79 300 30 -30
+16:25:04: debug: rotate: servo liftshoulder : pos 2267, speed 1000, accelerate 30
+16:25:04: debug: 执行脚本: move bigarm  50 300 30 -30
+16:25:04: debug: rotate: servo bigarm : pos 1773, speed 1000, accelerate 30
+16:25:05: debug: 执行脚本: move elbow  46 300 30 -30
+16:25:05: debug: rotate: servo elbow : pos 1581, speed 1000, accelerate 30
+16:25:05: debug: 执行脚本: move rotateshoulder  1 300 30 -30
+16:25:05: debug: rotate: servo rotateshoulder : pos 2123, speed 1000, accelerate 30
+16:25:06: debug: 执行脚本: move liftshoulder  96 300 30 -30
+16:25:06: debug: rotate: servo liftshoulder : pos 2394, speed 1000, accelerate 30
+16:25:07: debug: 执行脚本: move bigarm  41 300 30 -30
+16:25:07: debug: rotate: servo bigarm : pos 1619, speed 1000, accelerate 30
+16:25:08: debug: 执行脚本: move elbow  85 300 30 -30
+16:25:08: debug: rotate: servo elbow : pos 1914, speed 1000, accelerate 30
+16:25:08: debug: 执行脚本: move rotateshoulder  23 300 30 -30
+16:25:08: debug: rotate: servo rotateshoulder : pos 2351, speed 1000, accelerate 30
+16:25:08: debug: 执行脚本: move liftshoulder  51 300 30 -30
+16:25:08: debug: rotate: servo liftshoulder : pos 2057, speed 1000, accelerate 30
+16:25:09: debug: 执行脚本: move bigarm  0 300 30 -30
+16:25:09: debug: rotate: servo bigarm : pos 920, speed 1000, accelerate 30
+16:25:09: debug: 执行脚本: move elbow  55 300 30 -30
+16:25:09: debug: rotate: servo elbow : pos 1658, speed 1000, accelerate 30
+16:25:10: debug: 执行脚本: move rotateshoulder  16 300 30 -30
+16:25:10: debug: rotate: servo rotateshoulder : pos 2279, speed 1000, accelerate 30
+16:25:11: debug: 执行脚本: move liftshoulder  33 300 30 -30
+16:25:11: debug: rotate: servo liftshoulder : pos 1921, speed 1000, accelerate 30
+16:25:11: debug: 执行脚本: move bigarm  41 300 30 -30
+16:25:11: debug: rotate: servo bigarm : pos 1619, speed 1000, accelerate 30
+16:25:12: debug: 执行脚本: move elbow  45 300 30 -30
+16:25:12: debug: rotate: servo elbow : pos 1573, speed 1000, accelerate 30
+16:25:12: debug: 执行脚本: move rotateshoulder  65 300 30 -30
+16:25:12: debug: rotate: servo rotateshoulder : pos 2787, speed 1000, accelerate 30
+16:25:13: debug: 执行脚本: move liftshoulder  7 300 30 -30
+16:25:13: debug: rotate: servo liftshoulder : pos 1726, speed 1000, accelerate 30
+16:25:13: debug: 执行脚本: move bigarm  83 300 30 -30
+16:25:13: debug: rotate: servo bigarm : pos 2335, speed 1000, accelerate 30
+16:25:14: debug: 执行脚本: move elbow  10 300 30 -30
+16:25:14: debug: rotate: servo elbow : pos 1274, speed 1000, accelerate 30
+16:25:14: debug: 执行脚本: move rotateshoulder  49 300 30 -30
+16:25:14: debug: rotate: servo rotateshoulder : pos 2621, speed 1000, accelerate 30
+16:25:14: debug: 执行脚本: move liftshoulder  95 300 30 -30
+16:25:14: debug: rotate: servo liftshoulder : pos 2387, speed 1000, accelerate 30
+16:25:15: debug: 执行脚本: move bigarm  81 300 30 -30
+16:25:15: debug: rotate: servo bigarm : pos 2301, speed 1000, accelerate 30
+16:25:16: debug: 执行脚本: move elbow  86 300 30 -30
+16:25:16: debug: rotate: servo elbow : pos 1923, speed 1000, accelerate 30
+16:25:16: debug: 执行脚本: move rotateshoulder  22 300 30 -30
+16:25:16: debug: rotate: servo rotateshoulder : pos 2341, speed 1000, accelerate 30
+16:25:17: debug: 执行脚本: move liftshoulder  69 300 30 -30
+16:25:17: debug: rotate: servo liftshoulder : pos 2192, speed 1000, accelerate 30
+16:25:17: debug: 执行脚本: move bigarm  23 300 30 -30
+16:25:17: debug: rotate: servo bigarm : pos 1312, speed 1000, accelerate 30
+16:25:18: debug: 执行脚本: move elbow  18 300 30 -30
+16:25:18: debug: rotate: servo elbow : pos 1342, speed 1000, accelerate 30
+16:25:19: debug: 执行脚本: move rotateshoulder  84 300 30 -30
+16:25:19: debug: rotate: servo rotateshoulder : pos 2984, speed 1000, accelerate 30
+16:25:20: debug: 执行脚本: move liftshoulder  52 300 30 -30
+16:25:20: debug: rotate: servo liftshoulder : pos 2064, speed 1000, accelerate 30
+16:25:20: debug: 执行脚本: move bigarm  96 300 30 -30
+16:25:20: debug: rotate: servo bigarm : pos 2557, speed 1000, accelerate 30
+16:25:21: debug: 执行脚本: move elbow  14 300 30 -30
+16:25:21: debug: rotate: servo elbow : pos 1308, speed 1000, accelerate 30
+16:25:22: debug: 执行脚本: move rotateshoulder  19 300 30 -30
+16:25:22: debug: rotate: servo rotateshoulder : pos 2310, speed 1000, accelerate 30
+16:25:22: debug: 执行脚本: move liftshoulder  64 300 30 -30
+16:25:22: debug: rotate: servo liftshoulder : pos 2154, speed 1000, accelerate 30
+16:25:23: debug: 执行脚本: move bigarm  16 300 30 -30
+16:25:23: debug: rotate: servo bigarm : pos 1192, speed 1000, accelerate 30
+16:25:23: debug: 执行脚本: move elbow  62 300 30 -30
+16:25:23: debug: rotate: servo elbow : pos 1718, speed 1000, accelerate 30
+16:25:24: debug: 执行脚本: move rotateshoulder  20 300 30 -30
+16:25:24: debug: rotate: servo rotateshoulder : pos 2320, speed 1000, accelerate 30
+16:25:24: debug: 执行脚本: move liftshoulder  44 300 30 -30
+16:25:24: debug: rotate: servo liftshoulder : pos 2004, speed 1000, accelerate 30
+16:25:25: debug: 执行脚本: move bigarm  5 300 30 -30
+16:25:25: debug: rotate: servo bigarm : pos 1005, speed 1000, accelerate 30
+16:25:26: debug: 执行脚本: move elbow  0 300 30 -30
+16:25:26: debug: rotate: servo elbow : pos 1189, speed 1000, accelerate 30
+16:25:26: debug: 执行脚本: move rotateshoulder  91 300 30 -30
+16:25:26: debug: rotate: servo rotateshoulder : pos 3057, speed 1000, accelerate 30
+16:25:27: debug: 执行脚本: move liftshoulder  84 300 30 -30
+16:25:27: debug: rotate: servo liftshoulder : pos 2304, speed 1000, accelerate 30
+16:25:27: debug: 执行脚本: move bigarm  78 300 30 -30
+16:25:27: debug: rotate: servo bigarm : pos 2250, speed 1000, accelerate 30
+16:25:27: debug: 执行脚本: move elbow  74 300 30 -30
+16:25:27: debug: rotate: servo elbow : pos 1820, speed 1000, accelerate 30
+16:25:28: debug: 执行脚本: move rotateshoulder  80 300 30 -30
+16:25:28: debug: rotate: servo rotateshoulder : pos 2943, speed 1000, accelerate 30
+16:25:28: debug: 执行脚本: move liftshoulder  76 300 30 -30
+16:25:28: debug: rotate: servo liftshoulder : pos 2244, speed 1000, accelerate 30
+16:25:28: debug: 执行脚本: move bigarm  53 300 30 -30
+16:25:28: debug: rotate: servo bigarm : pos 1824, speed 1000, accelerate 30
+16:25:29: debug: 执行脚本: move elbow  76 300 30 -30
+16:25:29: debug: rotate: servo elbow : pos 1838, speed 1000, accelerate 30
+16:25:30: debug: 执行脚本: move rotateshoulder  54 300 30 -30
+16:25:30: debug: rotate: servo rotateshoulder : pos 2673, speed 1000, accelerate 30
+16:25:30: debug: 执行脚本: move liftshoulder  36 300 30 -30
+16:25:30: debug: rotate: servo liftshoulder : pos 1944, speed 1000, accelerate 30
+16:25:30: debug: 执行脚本: move bigarm  36 300 30 -30
+16:25:30: debug: rotate: servo bigarm : pos 1534, speed 1000, accelerate 30
+16:25:31: debug: 执行脚本: move elbow  35 300 30 -30
+16:25:31: debug: rotate: servo elbow : pos 1487, speed 1000, accelerate 30
+16:25:31: debug: 执行脚本: move rotateshoulder  47 300 30 -30
+16:25:31: debug: rotate: servo rotateshoulder : pos 2600, speed 1000, accelerate 30
+16:25:32: debug: 执行脚本: move liftshoulder  77 300 30 -30
+16:25:32: debug: rotate: servo liftshoulder : pos 2252, speed 1000, accelerate 30
+16:25:33: debug: 执行脚本: move bigarm  90 300 30 -30
+16:25:33: debug: rotate: servo bigarm : pos 2455, speed 1000, accelerate 30
+16:25:34: debug: 执行脚本: move elbow  36 300 30 -30
+16:25:34: debug: rotate: servo elbow : pos 1496, speed 1000, accelerate 30
+16:25:34: debug: 执行脚本: move rotateshoulder  48 300 30 -30
+16:25:34: debug: rotate: servo rotateshoulder : pos 2611, speed 1000, accelerate 30
+16:25:34: debug: 执行脚本: move liftshoulder  73 300 30 -30
+16:25:34: debug: rotate: servo liftshoulder : pos 2222, speed 1000, accelerate 30
+16:25:35: debug: 执行脚本: move bigarm  73 300 30 -30
+16:25:35: debug: rotate: servo bigarm : pos 2165, speed 1000, accelerate 30
+16:25:35: debug: 执行脚本: move elbow  48 300 30 -30
+16:25:35: debug: rotate: servo elbow : pos 1598, speed 1000, accelerate 30
+16:25:36: debug: 执行脚本: move rotateshoulder  29 300 30 -30
+16:25:36: debug: rotate: servo rotateshoulder : pos 2414, speed 1000, accelerate 30
+16:25:36: debug: 执行脚本: move liftshoulder  0 300 30 -30
+16:25:36: debug: rotate: servo liftshoulder : pos 1674, speed 1000, accelerate 30
+16:25:37: debug: 执行脚本: move bigarm  63 300 30 -30
+16:25:37: debug: rotate: servo bigarm : pos 1994, speed 1000, accelerate 30
+16:25:37: debug: 执行脚本: move elbow  52 300 30 -30
+16:25:37: debug: rotate: servo elbow : pos 1633, speed 1000, accelerate 30
+16:25:38: debug: 执行脚本: move rotateshoulder  9 300 30 -30
+16:25:38: debug: rotate: servo rotateshoulder : pos 2206, speed 1000, accelerate 30
+16:25:38: debug: 执行脚本: move liftshoulder  54 300 30 -30
+16:25:38: debug: rotate: servo liftshoulder : pos 2079, speed 1000, accelerate 30
+16:25:39: debug: 执行脚本: move bigarm  48 300 30 -30
+16:25:39: debug: rotate: servo bigarm : pos 1738, speed 1000, accelerate 30
+16:25:39: debug: 执行脚本: move elbow  53 300 30 -30
+16:25:39: debug: rotate: servo elbow : pos 1641, speed 1000, accelerate 30
+16:25:39: debug: 执行脚本: move rotateshoulder  69 300 30 -30
+16:25:39: debug: rotate: servo rotateshoulder : pos 2829, speed 1000, accelerate 30
+16:25:39: debug: 执行脚本: move liftshoulder  77 300 30 -30
+16:25:39: debug: rotate: servo liftshoulder : pos 2252, speed 1000, accelerate 30
+16:25:40: debug: 执行脚本: move bigarm  85 300 30 -30
+16:25:40: debug: rotate: servo bigarm : pos 2370, speed 1000, accelerate 30
+16:25:40: debug: 执行脚本: move elbow  1 300 30 -30
+16:25:40: debug: rotate: servo elbow : pos 1197, speed 1000, accelerate 30
+16:25:40: debug: 执行脚本: move rotateshoulder  38 300 30 -30
+16:25:40: debug: rotate: servo rotateshoulder : pos 2507, speed 1000, accelerate 30
+16:25:40: debug: 执行脚本: move liftshoulder  80 300 30 -30
+16:25:40: debug: rotate: servo liftshoulder : pos 2274, speed 1000, accelerate 30
+16:25:41: debug: 执行脚本: move bigarm  90 300 30 -30
+16:25:41: debug: rotate: servo bigarm : pos 2455, speed 1000, accelerate 30
+16:25:41: debug: 执行脚本: move elbow  97 300 30 -30
+16:25:41: debug: rotate: servo elbow : pos 2017, speed 1000, accelerate 30
+16:25:42: debug: 执行脚本: move rotateshoulder  88 300 30 -30
+16:25:42: debug: rotate: servo rotateshoulder : pos 3026, speed 1000, accelerate 30
+16:25:42: debug: 执行脚本: move liftshoulder  50 300 30 -30
+16:25:42: debug: rotate: servo liftshoulder : pos 2049, speed 1000, accelerate 30
+16:25:43: debug: 执行脚本: move bigarm  76 300 30 -30
+16:25:43: debug: rotate: servo bigarm : pos 2216, speed 1000, accelerate 30
+16:25:44: debug: 执行脚本: move elbow  92 300 30 -30
+16:25:44: debug: rotate: servo elbow : pos 1974, speed 1000, accelerate 30
+16:25:44: debug: 执行脚本: move rotateshoulder  13 300 30 -30
+16:25:44: debug: rotate: servo rotateshoulder : pos 2247, speed 1000, accelerate 30
+16:25:45: debug: 执行脚本: move liftshoulder  3 300 30 -30
+16:25:45: debug: rotate: servo liftshoulder : pos 1696, speed 1000, accelerate 30
+16:25:45: debug: 执行脚本: move bigarm  84 300 30 -30
+16:25:45: debug: rotate: servo bigarm : pos 2353, speed 1000, accelerate 30
+16:25:46: debug: 执行脚本: move elbow  3 300 30 -30
+16:25:46: debug: rotate: servo elbow : pos 1214, speed 1000, accelerate 30
+16:25:46: debug: 执行脚本: move rotateshoulder  31 300 30 -30
+16:25:46: debug: rotate: servo rotateshoulder : pos 2434, speed 1000, accelerate 30
+16:25:47: debug: 执行脚本: move liftshoulder  18 300 30 -30
+16:25:47: debug: rotate: servo liftshoulder : pos 1809, speed 1000, accelerate 30
+16:25:48: debug: 执行脚本: move bigarm  66 300 30 -30
+16:25:48: debug: rotate: servo bigarm : pos 2045, speed 1000, accelerate 30
+16:25:48: debug: 执行脚本: move elbow  70 300 30 -30
+16:25:48: debug: rotate: servo elbow : pos 1786, speed 1000, accelerate 30
+16:25:48: debug: 执行脚本: move rotateshoulder  9 300 30 -30
+16:25:48: debug: rotate: servo rotateshoulder : pos 2206, speed 1000, accelerate 30
+16:25:49: debug: 执行脚本: move liftshoulder  92 300 30 -30
+16:25:49: debug: rotate: servo liftshoulder : pos 2364, speed 1000, accelerate 30
+16:25:49: debug: 执行脚本: move bigarm  95 300 30 -30
+16:25:49: debug: rotate: servo bigarm : pos 2540, speed 1000, accelerate 30
+16:25:49: debug: 执行脚本: move elbow  9 300 30 -30
+16:25:49: debug: rotate: servo elbow : pos 1265, speed 1000, accelerate 30
+16:25:50: debug: 执行脚本: move rotateshoulder  19 300 30 -30
+16:25:50: debug: rotate: servo rotateshoulder : pos 2310, speed 1000, accelerate 30
+16:25:51: debug: 执行脚本: move liftshoulder  47 300 30 -30
+16:25:51: debug: rotate: servo liftshoulder : pos 2026, speed 1000, accelerate 30
+16:25:51: debug: 执行脚本: move bigarm  43 300 30 -30
+16:25:51: debug: rotate: servo bigarm : pos 1653, speed 1000, accelerate 30
+16:25:51: debug: 执行脚本: move elbow  21 300 30 -30
+16:25:51: debug: rotate: servo elbow : pos 1368, speed 1000, accelerate 30
+16:25:51: debug: 执行脚本: move rotateshoulder  18 300 30 -30
+16:25:51: debug: rotate: servo rotateshoulder : pos 2299, speed 1000, accelerate 30
+16:25:52: debug: 执行脚本: move liftshoulder  91 300 30 -30
+16:25:52: debug: rotate: servo liftshoulder : pos 2357, speed 1000, accelerate 30
+16:25:52: debug: 执行脚本: move bigarm  76 300 30 -30
+16:25:52: debug: rotate: servo bigarm : pos 2216, speed 1000, accelerate 30
+16:25:52: debug: 执行脚本: move elbow  14 300 30 -30
+16:25:52: debug: rotate: servo elbow : pos 1308, speed 1000, accelerate 30
+16:25:53: debug: 执行脚本: move rotateshoulder  33 300 30 -30
+16:25:53: debug: rotate: servo rotateshoulder : pos 2455, speed 1000, accelerate 30
+16:25:54: debug: 执行脚本: move liftshoulder  16 300 30 -30
+16:25:54: debug: rotate: servo liftshoulder : pos 1794, speed 1000, accelerate 30
+16:25:55: debug: 执行脚本: move bigarm  15 300 30 -30
+16:25:55: debug: rotate: servo bigarm : pos 1175, speed 1000, accelerate 30
+16:25:56: debug: 执行脚本: move elbow  5 300 30 -30
+16:25:56: debug: rotate: servo elbow : pos 1231, speed 1000, accelerate 30
+16:25:57: debug: 执行脚本: move rotateshoulder  88 300 30 -30
+16:25:57: debug: rotate: servo rotateshoulder : pos 3026, speed 1000, accelerate 30
+16:25:57: debug: 执行脚本: move liftshoulder  42 300 30 -30
+16:25:57: debug: rotate: servo liftshoulder : pos 1989, speed 1000, accelerate 30
+16:25:58: debug: 执行脚本: move bigarm  73 300 30 -30
+16:25:58: debug: rotate: servo bigarm : pos 2165, speed 1000, accelerate 30
+16:25:59: debug: 执行脚本: move elbow  45 300 30 -30
+16:25:59: debug: rotate: servo elbow : pos 1573, speed 1000, accelerate 30
+16:26:00: debug: 执行脚本: move rotateshoulder  32 300 30 -30
+16:26:00: debug: rotate: servo rotateshoulder : pos 2445, speed 1000, accelerate 30
+16:26:00: debug: 执行脚本: move liftshoulder  96 300 30 -30
+16:26:00: debug: rotate: servo liftshoulder : pos 2394, speed 1000, accelerate 30
+16:26:00: debug: 执行脚本: move bigarm  49 300 30 -30
+16:26:00: debug: rotate: servo bigarm : pos 1755, speed 1000, accelerate 30
+16:26:01: debug: 执行脚本: move elbow  9 300 30 -30
+16:26:01: debug: rotate: servo elbow : pos 1265, speed 1000, accelerate 30
+16:26:01: debug: 执行脚本: move rotateshoulder  98 300 30 -30
+16:26:01: debug: rotate: servo rotateshoulder : pos 3130, speed 1000, accelerate 30
+16:26:02: debug: 执行脚本: move liftshoulder  0 300 30 -30
+16:26:02: debug: rotate: servo liftshoulder : pos 1674, speed 1000, accelerate 30
+16:26:02: debug: 执行脚本: move bigarm  76 300 30 -30
+16:26:02: debug: rotate: servo bigarm : pos 2216, speed 1000, accelerate 30
+16:26:03: debug: 执行脚本: move elbow  68 300 30 -30
+16:26:03: debug: rotate: servo elbow : pos 1769, speed 1000, accelerate 30
+16:26:03: debug: 执行脚本: move rotateshoulder  75 300 30 -30
+16:26:03: debug: rotate: servo rotateshoulder : pos 2891, speed 1000, accelerate 30
+16:26:04: debug: 执行脚本: move liftshoulder  93 300 30 -30
+16:26:04: debug: rotate: servo liftshoulder : pos 2372, speed 1000, accelerate 30
+16:26:04: debug: 执行脚本: move bigarm  53 300 30 -30
+16:26:04: debug: rotate: servo bigarm : pos 1824, speed 1000, accelerate 30
+16:26:05: debug: 执行脚本: move elbow  23 300 30 -30
+16:26:05: debug: rotate: servo elbow : pos 1385, speed 1000, accelerate 30
+16:26:06: debug: 执行脚本: move rotateshoulder  1 300 30 -30
+16:26:06: debug: rotate: servo rotateshoulder : pos 2123, speed 1000, accelerate 30
+16:26:07: debug: 执行脚本: move liftshoulder  44 300 30 -30
+16:26:07: debug: rotate: servo liftshoulder : pos 2004, speed 1000, accelerate 30
+16:26:08: debug: 执行脚本: move bigarm  53 300 30 -30
+16:26:08: debug: rotate: servo bigarm : pos 1824, speed 1000, accelerate 30
+16:26:08: debug: 执行脚本: move elbow  50 300 30 -30
+16:26:08: debug: rotate: servo elbow : pos 1616, speed 1000, accelerate 30
+16:26:09: debug: 执行脚本: move rotateshoulder  50 300 30 -30
+16:26:09: debug: rotate: servo rotateshoulder : pos 2632, speed 1000, accelerate 30
+16:26:10: debug: 执行脚本: move liftshoulder  97 300 30 -30
+16:26:10: debug: rotate: servo liftshoulder : pos 2402, speed 1000, accelerate 30
+16:26:11: debug: 执行脚本: move bigarm  87 300 30 -30
+16:26:11: debug: rotate: servo bigarm : pos 2404, speed 1000, accelerate 30
+16:26:11: debug: 执行脚本: move elbow  79 300 30 -30
+16:26:11: debug: rotate: servo elbow : pos 1863, speed 1000, accelerate 30
+16:26:12: debug: 执行脚本: move rotateshoulder  50 300 30 -30
+16:26:12: debug: rotate: servo rotateshoulder : pos 2632, speed 1000, accelerate 30
+16:26:12: debug: 执行脚本: move liftshoulder  30 300 30 -30
+16:26:12: debug: rotate: servo liftshoulder : pos 1899, speed 1000, accelerate 30
+16:26:13: debug: 执行脚本: move bigarm  94 300 30 -30
+16:26:13: debug: rotate: servo bigarm : pos 2523, speed 1000, accelerate 30
+16:26:14: debug: 执行脚本: move elbow  83 300 30 -30
+16:26:14: debug: rotate: servo elbow : pos 1897, speed 1000, accelerate 30
+16:26:14: debug: 执行脚本: move rotateshoulder  1 300 30 -30
+16:26:14: debug: rotate: servo rotateshoulder : pos 2123, speed 1000, accelerate 30
+16:26:15: debug: 执行脚本: move liftshoulder  29 300 30 -30
+16:26:15: debug: rotate: servo liftshoulder : pos 1891, speed 1000, accelerate 30
+16:26:16: debug: 执行脚本: move bigarm  68 300 30 -30
+16:26:16: debug: rotate: servo bigarm : pos 2080, speed 1000, accelerate 30
+16:26:16: debug: 执行脚本: move elbow  25 300 30 -30
+16:26:16: debug: rotate: servo elbow : pos 1402, speed 1000, accelerate 30
+16:26:17: debug: 执行脚本: move rotateshoulder  42 300 30 -30
+16:26:17: debug: rotate: servo rotateshoulder : pos 2548, speed 1000, accelerate 30
+16:26:17: debug: 执行脚本: move liftshoulder  97 300 30 -30
+16:26:17: debug: rotate: servo liftshoulder : pos 2402, speed 1000, accelerate 30
+16:26:18: debug: 执行脚本: move bigarm  91 300 30 -30
+16:26:18: debug: rotate: servo bigarm : pos 2472, speed 1000, accelerate 30
+16:26:19: debug: 执行脚本: move elbow  76 300 30 -30
+16:26:19: debug: rotate: servo elbow : pos 1838, speed 1000, accelerate 30
+16:26:19: debug: 执行脚本: move rotateshoulder  15 300 30 -30
+16:26:19: debug: rotate: servo rotateshoulder : pos 2268, speed 1000, accelerate 30
+16:26:19: debug: 执行脚本: move liftshoulder  99 300 30 -30
+16:26:19: debug: rotate: servo liftshoulder : pos 2417, speed 1000, accelerate 30
+16:26:20: debug: 执行脚本: move bigarm  28 300 30 -30
+16:26:20: debug: rotate: servo bigarm : pos 1397, speed 1000, accelerate 30
+16:26:21: debug: 执行脚本: move elbow  13 300 30 -30
+16:26:21: debug: rotate: servo elbow : pos 1300, speed 1000, accelerate 30
+16:26:22: debug: 执行脚本: move rotateshoulder  72 300 30 -30
+16:26:22: debug: rotate: servo rotateshoulder : pos 2860, speed 1000, accelerate 30
+16:26:22: debug: 执行脚本: move liftshoulder  9 300 30 -30
+16:26:22: debug: rotate: servo liftshoulder : pos 1741, speed 1000, accelerate 30
+16:26:23: debug: 执行脚本: move bigarm  26 300 30 -30
+16:26:23: debug: rotate: servo bigarm : pos 1363, speed 1000, accelerate 30
+16:26:24: debug: 执行脚本: move elbow  98 300 30 -30
+16:26:24: debug: rotate: servo elbow : pos 2025, speed 1000, accelerate 30
+16:26:24: debug: 执行脚本: move rotateshoulder  67 300 30 -30
+16:26:24: debug: rotate: servo rotateshoulder : pos 2808, speed 1000, accelerate 30
+16:26:24: debug: 执行脚本: move liftshoulder  50 300 30 -30
+16:26:24: debug: rotate: servo liftshoulder : pos 2049, speed 1000, accelerate 30
+16:26:25: debug: 执行脚本: move bigarm  11 300 30 -30
+16:26:25: debug: rotate: servo bigarm : pos 1107, speed 1000, accelerate 30
+16:26:25: debug: 执行脚本: move elbow  92 300 30 -30
+16:26:25: debug: rotate: servo elbow : pos 1974, speed 1000, accelerate 30
+16:26:25: debug: 执行脚本: move rotateshoulder  63 300 30 -30
+16:26:25: debug: rotate: servo rotateshoulder : pos 2766, speed 1000, accelerate 30
+16:26:25: debug: 执行脚本: move liftshoulder  68 300 30 -30
+16:26:25: debug: rotate: servo liftshoulder : pos 2184, speed 1000, accelerate 30
+16:26:26: debug: 执行脚本: move bigarm  10 300 30 -30
+16:26:26: debug: rotate: servo bigarm : pos 1090, speed 1000, accelerate 30
+16:26:26: debug: 执行脚本: move elbow  98 300 30 -30
+16:26:26: debug: rotate: servo elbow : pos 2025, speed 1000, accelerate 30
+16:26:27: debug: 执行脚本: move rotateshoulder  26 300 30 -30
+16:26:27: debug: rotate: servo rotateshoulder : pos 2382, speed 1000, accelerate 30
+16:26:27: debug: 执行脚本: move liftshoulder  16 300 30 -30
+16:26:27: debug: rotate: servo liftshoulder : pos 1794, speed 1000, accelerate 30
+16:26:27: debug: 执行脚本: move bigarm  6 300 30 -30
+16:26:27: debug: rotate: servo bigarm : pos 1022, speed 1000, accelerate 30
+16:26:28: debug: 执行脚本: move elbow  19 300 30 -30
+16:26:28: debug: rotate: servo elbow : pos 1351, speed 1000, accelerate 30
+16:26:28: debug: 执行脚本: move rotateshoulder  2 300 30 -30
+16:26:28: debug: rotate: servo rotateshoulder : pos 2133, speed 1000, accelerate 30
+16:26:29: debug: 执行脚本: move liftshoulder  1 300 30 -30
+16:26:29: debug: rotate: servo liftshoulder : pos 1681, speed 1000, accelerate 30
+16:26:29: debug: 执行脚本: move bigarm  27 300 30 -30
+16:26:29: debug: rotate: servo bigarm : pos 1380, speed 1000, accelerate 30
+16:26:29: debug: 执行脚本: move elbow  83 300 30 -30
+16:26:29: debug: rotate: servo elbow : pos 1897, speed 1000, accelerate 30
+16:26:29: debug: 执行脚本: move rotateshoulder  13 300 30 -30
+16:26:29: debug: rotate: servo rotateshoulder : pos 2247, speed 1000, accelerate 30
+16:26:30: debug: 执行脚本: move liftshoulder  30 300 30 -30
+16:26:30: debug: rotate: servo liftshoulder : pos 1899, speed 1000, accelerate 30
+16:26:31: debug: 执行脚本: move bigarm  34 300 30 -30
+16:26:31: debug: rotate: servo bigarm : pos 1500, speed 1000, accelerate 30
+16:26:31: debug: 执行脚本: move elbow  64 300 30 -30
+16:26:31: debug: rotate: servo elbow : pos 1735, speed 1000, accelerate 30
+16:26:32: debug: 执行脚本: move rotateshoulder  68 300 30 -30
+16:26:32: debug: rotate: servo rotateshoulder : pos 2818, speed 1000, accelerate 30
+16:26:32: debug: 执行脚本: move liftshoulder  18 300 30 -30
+16:26:32: debug: rotate: servo liftshoulder : pos 1809, speed 1000, accelerate 30
+16:26:33: debug: 执行脚本: move bigarm  21 300 30 -30
+16:26:33: debug: rotate: servo bigarm : pos 1278, speed 1000, accelerate 30
+16:26:33: debug: 执行脚本: move elbow  30 300 30 -30
+16:26:33: debug: rotate: servo elbow : pos 1445, speed 1000, accelerate 30
+16:26:33: debug: 执行脚本: move rotateshoulder  3 300 30 -30
+16:26:33: debug: rotate: servo rotateshoulder : pos 2144, speed 1000, accelerate 30
+16:26:33: debug: 执行脚本: move liftshoulder  27 300 30 -30
+16:26:33: debug: rotate: servo liftshoulder : pos 1876, speed 1000, accelerate 30
+16:26:34: debug: 执行脚本: move bigarm  12 300 30 -30
+16:26:34: debug: rotate: servo bigarm : pos 1124, speed 1000, accelerate 30
+16:26:35: debug: 执行脚本: move elbow  52 300 30 -30
+16:26:35: debug: rotate: servo elbow : pos 1633, speed 1000, accelerate 30
+16:26:36: debug: 执行脚本: move rotateshoulder  50 300 30 -30
+16:26:36: debug: rotate: servo rotateshoulder : pos 2632, speed 1000, accelerate 30
+16:26:36: debug: 执行脚本: move liftshoulder  12 300 30 -30
+16:26:36: debug: rotate: servo liftshoulder : pos 1764, speed 1000, accelerate 30
+16:26:37: debug: 执行脚本: move bigarm  28 300 30 -30
+16:26:37: debug: rotate: servo bigarm : pos 1397, speed 1000, accelerate 30
+16:26:37: debug: 执行脚本: move elbow  93 300 30 -30
+16:26:37: debug: rotate: servo elbow : pos 1983, speed 1000, accelerate 30
+16:26:38: debug: 执行脚本: move rotateshoulder  21 300 30 -30
+16:26:38: debug: rotate: servo rotateshoulder : pos 2330, speed 1000, accelerate 30
+16:26:38: debug: 执行脚本: move liftshoulder  93 300 30 -30
+16:26:38: debug: rotate: servo liftshoulder : pos 2372, speed 1000, accelerate 30
+16:26:38: debug: 执行脚本: move bigarm  65 300 30 -30
+16:26:38: debug: rotate: servo bigarm : pos 2028, speed 1000, accelerate 30
+16:26:39: debug: 执行脚本: move elbow  45 300 30 -30
+16:26:39: debug: rotate: servo elbow : pos 1573, speed 1000, accelerate 30
+16:26:39: debug: 执行脚本: move rotateshoulder  50 300 30 -30
+16:26:39: debug: rotate: servo rotateshoulder : pos 2632, speed 1000, accelerate 30
+16:26:39: debug: 执行脚本: move liftshoulder  35 300 30 -30
+16:26:39: debug: rotate: servo liftshoulder : pos 1936, speed 1000, accelerate 30
+16:26:39: debug: 执行脚本: move bigarm  54 300 30 -30
+16:26:39: debug: rotate: servo bigarm : pos 1841, speed 1000, accelerate 30
+16:26:40: debug: 执行脚本: move elbow  42 300 30 -30
+16:26:40: debug: rotate: servo elbow : pos 1547, speed 1000, accelerate 30
+16:26:40: debug: 执行脚本: move rotateshoulder  56 300 30 -30
+16:26:40: debug: rotate: servo rotateshoulder : pos 2694, speed 1000, accelerate 30
+16:26:41: debug: 执行脚本: move liftshoulder  88 300 30 -30
+16:26:41: debug: rotate: servo liftshoulder : pos 2334, speed 1000, accelerate 30
+16:26:41: debug: 执行脚本: move bigarm  14 300 30 -30
+16:26:41: debug: rotate: servo bigarm : pos 1158, speed 1000, accelerate 30
+16:26:42: debug: 执行脚本: move elbow  44 300 30 -30
+16:26:42: debug: rotate: servo elbow : pos 1564, speed 1000, accelerate 30
+16:26:43: debug: 执行脚本: move rotateshoulder  39 300 30 -30
+16:26:43: debug: rotate: servo rotateshoulder : pos 2517, speed 1000, accelerate 30
+16:26:44: debug: 执行脚本: move liftshoulder  51 300 30 -30
+16:26:44: debug: rotate: servo liftshoulder : pos 2057, speed 1000, accelerate 30
+16:26:44: debug: 执行脚本: move bigarm  10 300 30 -30
+16:26:44: debug: rotate: servo bigarm : pos 1090, speed 1000, accelerate 30
+16:26:45: debug: 执行脚本: move elbow  1 300 30 -30
+16:26:45: debug: rotate: servo elbow : pos 1197, speed 1000, accelerate 30
+16:26:45: debug: 执行脚本: move rotateshoulder  80 300 30 -30
+16:26:45: debug: rotate: servo rotateshoulder : pos 2943, speed 1000, accelerate 30
+16:26:45: debug: 执行脚本: move liftshoulder  84 300 30 -30
+16:26:45: debug: rotate: servo liftshoulder : pos 2304, speed 1000, accelerate 30
+16:26:45: 写入数据失败:  servo: liftshoulder, servo id: 12 地址: 46, 写入数据: 1000
+16:26:45: [TxRxResult] Port is in use!
+16:26:45: dxl_comm.send_script() script : move liftshoulder  84 300 30 -30  
+16:26:46: debug: 执行脚本: move bigarm  46 300 30 -30
+16:26:46: debug: rotate: servo bigarm : pos 1704, speed 1000, accelerate 30
+16:26:46: 写入数据失败:  servo: bigarm, servo id: 13 地址: 41, 写入数据: 30
+16:26:46: [TxRxResult] Port is in use!
+16:26:46: 写入数据失败:  servo: bigarm, servo id: 13 地址: 46, 写入数据: 1000
+16:26:46: [TxRxResult] Port is in use!
+16:26:46: dxl_comm.send_script() script : move bigarm  46 300 30 -30  
+16:26:46: debug: 执行脚本: move elbow  91 300 30 -30
+16:26:46: debug: rotate: servo elbow : pos 1966, speed 1000, accelerate 30
+16:26:46: 写入数据失败:  servo: elbow, servo id: 14 地址: 41, 写入数据: 30
+16:26:46: [TxRxResult] Port is in use!
+16:26:46: 写入数据失败:  servo: elbow, servo id: 14 地址: 46, 写入数据: 1000
+16:26:46: [TxRxResult] Port is in use!
+16:26:46: dxl_comm.send_script() script : move elbow  91 300 30 -30  
+16:26:46: debug: 执行脚本: move rotateshoulder  51 300 30 -30
+16:26:46: debug: rotate: servo rotateshoulder : pos 2642, speed 1000, accelerate 30
+16:26:46: 写入数据失败:  servo: rotateshoulder, servo id: 11 地址: 41, 写入数据: 30
+16:26:46: [TxRxResult] Port is in use!
+16:26:46: 写入数据失败:  servo: rotateshoulder, servo id: 11 地址: 46, 写入数据: 1000
+16:26:46: [TxRxResult] Port is in use!
+16:26:46: dxl_comm.send_script() script : move rotateshoulder  51 300 30 -30  
+16:26:47: debug: 执行脚本: move liftshoulder  13 300 30 -30
+16:26:47: debug: rotate: servo liftshoulder : pos 1771, speed 1000, accelerate 30
+16:26:47: 写入数据失败:  servo: liftshoulder, servo id: 12 地址: 41, 写入数据: 30
+16:26:47: [TxRxResult] Port is in use!
+16:26:47: 写入数据失败:  servo: liftshoulder, servo id: 12 地址: 46, 写入数据: 1000
+16:26:47: [TxRxResult] Port is in use!
+16:26:47: dxl_comm.send_script() script : move liftshoulder  13 300 30 -30  
+16:26:47: debug: 执行脚本: move bigarm  72 300 30 -30
+16:26:47: debug: rotate: servo bigarm : pos 2148, speed 1000, accelerate 30
+16:26:47: 写入数据失败:  servo: bigarm, servo id: 13 地址: 41, 写入数据: 30
+16:26:47: [TxRxResult] Port is in use!
+16:26:47: 写入数据失败:  servo: bigarm, servo id: 13 地址: 46, 写入数据: 1000
+16:26:47: [TxRxResult] Port is in use!
+16:26:47: dxl_comm.send_script() script : move bigarm  72 300 30 -30  
+16:26:48: debug: 执行脚本: move elbow  40 300 30 -30
+16:26:48: debug: rotate: servo elbow : pos 1530, speed 1000, accelerate 30
+16:26:48: 写入数据失败:  servo: elbow, servo id: 14 地址: 41, 写入数据: 30
+16:26:48: [TxRxResult] Port is in use!
+16:26:48: 写入数据失败:  servo: elbow, servo id: 14 地址: 46, 写入数据: 1000
+16:26:48: [TxRxResult] Port is in use!
+16:26:48: dxl_comm.send_script() script : move elbow  40 300 30 -30  
+16:26:48: debug: 执行脚本: move rotateshoulder  88 300 30 -30
+16:26:48: debug: rotate: servo rotateshoulder : pos 3026, speed 1000, accelerate 30
+16:26:48: 写入数据失败:  servo: rotateshoulder, servo id: 11 地址: 41, 写入数据: 30
+16:26:48: [TxRxResult] Port is in use!
+16:26:48: 写入数据失败:  servo: rotateshoulder, servo id: 11 地址: 46, 写入数据: 1000
+16:26:48: [TxRxResult] Port is in use!
+16:26:48: dxl_comm.send_script() script : move rotateshoulder  88 300 30 -30  
+16:26:49: debug: 执行脚本: move liftshoulder  96 300 30 -30
+16:26:49: debug: rotate: servo liftshoulder : pos 2394, speed 1000, accelerate 30
+16:26:49: 写入数据失败:  servo: liftshoulder, servo id: 12 地址: 41, 写入数据: 30
+16:26:49: [TxRxResult] Port is in use!
+16:26:49: 写入数据失败:  servo: liftshoulder, servo id: 12 地址: 46, 写入数据: 1000
+16:26:49: [TxRxResult] Port is in use!
+16:26:49: dxl_comm.send_script() script : move liftshoulder  96 300 30 -30  
+16:26:50: debug: 执行脚本: move bigarm  51 300 30 -30
+16:26:50: debug: rotate: servo bigarm : pos 1790, speed 1000, accelerate 30
+16:26:50: 写入数据失败:  servo: bigarm, servo id: 13 地址: 41, 写入数据: 30
+16:26:50: [TxRxResult] Port is in use!
+16:26:50: 写入数据失败:  servo: bigarm, servo id: 13 地址: 46, 写入数据: 1000
+16:26:50: [TxRxResult] Port is in use!
+16:26:50: dxl_comm.send_script() script : move bigarm  51 300 30 -30  
+16:26:50: debug: 执行脚本: move elbow  3 300 30 -30
+16:26:50: debug: rotate: servo elbow : pos 1214, speed 1000, accelerate 30
+16:26:50: 写入数据失败:  servo: elbow, servo id: 14 地址: 41, 写入数据: 30
+16:26:50: [TxRxResult] Port is in use!
+16:26:50: 写入数据失败:  servo: elbow, servo id: 14 地址: 46, 写入数据: 1000
+16:26:50: [TxRxResult] Port is in use!
+16:26:50: dxl_comm.send_script() script : move elbow  3 300 30 -30  
+16:26:50: debug: 执行脚本: move rotateshoulder  25 300 30 -30
+16:26:50: debug: rotate: servo rotateshoulder : pos 2372, speed 1000, accelerate 30
+16:26:50: 写入数据失败:  servo: rotateshoulder, servo id: 11 地址: 41, 写入数据: 30
+16:26:50: [TxRxResult] Port is in use!
+16:26:50: 写入数据失败:  servo: rotateshoulder, servo id: 11 地址: 46, 写入数据: 1000
+16:26:50: [TxRxResult] Port is in use!
+16:26:50: dxl_comm.send_script() script : move rotateshoulder  25 300 30 -30  
+16:26:51: debug: 执行脚本: move liftshoulder  14 300 30 -30
+16:26:51: debug: rotate: servo liftshoulder : pos 1779, speed 1000, accelerate 30
+16:26:51: 写入数据失败:  servo: liftshoulder, servo id: 12 地址: 41, 写入数据: 30
+16:26:51: [TxRxResult] Port is in use!
+16:26:51: 写入数据失败:  servo: liftshoulder, servo id: 12 地址: 46, 写入数据: 1000
+16:26:51: [TxRxResult] Port is in use!
+16:26:51: dxl_comm.send_script() script : move liftshoulder  14 300 30 -30  
+16:26:51: debug: 执行脚本: move bigarm  94 300 30 -30
+16:26:51: debug: rotate: servo bigarm : pos 2523, speed 1000, accelerate 30
+16:26:51: 写入数据失败:  servo: bigarm, servo id: 13 地址: 41, 写入数据: 30
+16:26:51: [TxRxResult] Port is in use!
+16:26:51: 写入数据失败:  servo: bigarm, servo id: 13 地址: 46, 写入数据: 1000
+16:26:51: [TxRxResult] Port is in use!
+16:26:51: dxl_comm.send_script() script : move bigarm  94 300 30 -30  
+16:26:51: debug: 执行脚本: move elbow  89 300 30 -30
+16:26:51: debug: rotate: servo elbow : pos 1949, speed 1000, accelerate 30
+16:26:51: 写入数据失败:  servo: elbow, servo id: 14 地址: 41, 写入数据: 30
+16:26:51: [TxRxResult] Port is in use!
+16:26:51: 写入数据失败:  servo: elbow, servo id: 14 地址: 46, 写入数据: 1000
+16:26:51: [TxRxResult] Port is in use!
+16:26:51: dxl_comm.send_script() script : move elbow  89 300 30 -30  
+16:26:52: debug: 执行脚本: move rotateshoulder  7 300 30 -30
+16:26:52: debug: rotate: servo rotateshoulder : pos 2185, speed 1000, accelerate 30
+16:26:52: 写入数据失败:  servo: rotateshoulder, servo id: 11 地址: 41, 写入数据: 30
+16:26:52: [TxRxResult] Port is in use!
+16:26:52: 写入数据失败:  servo: rotateshoulder, servo id: 11 地址: 46, 写入数据: 1000
+16:26:52: [TxRxResult] Port is in use!
+16:26:52: dxl_comm.send_script() script : move rotateshoulder  7 300 30 -30  
+16:26:53: debug: 执行脚本: move liftshoulder  76 300 30 -30
+16:26:53: debug: rotate: servo liftshoulder : pos 2244, speed 1000, accelerate 30
+16:26:53: 写入数据失败:  servo: liftshoulder, servo id: 12 地址: 41, 写入数据: 30
+16:26:53: [TxRxResult] Port is in use!
+16:26:53: 写入数据失败:  servo: liftshoulder, servo id: 12 地址: 46, 写入数据: 1000
+16:26:53: [TxRxResult] Port is in use!
+16:26:53: dxl_comm.send_script() script : move liftshoulder  76 300 30 -30  
+16:26:54: debug: 执行脚本: move bigarm  41 300 30 -30
+16:26:54: debug: rotate: servo bigarm : pos 1619, speed 1000, accelerate 30
+16:26:54: 写入数据失败:  servo: bigarm, servo id: 13 地址: 41, 写入数据: 30
+16:26:54: [TxRxResult] Port is in use!
+16:26:54: 写入数据失败:  servo: bigarm, servo id: 13 地址: 46, 写入数据: 1000
+16:26:54: [TxRxResult] Port is in use!
+16:26:54: dxl_comm.send_script() script : move bigarm  41 300 30 -30  
+16:26:55: debug: 执行脚本: move elbow  75 300 30 -30
+16:26:55: debug: rotate: servo elbow : pos 1829, speed 1000, accelerate 30
+16:26:55: 写入数据失败:  servo: elbow, servo id: 14 地址: 41, 写入数据: 30
+16:26:55: [TxRxResult] Port is in use!
+16:26:55: 写入数据失败:  servo: elbow, servo id: 14 地址: 46, 写入数据: 1000
+16:26:55: [TxRxResult] Port is in use!
+16:26:55: dxl_comm.send_script() script : move elbow  75 300 30 -30  
+16:26:55: debug: 执行脚本: move rotateshoulder  24 300 30 -30
+16:26:55: debug: rotate: servo rotateshoulder : pos 2362, speed 1000, accelerate 30
+16:26:55: 写入数据失败:  servo: rotateshoulder, servo id: 11 地址: 41, 写入数据: 30
+16:26:55: [TxRxResult] Port is in use!
+16:26:55: 写入数据失败:  servo: rotateshoulder, servo id: 11 地址: 46, 写入数据: 1000
+16:26:55: [TxRxResult] Port is in use!
+16:26:55: dxl_comm.send_script() script : move rotateshoulder  24 300 30 -30  
+16:26:55: debug: 执行脚本: move liftshoulder  70 300 30 -30
+16:26:55: debug: rotate: servo liftshoulder : pos 2199, speed 1000, accelerate 30
+16:26:55: 写入数据失败:  servo: liftshoulder, servo id: 12 地址: 41, 写入数据: 30
+16:26:55: [TxRxResult] Port is in use!
+16:26:55: 写入数据失败:  servo: liftshoulder, servo id: 12 地址: 46, 写入数据: 1000
+16:26:55: [TxRxResult] Port is in use!
+16:26:55: dxl_comm.send_script() script : move liftshoulder  70 300 30 -30  
+16:26:56: debug: 执行脚本: move bigarm  19 300 30 -30
+16:26:56: debug: rotate: servo bigarm : pos 1244, speed 1000, accelerate 30
+16:26:56: 写入数据失败:  servo: bigarm, servo id: 13 地址: 41, 写入数据: 30
+16:26:56: [TxRxResult] Port is in use!
+16:26:56: 写入数据失败:  servo: bigarm, servo id: 13 地址: 46, 写入数据: 1000
+16:26:56: [TxRxResult] Port is in use!
+16:26:56: dxl_comm.send_script() script : move bigarm  19 300 30 -30  
+16:26:57: debug: 执行脚本: move elbow  30 300 30 -30
+16:26:57: debug: rotate: servo elbow : pos 1445, speed 1000, accelerate 30
+16:26:57: 写入数据失败:  servo: elbow, servo id: 14 地址: 41, 写入数据: 30
+16:26:57: [TxRxResult] Port is in use!
+16:26:57: 写入数据失败:  servo: elbow, servo id: 14 地址: 46, 写入数据: 1000
+16:26:57: [TxRxResult] Port is in use!
+16:26:57: dxl_comm.send_script() script : move elbow  30 300 30 -30  
+16:26:57: debug: 执行脚本: move rotateshoulder  37 300 30 -30
+16:26:57: debug: rotate: servo rotateshoulder : pos 2497, speed 1000, accelerate 30
+16:26:57: 写入数据失败:  servo: rotateshoulder, servo id: 11 地址: 41, 写入数据: 30
+16:26:57: [TxRxResult] Port is in use!
+16:26:57: 写入数据失败:  servo: rotateshoulder, servo id: 11 地址: 46, 写入数据: 1000
+16:26:57: [TxRxResult] Port is in use!
+16:26:57: dxl_comm.send_script() script : move rotateshoulder  37 300 30 -30  
+16:26:57: debug: 执行脚本: move liftshoulder  60 300 30 -30
+16:26:57: debug: rotate: servo liftshoulder : pos 2124, speed 1000, accelerate 30
+16:26:57: 写入数据失败:  servo: liftshoulder, servo id: 12 地址: 41, 写入数据: 30
+16:26:57: [TxRxResult] Port is in use!
+16:26:57: 写入数据失败:  servo: liftshoulder, servo id: 12 地址: 46, 写入数据: 1000
+16:26:57: [TxRxResult] Port is in use!
+16:26:57: dxl_comm.send_script() script : move liftshoulder  60 300 30 -30  
+16:26:58: debug: 执行脚本: move bigarm  7 300 30 -30
+16:26:58: debug: rotate: servo bigarm : pos 1039, speed 1000, accelerate 30
+16:26:58: 写入数据失败:  servo: bigarm, servo id: 13 地址: 41, 写入数据: 30
+16:26:58: [TxRxResult] Port is in use!
+16:26:58: 写入数据失败:  servo: bigarm, servo id: 13 地址: 46, 写入数据: 1000
+16:26:58: [TxRxResult] Port is in use!
+16:26:58: dxl_comm.send_script() script : move bigarm  7 300 30 -30  
+16:26:58: debug: 执行脚本: move elbow  89 300 30 -30
+16:26:58: debug: rotate: servo elbow : pos 1949, speed 1000, accelerate 30
+16:26:58: 写入数据失败:  servo: elbow, servo id: 14 地址: 41, 写入数据: 30
+16:26:58: [TxRxResult] Port is in use!
+16:26:58: 写入数据失败:  servo: elbow, servo id: 14 地址: 46, 写入数据: 1000
+16:26:58: [TxRxResult] Port is in use!
+16:26:58: dxl_comm.send_script() script : move elbow  89 300 30 -30  
+16:26:59: debug: 执行脚本: move rotateshoulder  29 300 30 -30
+16:26:59: debug: rotate: servo rotateshoulder : pos 2414, speed 1000, accelerate 30
+16:26:59: 写入数据失败:  servo: rotateshoulder, servo id: 11 地址: 41, 写入数据: 30
+16:26:59: [TxRxResult] Port is in use!
+16:26:59: 写入数据失败:  servo: rotateshoulder, servo id: 11 地址: 46, 写入数据: 1000
+16:26:59: [TxRxResult] Port is in use!
+16:26:59: dxl_comm.send_script() script : move rotateshoulder  29 300 30 -30  
+16:26:59: debug: 执行脚本: move liftshoulder  87 300 30 -30
+16:26:59: debug: rotate: servo liftshoulder : pos 2327, speed 1000, accelerate 30
+16:26:59: 写入数据失败:  servo: liftshoulder, servo id: 12 地址: 41, 写入数据: 30
+16:26:59: [TxRxResult] Port is in use!
+16:26:59: 写入数据失败:  servo: liftshoulder, servo id: 12 地址: 46, 写入数据: 1000
+16:26:59: [TxRxResult] Port is in use!
+16:26:59: dxl_comm.send_script() script : move liftshoulder  87 300 30 -30  
+16:27:00: debug: 执行脚本: move bigarm  34 300 30 -30
+16:27:00: debug: rotate: servo bigarm : pos 1500, speed 1000, accelerate 30
+16:27:00: 写入数据失败:  servo: bigarm, servo id: 13 地址: 41, 写入数据: 30
+16:27:00: [TxRxResult] Port is in use!
+16:27:00: 写入数据失败:  servo: bigarm, servo id: 13 地址: 46, 写入数据: 1000
+16:27:00: [TxRxResult] Port is in use!
+16:27:00: dxl_comm.send_script() script : move bigarm  34 300 30 -30  
+16:27:01: debug: 执行脚本: move elbow  52 300 30 -30
+16:27:01: debug: rotate: servo elbow : pos 1633, speed 1000, accelerate 30
+16:27:01: 写入数据失败:  servo: elbow, servo id: 14 地址: 41, 写入数据: 30
+16:27:01: [TxRxResult] Port is in use!
+16:27:01: 写入数据失败:  servo: elbow, servo id: 14 地址: 46, 写入数据: 1000
+16:27:01: [TxRxResult] Port is in use!
+16:27:01: dxl_comm.send_script() script : move elbow  52 300 30 -30  
+16:27:02: debug: 执行脚本: move rotateshoulder  18 300 30 -30
+16:27:02: debug: rotate: servo rotateshoulder : pos 2299, speed 1000, accelerate 30
+16:27:02: 写入数据失败:  servo: rotateshoulder, servo id: 11 地址: 41, 写入数据: 30
+16:27:02: [TxRxResult] Port is in use!
+16:27:02: 写入数据失败:  servo: rotateshoulder, servo id: 11 地址: 46, 写入数据: 1000
+16:27:02: [TxRxResult] Port is in use!
+16:27:02: dxl_comm.send_script() script : move rotateshoulder  18 300 30 -30  
+16:27:02: debug: 执行脚本: move liftshoulder  55 300 30 -30
+16:27:02: debug: rotate: servo liftshoulder : pos 2087, speed 1000, accelerate 30
+16:27:02: 写入数据失败:  servo: liftshoulder, servo id: 12 地址: 41, 写入数据: 30
+16:27:02: [TxRxResult] Port is in use!
+16:27:02: 写入数据失败:  servo: liftshoulder, servo id: 12 地址: 46, 写入数据: 1000
+16:27:02: [TxRxResult] Port is in use!
+16:27:02: dxl_comm.send_script() script : move liftshoulder  55 300 30 -30  
+16:27:02: debug: 执行脚本: move bigarm  45 300 30 -30
+16:27:02: debug: rotate: servo bigarm : pos 1687, speed 1000, accelerate 30
+16:27:02: 写入数据失败:  servo: bigarm, servo id: 13 地址: 41, 写入数据: 30
+16:27:02: [TxRxResult] Port is in use!
+16:27:02: 写入数据失败:  servo: bigarm, servo id: 13 地址: 46, 写入数据: 1000
+16:27:02: [TxRxResult] Port is in use!
+16:27:02: dxl_comm.send_script() script : move bigarm  45 300 30 -30  
+16:27:03: debug: 执行脚本: move elbow  94 300 30 -30
+16:27:03: debug: rotate: servo elbow : pos 1991, speed 1000, accelerate 30
+16:27:03: 写入数据失败:  servo: elbow, servo id: 14 地址: 41, 写入数据: 30
+16:27:03: [TxRxResult] Port is in use!
+16:27:03: 写入数据失败:  servo: elbow, servo id: 14 地址: 46, 写入数据: 1000
+16:27:03: [TxRxResult] Port is in use!
+16:27:03: dxl_comm.send_script() script : move elbow  94 300 30 -30  
+16:27:03: debug: 执行脚本: move rotateshoulder  66 300 30 -30
+16:27:03: debug: rotate: servo rotateshoulder : pos 2798, speed 1000, accelerate 30
+16:27:03: 写入数据失败:  servo: rotateshoulder, servo id: 11 地址: 41, 写入数据: 30
+16:27:03: [TxRxResult] Port is in use!
+16:27:03: 写入数据失败:  servo: rotateshoulder, servo id: 11 地址: 46, 写入数据: 1000
+16:27:03: [TxRxResult] Port is in use!
+16:27:03: dxl_comm.send_script() script : move rotateshoulder  66 300 30 -30  
+16:27:04: debug: 执行脚本: move liftshoulder  13 300 30 -30
+16:27:04: debug: rotate: servo liftshoulder : pos 1771, speed 1000, accelerate 30
+16:27:04: 写入数据失败:  servo: liftshoulder, servo id: 12 地址: 41, 写入数据: 30
+16:27:04: [TxRxResult] Port is in use!
+16:27:04: 写入数据失败:  servo: liftshoulder, servo id: 12 地址: 46, 写入数据: 1000
+16:27:04: [TxRxResult] Port is in use!
+16:27:04: dxl_comm.send_script() script : move liftshoulder  13 300 30 -30  
+16:27:04: debug: 执行脚本: move bigarm  29 300 30 -30
+16:27:04: debug: rotate: servo bigarm : pos 1414, speed 1000, accelerate 30
+16:27:04: 写入数据失败:  servo: bigarm, servo id: 13 地址: 41, 写入数据: 30
+16:27:04: [TxRxResult] Port is in use!
+16:27:04: 写入数据失败:  servo: bigarm, servo id: 13 地址: 46, 写入数据: 1000
+16:27:04: [TxRxResult] Port is in use!
+16:27:04: dxl_comm.send_script() script : move bigarm  29 300 30 -30  
+16:27:05: debug: 执行脚本: move elbow  78 300 30 -30
+16:27:05: debug: rotate: servo elbow : pos 1855, speed 1000, accelerate 30
+16:27:05: 写入数据失败:  servo: elbow, servo id: 14 地址: 41, 写入数据: 30
+16:27:05: [TxRxResult] Port is in use!
+16:27:05: 写入数据失败:  servo: elbow, servo id: 14 地址: 46, 写入数据: 1000
+16:27:05: [TxRxResult] Port is in use!
+16:27:05: dxl_comm.send_script() script : move elbow  78 300 30 -30  
+16:27:05: debug: 执行脚本: move rotateshoulder  30 300 30 -30
+16:27:05: debug: rotate: servo rotateshoulder : pos 2424, speed 1000, accelerate 30
+16:27:05: 写入数据失败:  servo: rotateshoulder, servo id: 11 地址: 41, 写入数据: 30
+16:27:05: [TxRxResult] Port is in use!
+16:27:05: 写入数据失败:  servo: rotateshoulder, servo id: 11 地址: 46, 写入数据: 1000
+16:27:05: [TxRxResult] Port is in use!
+16:27:05: dxl_comm.send_script() script : move rotateshoulder  30 300 30 -30  
+16:27:06: debug: 执行脚本: move liftshoulder  86 300 30 -30
+16:27:06: debug: rotate: servo liftshoulder : pos 2319, speed 1000, accelerate 30
+16:27:06: 写入数据失败:  servo: liftshoulder, servo id: 12 地址: 41, 写入数据: 30
+16:27:06: [TxRxResult] Port is in use!
+16:27:06: 写入数据失败:  servo: liftshoulder, servo id: 12 地址: 46, 写入数据: 1000
+16:27:06: [TxRxResult] Port is in use!
+16:27:06: dxl_comm.send_script() script : move liftshoulder  86 300 30 -30  
+16:27:07: debug: 执行脚本: move bigarm  98 300 30 -30
+16:27:07: debug: rotate: servo bigarm : pos 2591, speed 1000, accelerate 30
+16:27:07: 写入数据失败:  servo: bigarm, servo id: 13 地址: 41, 写入数据: 30
+16:27:07: [TxRxResult] Port is in use!
+16:27:07: 写入数据失败:  servo: bigarm, servo id: 13 地址: 46, 写入数据: 1000
+16:27:07: [TxRxResult] Port is in use!
+16:27:07: dxl_comm.send_script() script : move bigarm  98 300 30 -30  
+16:27:08: debug: 执行脚本: move elbow  44 300 30 -30
+16:27:08: debug: rotate: servo elbow : pos 1564, speed 1000, accelerate 30
+16:27:08: 写入数据失败:  servo: elbow, servo id: 14 地址: 41, 写入数据: 30
+16:27:08: [TxRxResult] Port is in use!
+16:27:08: 写入数据失败:  servo: elbow, servo id: 14 地址: 46, 写入数据: 1000
+16:27:08: [TxRxResult] Port is in use!
+16:27:08: dxl_comm.send_script() script : move elbow  44 300 30 -30  
+16:27:08: debug: 执行脚本: move rotateshoulder  96 300 30 -30
+16:27:08: debug: rotate: servo rotateshoulder : pos 3109, speed 1000, accelerate 30
+16:27:08: 写入数据失败:  servo: rotateshoulder, servo id: 11 地址: 41, 写入数据: 30
+16:27:08: [TxRxResult] Port is in use!
+16:27:08: 写入数据失败:  servo: rotateshoulder, servo id: 11 地址: 46, 写入数据: 1000
+16:27:08: [TxRxResult] Port is in use!
+16:27:08: dxl_comm.send_script() script : move rotateshoulder  96 300 30 -30  
+16:27:08: debug: 执行脚本: move liftshoulder  52 300 30 -30
+16:27:08: debug: rotate: servo liftshoulder : pos 2064, speed 1000, accelerate 30
+16:27:08: 写入数据失败:  servo: liftshoulder, servo id: 12 地址: 41, 写入数据: 30
+16:27:08: [TxRxResult] Port is in use!
+16:27:08: 写入数据失败:  servo: liftshoulder, servo id: 12 地址: 46, 写入数据: 1000
+16:27:08: [TxRxResult] Port is in use!
+16:27:08: dxl_comm.send_script() script : move liftshoulder  52 300 30 -30  
+16:27:08: debug: 执行脚本: move bigarm  3 300 30 -30
+16:27:08: debug: rotate: servo bigarm : pos 971, speed 1000, accelerate 30
+16:27:08: 写入数据失败:  servo: bigarm, servo id: 13 地址: 41, 写入数据: 30
+16:27:08: [TxRxResult] Port is in use!
+16:27:08: 写入数据失败:  servo: bigarm, servo id: 13 地址: 46, 写入数据: 1000
+16:27:08: [TxRxResult] Port is in use!
+16:27:08: dxl_comm.send_script() script : move bigarm  3 300 30 -30  
+16:27:09: debug: 执行脚本: move elbow  83 300 30 -30
+16:27:09: debug: rotate: servo elbow : pos 1897, speed 1000, accelerate 30
+16:27:09: 写入数据失败:  servo: elbow, servo id: 14 地址: 41, 写入数据: 30
+16:27:09: [TxRxResult] Port is in use!
+16:27:09: 写入数据失败:  servo: elbow, servo id: 14 地址: 46, 写入数据: 1000
+16:27:09: [TxRxResult] Port is in use!
+16:27:09: dxl_comm.send_script() script : move elbow  83 300 30 -30  
+16:27:09: debug: 执行脚本: move rotateshoulder  34 300 30 -30
+16:27:09: debug: rotate: servo rotateshoulder : pos 2465, speed 1000, accelerate 30
+16:27:09: 写入数据失败:  servo: rotateshoulder, servo id: 11 地址: 41, 写入数据: 30
+16:27:09: [TxRxResult] Port is in use!
+16:27:09: 写入数据失败:  servo: rotateshoulder, servo id: 11 地址: 46, 写入数据: 1000
+16:27:09: [TxRxResult] Port is in use!
+16:27:09: dxl_comm.send_script() script : move rotateshoulder  34 300 30 -30  
+16:27:10: debug: 执行脚本: move liftshoulder  32 300 30 -30
+16:27:10: debug: rotate: servo liftshoulder : pos 1914, speed 1000, accelerate 30
+16:27:10: 写入数据失败:  servo: liftshoulder, servo id: 12 地址: 41, 写入数据: 30
+16:27:10: [TxRxResult] Port is in use!
+16:27:10: 写入数据失败:  servo: liftshoulder, servo id: 12 地址: 46, 写入数据: 1000
+16:27:10: [TxRxResult] Port is in use!
+16:27:10: dxl_comm.send_script() script : move liftshoulder  32 300 30 -30  
+16:27:10: debug: 执行脚本: move bigarm  45 300 30 -30
+16:27:10: debug: rotate: servo bigarm : pos 1687, speed 1000, accelerate 30
+16:27:10: 写入数据失败:  servo: bigarm, servo id: 13 地址: 41, 写入数据: 30
+16:27:10: [TxRxResult] Port is in use!
+16:27:10: 写入数据失败:  servo: bigarm, servo id: 13 地址: 46, 写入数据: 1000
+16:27:10: [TxRxResult] Port is in use!
+16:27:10: dxl_comm.send_script() script : move bigarm  45 300 30 -30  
+16:27:11: debug: 执行脚本: move elbow  58 300 30 -30
+16:27:11: debug: rotate: servo elbow : pos 1684, speed 1000, accelerate 30
+16:27:11: 写入数据失败:  servo: elbow, servo id: 14 地址: 41, 写入数据: 30
+16:27:11: [TxRxResult] Port is in use!
+16:27:11: 写入数据失败:  servo: elbow, servo id: 14 地址: 46, 写入数据: 1000
+16:27:11: [TxRxResult] Port is in use!
+16:27:11: dxl_comm.send_script() script : move elbow  58 300 30 -30  
+16:27:11: debug: 执行脚本: move rotateshoulder  11 300 30 -30
+16:27:11: debug: rotate: servo rotateshoulder : pos 2227, speed 1000, accelerate 30
+16:27:11: 写入数据失败:  servo: rotateshoulder, servo id: 11 地址: 41, 写入数据: 30
+16:27:11: [TxRxResult] Port is in use!
+16:27:11: 写入数据失败:  servo: rotateshoulder, servo id: 11 地址: 46, 写入数据: 1000
+16:27:11: [TxRxResult] Port is in use!
+16:27:11: dxl_comm.send_script() script : move rotateshoulder  11 300 30 -30  
+16:27:12: debug: 执行脚本: move liftshoulder  6 300 30 -30
+16:27:12: debug: rotate: servo liftshoulder : pos 1719, speed 1000, accelerate 30
+16:27:12: 写入数据失败:  servo: liftshoulder, servo id: 12 地址: 41, 写入数据: 30
+16:27:12: [TxRxResult] Port is in use!
+16:27:12: 写入数据失败:  servo: liftshoulder, servo id: 12 地址: 46, 写入数据: 1000
+16:27:12: [TxRxResult] Port is in use!
+16:27:12: dxl_comm.send_script() script : move liftshoulder  6 300 30 -30  
+16:27:13: debug: 执行脚本: move bigarm  0 300 30 -30
+16:27:13: debug: rotate: servo bigarm : pos 920, speed 1000, accelerate 30
+16:27:13: 写入数据失败:  servo: bigarm, servo id: 13 地址: 41, 写入数据: 30
+16:27:13: [TxRxResult] Port is in use!
+16:27:13: 写入数据失败:  servo: bigarm, servo id: 13 地址: 46, 写入数据: 1000
+16:27:13: [TxRxResult] Port is in use!
+16:27:13: dxl_comm.send_script() script : move bigarm  0 300 30 -30  
+16:27:13: debug: 执行脚本: move elbow  86 300 30 -30
+16:27:13: debug: rotate: servo elbow : pos 1923, speed 1000, accelerate 30
+16:27:13: 写入数据失败:  servo: elbow, servo id: 14 地址: 41, 写入数据: 30
+16:27:13: [TxRxResult] Port is in use!
+16:27:13: 写入数据失败:  servo: elbow, servo id: 14 地址: 46, 写入数据: 1000
+16:27:13: [TxRxResult] Port is in use!
+16:27:13: dxl_comm.send_script() script : move elbow  86 300 30 -30  
+16:27:14: debug: 执行脚本: move rotateshoulder  34 300 30 -30
+16:27:14: debug: rotate: servo rotateshoulder : pos 2465, speed 1000, accelerate 30
+16:27:14: 写入数据失败:  servo: rotateshoulder, servo id: 11 地址: 41, 写入数据: 30
+16:27:14: [TxRxResult] Port is in use!
+16:27:14: 写入数据失败:  servo: rotateshoulder, servo id: 11 地址: 46, 写入数据: 1000
+16:27:14: [TxRxResult] Port is in use!
+16:27:14: dxl_comm.send_script() script : move rotateshoulder  34 300 30 -30  
+16:27:14: debug: 执行脚本: move liftshoulder  76 300 30 -30
+16:27:14: debug: rotate: servo liftshoulder : pos 2244, speed 1000, accelerate 30
+16:27:14: 写入数据失败:  servo: liftshoulder, servo id: 12 地址: 41, 写入数据: 30
+16:27:14: [TxRxResult] Port is in use!
+16:27:14: 写入数据失败:  servo: liftshoulder, servo id: 12 地址: 46, 写入数据: 1000
+16:27:14: [TxRxResult] Port is in use!
+16:27:14: dxl_comm.send_script() script : move liftshoulder  76 300 30 -30  
+16:27:15: debug: 执行脚本: move bigarm  24 300 30 -30
+16:27:15: debug: rotate: servo bigarm : pos 1329, speed 1000, accelerate 30
+16:27:15: 写入数据失败:  servo: bigarm, servo id: 13 地址: 41, 写入数据: 30
+16:27:15: [TxRxResult] Port is in use!
+16:27:15: 写入数据失败:  servo: bigarm, servo id: 13 地址: 46, 写入数据: 1000
+16:27:15: [TxRxResult] Port is in use!
+16:27:15: dxl_comm.send_script() script : move bigarm  24 300 30 -30  
+16:27:15: debug: 执行脚本: move elbow  43 300 30 -30
+16:27:15: debug: rotate: servo elbow : pos 1556, speed 1000, accelerate 30
+16:27:15: 写入数据失败:  servo: elbow, servo id: 14 地址: 41, 写入数据: 30
+16:27:15: [TxRxResult] Port is in use!
+16:27:15: 写入数据失败:  servo: elbow, servo id: 14 地址: 46, 写入数据: 1000
+16:27:15: [TxRxResult] Port is in use!
+16:27:15: dxl_comm.send_script() script : move elbow  43 300 30 -30  
+16:27:15: debug: 执行脚本: move rotateshoulder  87 300 30 -30
+16:27:15: debug: rotate: servo rotateshoulder : pos 3016, speed 1000, accelerate 30
+16:27:15: 写入数据失败:  servo: rotateshoulder, servo id: 11 地址: 41, 写入数据: 30
+16:27:15: [TxRxResult] Port is in use!
+16:27:15: 写入数据失败:  servo: rotateshoulder, servo id: 11 地址: 46, 写入数据: 1000
+16:27:15: [TxRxResult] Port is in use!
+16:27:15: dxl_comm.send_script() script : move rotateshoulder  87 300 30 -30  
+16:27:16: debug: 执行脚本: move liftshoulder  32 300 30 -30
+16:27:16: debug: rotate: servo liftshoulder : pos 1914, speed 1000, accelerate 30
+16:27:16: 写入数据失败:  servo: liftshoulder, servo id: 12 地址: 41, 写入数据: 30
+16:27:16: [TxRxResult] Port is in use!
+16:27:16: 写入数据失败:  servo: liftshoulder, servo id: 12 地址: 46, 写入数据: 1000
+16:27:16: [TxRxResult] Port is in use!
+16:27:16: dxl_comm.send_script() script : move liftshoulder  32 300 30 -30  
+16:27:16: debug: 执行脚本: move bigarm  36 300 30 -30
+16:27:16: debug: rotate: servo bigarm : pos 1534, speed 1000, accelerate 30
+16:27:16: 写入数据失败:  servo: bigarm, servo id: 13 地址: 41, 写入数据: 30
+16:27:16: [TxRxResult] Port is in use!
+16:27:16: 写入数据失败:  servo: bigarm, servo id: 13 地址: 46, 写入数据: 1000
+16:27:16: [TxRxResult] Port is in use!
+16:27:16: dxl_comm.send_script() script : move bigarm  36 300 30 -30  
+16:27:17: debug: 执行脚本: move elbow  26 300 30 -30
+16:27:17: debug: rotate: servo elbow : pos 1411, speed 1000, accelerate 30
+16:27:17: 写入数据失败:  servo: elbow, servo id: 14 地址: 41, 写入数据: 30
+16:27:17: [TxRxResult] Port is in use!
+16:27:17: 写入数据失败:  servo: elbow, servo id: 14 地址: 46, 写入数据: 1000
+16:27:17: [TxRxResult] Port is in use!
+16:27:17: dxl_comm.send_script() script : move elbow  26 300 30 -30  
+16:27:17: debug: 执行脚本: move rotateshoulder  91 300 30 -30
+16:27:17: debug: rotate: servo rotateshoulder : pos 3057, speed 1000, accelerate 30
+16:27:17: 写入数据失败:  servo: rotateshoulder, servo id: 11 地址: 41, 写入数据: 30
+16:27:17: [TxRxResult] Port is in use!
+16:27:17: 写入数据失败:  servo: rotateshoulder, servo id: 11 地址: 46, 写入数据: 1000
+16:27:17: [TxRxResult] Port is in use!
+16:27:17: dxl_comm.send_script() script : move rotateshoulder  91 300 30 -30  
+16:27:17: debug: 执行脚本: move liftshoulder  6 300 30 -30
+16:27:17: debug: rotate: servo liftshoulder : pos 1719, speed 1000, accelerate 30
+16:27:17: 写入数据失败:  servo: liftshoulder, servo id: 12 地址: 41, 写入数据: 30
+16:27:17: [TxRxResult] Port is in use!
+16:27:17: 写入数据失败:  servo: liftshoulder, servo id: 12 地址: 46, 写入数据: 1000
+16:27:17: [TxRxResult] Port is in use!
+16:27:17: dxl_comm.send_script() script : move liftshoulder  6 300 30 -30  
+16:27:18: debug: 执行脚本: move bigarm  28 300 30 -30
+16:27:18: debug: rotate: servo bigarm : pos 1397, speed 1000, accelerate 30
+16:27:18: 写入数据失败:  servo: bigarm, servo id: 13 地址: 41, 写入数据: 30
+16:27:18: [TxRxResult] Port is in use!
+16:27:18: 写入数据失败:  servo: bigarm, servo id: 13 地址: 46, 写入数据: 1000
+16:27:18: [TxRxResult] Port is in use!
+16:27:18: dxl_comm.send_script() script : move bigarm  28 300 30 -30  
+16:27:19: debug: 执行脚本: move elbow  70 300 30 -30
+16:27:19: debug: rotate: servo elbow : pos 1786, speed 1000, accelerate 30
+16:27:19: 写入数据失败:  servo: elbow, servo id: 14 地址: 41, 写入数据: 30
+16:27:19: [TxRxResult] Port is in use!
+16:27:19: 写入数据失败:  servo: elbow, servo id: 14 地址: 46, 写入数据: 1000
+16:27:19: [TxRxResult] Port is in use!
+16:27:19: dxl_comm.send_script() script : move elbow  70 300 30 -30  
+16:27:19: debug: 执行脚本: move rotateshoulder  50 300 30 -30
+16:27:19: debug: rotate: servo rotateshoulder : pos 2632, speed 1000, accelerate 30
+16:27:19: 写入数据失败:  servo: rotateshoulder, servo id: 11 地址: 41, 写入数据: 30
+16:27:19: [TxRxResult] Port is in use!
+16:27:19: 写入数据失败:  servo: rotateshoulder, servo id: 11 地址: 46, 写入数据: 1000
+16:27:19: [TxRxResult] Port is in use!
+16:27:19: dxl_comm.send_script() script : move rotateshoulder  50 300 30 -30  
+16:27:19: debug: 执行脚本: move liftshoulder  53 300 30 -30
+16:27:19: debug: rotate: servo liftshoulder : pos 2072, speed 1000, accelerate 30
+16:27:19: 写入数据失败:  servo: liftshoulder, servo id: 12 地址: 41, 写入数据: 30
+16:27:19: [TxRxResult] Port is in use!
+16:27:19: 写入数据失败:  servo: liftshoulder, servo id: 12 地址: 46, 写入数据: 1000
+16:27:19: [TxRxResult] Port is in use!
+16:27:19: dxl_comm.send_script() script : move liftshoulder  53 300 30 -30  
+16:27:19: debug: 执行脚本: move bigarm  33 300 30 -30
+16:27:19: debug: rotate: servo bigarm : pos 1482, speed 1000, accelerate 30
+16:27:19: 写入数据失败:  servo: bigarm, servo id: 13 地址: 41, 写入数据: 30
+16:27:19: [TxRxResult] Port is in use!
+16:27:19: 写入数据失败:  servo: bigarm, servo id: 13 地址: 46, 写入数据: 1000
+16:27:19: [TxRxResult] Port is in use!
+16:27:19: dxl_comm.send_script() script : move bigarm  33 300 30 -30  
+16:27:20: debug: 执行脚本: move elbow  17 300 30 -30
+16:27:20: debug: rotate: servo elbow : pos 1334, speed 1000, accelerate 30
+16:27:20: 写入数据失败:  servo: elbow, servo id: 14 地址: 41, 写入数据: 30
+16:27:20: [TxRxResult] Port is in use!
+16:27:20: 写入数据失败:  servo: elbow, servo id: 14 地址: 46, 写入数据: 1000
+16:27:20: [TxRxResult] Port is in use!
+16:27:20: dxl_comm.send_script() script : move elbow  17 300 30 -30  
+16:27:20: debug: 执行脚本: move rotateshoulder  41 300 30 -30
+16:27:20: debug: rotate: servo rotateshoulder : pos 2538, speed 1000, accelerate 30
+16:27:20: 写入数据失败:  servo: rotateshoulder, servo id: 11 地址: 41, 写入数据: 30
+16:27:20: [TxRxResult] Port is in use!
+16:27:20: 写入数据失败:  servo: rotateshoulder, servo id: 11 地址: 46, 写入数据: 1000
+16:27:20: [TxRxResult] Port is in use!
+16:27:20: dxl_comm.send_script() script : move rotateshoulder  41 300 30 -30  
+16:27:21: debug: 执行脚本: move liftshoulder  46 300 30 -30
+16:27:21: debug: rotate: servo liftshoulder : pos 2019, speed 1000, accelerate 30
+16:27:21: 写入数据失败:  servo: liftshoulder, servo id: 12 地址: 41, 写入数据: 30
+16:27:21: [TxRxResult] Port is in use!
+16:27:21: 写入数据失败:  servo: liftshoulder, servo id: 12 地址: 46, 写入数据: 1000
+16:27:21: [TxRxResult] Port is in use!
+16:27:21: dxl_comm.send_script() script : move liftshoulder  46 300 30 -30  
+16:27:21: debug: 执行脚本: move bigarm  2 300 30 -30
+16:27:21: debug: rotate: servo bigarm : pos 954, speed 1000, accelerate 30
+16:27:21: 写入数据失败:  servo: bigarm, servo id: 13 地址: 41, 写入数据: 30
+16:27:21: [TxRxResult] Port is in use!
+16:27:21: 写入数据失败:  servo: bigarm, servo id: 13 地址: 46, 写入数据: 1000
+16:27:21: [TxRxResult] Port is in use!
+16:27:21: dxl_comm.send_script() script : move bigarm  2 300 30 -30  
+16:27:21: debug: 执行脚本: move elbow  66 300 30 -30
+16:27:21: debug: rotate: servo elbow : pos 1752, speed 1000, accelerate 30
+16:27:21: 写入数据失败:  servo: elbow, servo id: 14 地址: 41, 写入数据: 30
+16:27:21: [TxRxResult] Port is in use!
+16:27:21: 写入数据失败:  servo: elbow, servo id: 14 地址: 46, 写入数据: 1000
+16:27:21: [TxRxResult] Port is in use!
+16:27:21: dxl_comm.send_script() script : move elbow  66 300 30 -30  
+16:27:22: debug: 执行脚本: move rotateshoulder  45 300 30 -30
+16:27:22: debug: rotate: servo rotateshoulder : pos 2580, speed 1000, accelerate 30
+16:27:22: 写入数据失败:  servo: rotateshoulder, servo id: 11 地址: 41, 写入数据: 30
+16:27:22: [TxRxResult] Port is in use!
+16:27:22: 写入数据失败:  servo: rotateshoulder, servo id: 11 地址: 46, 写入数据: 1000
+16:27:22: [TxRxResult] Port is in use!
+16:27:22: dxl_comm.send_script() script : move rotateshoulder  45 300 30 -30  
+16:27:22: debug: 执行脚本: move liftshoulder  62 300 30 -30
+16:27:22: debug: rotate: servo liftshoulder : pos 2139, speed 1000, accelerate 30
+16:27:22: 写入数据失败:  servo: liftshoulder, servo id: 12 地址: 41, 写入数据: 30
+16:27:22: [TxRxResult] Port is in use!
+16:27:22: 写入数据失败:  servo: liftshoulder, servo id: 12 地址: 46, 写入数据: 1000
+16:27:22: [TxRxResult] Port is in use!
+16:27:22: dxl_comm.send_script() script : move liftshoulder  62 300 30 -30  
+16:27:22: debug: 执行脚本: move bigarm  22 300 30 -30
+16:27:22: debug: rotate: servo bigarm : pos 1295, speed 1000, accelerate 30
+16:27:22: 写入数据失败:  servo: bigarm, servo id: 13 地址: 41, 写入数据: 30
+16:27:22: [TxRxResult] Port is in use!
+16:27:22: 写入数据失败:  servo: bigarm, servo id: 13 地址: 46, 写入数据: 1000
+16:27:22: [TxRxResult] Port is in use!
+16:27:22: dxl_comm.send_script() script : move bigarm  22 300 30 -30  
+16:27:22: debug: 执行脚本: move elbow  49 300 30 -30
+16:27:22: debug: rotate: servo elbow : pos 1607, speed 1000, accelerate 30
+16:27:22: 写入数据失败:  servo: elbow, servo id: 14 地址: 41, 写入数据: 30
+16:27:22: [TxRxResult] Port is in use!
+16:27:22: 写入数据失败:  servo: elbow, servo id: 14 地址: 46, 写入数据: 1000
+16:27:22: [TxRxResult] Port is in use!
+16:27:22: dxl_comm.send_script() script : move elbow  49 300 30 -30  
+16:27:22: debug: 执行脚本: move rotateshoulder  56 300 30 -30
+16:27:22: debug: rotate: servo rotateshoulder : pos 2694, speed 1000, accelerate 30
+16:27:22: 写入数据失败:  servo: rotateshoulder, servo id: 11 地址: 41, 写入数据: 30
+16:27:22: [TxRxResult] Port is in use!
+16:27:22: 写入数据失败:  servo: rotateshoulder, servo id: 11 地址: 46, 写入数据: 1000
+16:27:22: [TxRxResult] Port is in use!
+16:27:22: dxl_comm.send_script() script : move rotateshoulder  56 300 30 -30  
+16:27:23: debug: 执行脚本: move liftshoulder  79 300 30 -30
+16:27:23: debug: rotate: servo liftshoulder : pos 2267, speed 1000, accelerate 30
+16:27:23: 写入数据失败:  servo: liftshoulder, servo id: 12 地址: 41, 写入数据: 30
+16:27:23: [TxRxResult] Port is in use!
+16:27:23: 写入数据失败:  servo: liftshoulder, servo id: 12 地址: 46, 写入数据: 1000
+16:27:23: [TxRxResult] Port is in use!
+16:27:23: dxl_comm.send_script() script : move liftshoulder  79 300 30 -30  
+16:27:24: debug: 执行脚本: move bigarm  52 300 30 -30
+16:27:24: debug: rotate: servo bigarm : pos 1807, speed 1000, accelerate 30
+16:27:24: 写入数据失败:  servo: bigarm, servo id: 13 地址: 41, 写入数据: 30
+16:27:24: [TxRxResult] Port is in use!
+16:27:24: 写入数据失败:  servo: bigarm, servo id: 13 地址: 46, 写入数据: 1000
+16:27:24: [TxRxResult] Port is in use!
+16:27:24: dxl_comm.send_script() script : move bigarm  52 300 30 -30  
+16:27:25: debug: 执行脚本: move elbow  94 300 30 -30
+16:27:25: debug: rotate: servo elbow : pos 1991, speed 1000, accelerate 30
+16:27:25: 写入数据失败:  servo: elbow, servo id: 14 地址: 41, 写入数据: 30
+16:27:25: [TxRxResult] Port is in use!
+16:27:25: 写入数据失败:  servo: elbow, servo id: 14 地址: 46, 写入数据: 1000
+16:27:25: [TxRxResult] Port is in use!
+16:27:25: dxl_comm.send_script() script : move elbow  94 300 30 -30  
+16:27:26: debug: 执行脚本: move rotateshoulder  95 300 30 -30
+16:27:26: debug: rotate: servo rotateshoulder : pos 3099, speed 1000, accelerate 30
+16:27:26: 写入数据失败:  servo: rotateshoulder, servo id: 11 地址: 41, 写入数据: 30
+16:27:26: [TxRxResult] Port is in use!
+16:27:26: 写入数据失败:  servo: rotateshoulder, servo id: 11 地址: 46, 写入数据: 1000
+16:27:26: [TxRxResult] Port is in use!
+16:27:26: dxl_comm.send_script() script : move rotateshoulder  95 300 30 -30  
+16:27:26: debug: 执行脚本: move liftshoulder  38 300 30 -30
+16:27:26: debug: rotate: servo liftshoulder : pos 1959, speed 1000, accelerate 30
+16:27:26: 写入数据失败:  servo: liftshoulder, servo id: 12 地址: 41, 写入数据: 30
+16:27:26: [TxRxResult] Port is in use!
+16:27:26: 写入数据失败:  servo: liftshoulder, servo id: 12 地址: 46, 写入数据: 1000
+16:27:26: [TxRxResult] Port is in use!
+16:27:26: dxl_comm.send_script() script : move liftshoulder  38 300 30 -30  
+16:27:27: debug: 执行脚本: move bigarm  95 300 30 -30
+16:27:27: debug: rotate: servo bigarm : pos 2540, speed 1000, accelerate 30
+16:27:27: 写入数据失败:  servo: bigarm, servo id: 13 地址: 41, 写入数据: 30
+16:27:27: [TxRxResult] Port is in use!
+16:27:27: 写入数据失败:  servo: bigarm, servo id: 13 地址: 46, 写入数据: 1000
+16:27:27: [TxRxResult] Port is in use!
+16:27:27: dxl_comm.send_script() script : move bigarm  95 300 30 -30  
+16:27:27: debug: 执行脚本: move elbow  80 300 30 -30
+16:27:27: debug: rotate: servo elbow : pos 1872, speed 1000, accelerate 30
+16:27:27: 写入数据失败:  servo: elbow, servo id: 14 地址: 41, 写入数据: 30
+16:27:27: [TxRxResult] Port is in use!
+16:27:27: 写入数据失败:  servo: elbow, servo id: 14 地址: 46, 写入数据: 1000
+16:27:27: [TxRxResult] Port is in use!
+16:27:27: dxl_comm.send_script() script : move elbow  80 300 30 -30  
+16:27:28: debug: 执行脚本: move rotateshoulder  99 300 30 -30
+16:27:28: debug: rotate: servo rotateshoulder : pos 3140, speed 1000, accelerate 30
+16:27:28: 写入数据失败:  servo: rotateshoulder, servo id: 11 地址: 41, 写入数据: 30
+16:27:28: [TxRxResult] Port is in use!
+16:27:28: 写入数据失败:  servo: rotateshoulder, servo id: 11 地址: 46, 写入数据: 1000
+16:27:28: [TxRxResult] Port is in use!
+16:27:28: dxl_comm.send_script() script : move rotateshoulder  99 300 30 -30  
+16:27:28: debug: 执行脚本: move liftshoulder  68 300 30 -30
+16:27:28: debug: rotate: servo liftshoulder : pos 2184, speed 1000, accelerate 30
+16:27:28: 写入数据失败:  servo: liftshoulder, servo id: 12 地址: 41, 写入数据: 30
+16:27:28: [TxRxResult] Port is in use!
+16:27:28: 写入数据失败:  servo: liftshoulder, servo id: 12 地址: 46, 写入数据: 1000
+16:27:28: [TxRxResult] Port is in use!
+16:27:28: dxl_comm.send_script() script : move liftshoulder  68 300 30 -30  
+16:27:29: debug: 执行脚本: move bigarm  94 300 30 -30
+16:27:29: debug: rotate: servo bigarm : pos 2523, speed 1000, accelerate 30
+16:27:29: 写入数据失败:  servo: bigarm, servo id: 13 地址: 41, 写入数据: 30
+16:27:29: [TxRxResult] Port is in use!
+16:27:29: 写入数据失败:  servo: bigarm, servo id: 13 地址: 46, 写入数据: 1000
+16:27:29: [TxRxResult] Port is in use!
+16:27:29: dxl_comm.send_script() script : move bigarm  94 300 30 -30  
+16:27:29: debug: 执行脚本: move elbow  73 300 30 -30
+16:27:29: debug: rotate: servo elbow : pos 1812, speed 1000, accelerate 30
+16:27:29: 写入数据失败:  servo: elbow, servo id: 14 地址: 41, 写入数据: 30
+16:27:29: [TxRxResult] Port is in use!
+16:27:29: 写入数据失败:  servo: elbow, servo id: 14 地址: 46, 写入数据: 1000
+16:27:29: [TxRxResult] Port is in use!
+16:27:29: dxl_comm.send_script() script : move elbow  73 300 30 -30  
+16:27:30: debug: 执行脚本: move rotateshoulder  69 300 30 -30
+16:27:30: debug: rotate: servo rotateshoulder : pos 2829, speed 1000, accelerate 30
+16:27:30: 写入数据失败:  servo: rotateshoulder, servo id: 11 地址: 41, 写入数据: 30
+16:27:30: [TxRxResult] Port is in use!
+16:27:30: 写入数据失败:  servo: rotateshoulder, servo id: 11 地址: 46, 写入数据: 1000
+16:27:30: [TxRxResult] Port is in use!
+16:27:30: dxl_comm.send_script() script : move rotateshoulder  69 300 30 -30  
+16:27:31: debug: 执行脚本: move liftshoulder  13 300 30 -30
+16:27:31: debug: rotate: servo liftshoulder : pos 1771, speed 1000, accelerate 30
+16:27:31: 写入数据失败:  servo: liftshoulder, servo id: 12 地址: 41, 写入数据: 30
+16:27:31: [TxRxResult] Port is in use!
+16:27:31: 写入数据失败:  servo: liftshoulder, servo id: 12 地址: 46, 写入数据: 1000
+16:27:31: [TxRxResult] Port is in use!
+16:27:31: dxl_comm.send_script() script : move liftshoulder  13 300 30 -30  
+16:27:31: debug: 执行脚本: move bigarm  42 300 30 -30
+16:27:31: debug: rotate: servo bigarm : pos 1636, speed 1000, accelerate 30
+16:27:31: 写入数据失败:  servo: bigarm, servo id: 13 地址: 41, 写入数据: 30
+16:27:31: [TxRxResult] Port is in use!
+16:27:31: 写入数据失败:  servo: bigarm, servo id: 13 地址: 46, 写入数据: 1000
+16:27:31: [TxRxResult] Port is in use!
+16:27:31: dxl_comm.send_script() script : move bigarm  42 300 30 -30  
+16:27:32: debug: 执行脚本: move elbow  3 300 30 -30
+16:27:32: debug: rotate: servo elbow : pos 1214, speed 1000, accelerate 30
+16:27:32: 写入数据失败:  servo: elbow, servo id: 14 地址: 41, 写入数据: 30
+16:27:32: [TxRxResult] Port is in use!
+16:27:32: 写入数据失败:  servo: elbow, servo id: 14 地址: 46, 写入数据: 1000
+16:27:32: [TxRxResult] Port is in use!
+16:27:32: dxl_comm.send_script() script : move elbow  3 300 30 -30  
+16:27:33: debug: 执行脚本: move rotateshoulder  61 300 30 -30
+16:27:33: debug: rotate: servo rotateshoulder : pos 2746, speed 1000, accelerate 30
+16:27:33: 写入数据失败:  servo: rotateshoulder, servo id: 11 地址: 41, 写入数据: 30
+16:27:33: [TxRxResult] Port is in use!
+16:27:33: 写入数据失败:  servo: rotateshoulder, servo id: 11 地址: 46, 写入数据: 1000
+16:27:33: [TxRxResult] Port is in use!
+16:27:33: dxl_comm.send_script() script : move rotateshoulder  61 300 30 -30  
+16:27:33: debug: 执行脚本: move liftshoulder  97 300 30 -30
+16:27:33: debug: rotate: servo liftshoulder : pos 2402, speed 1000, accelerate 30
+16:27:33: 写入数据失败:  servo: liftshoulder, servo id: 12 地址: 41, 写入数据: 30
+16:27:33: [TxRxResult] Port is in use!
+16:27:33: 写入数据失败:  servo: liftshoulder, servo id: 12 地址: 46, 写入数据: 1000
+16:27:33: [TxRxResult] Port is in use!
+16:27:33: dxl_comm.send_script() script : move liftshoulder  97 300 30 -30  
+16:27:33: debug: 执行脚本: move bigarm  90 300 30 -30
+16:27:33: debug: rotate: servo bigarm : pos 2455, speed 1000, accelerate 30
+16:27:33: 写入数据失败:  servo: bigarm, servo id: 13 地址: 41, 写入数据: 30
+16:27:33: [TxRxResult] Port is in use!
+16:27:33: 写入数据失败:  servo: bigarm, servo id: 13 地址: 46, 写入数据: 1000
+16:27:33: [TxRxResult] Port is in use!
+16:27:33: dxl_comm.send_script() script : move bigarm  90 300 30 -30  
+16:27:34: debug: 执行脚本: move elbow  3 300 30 -30
+16:27:34: debug: rotate: servo elbow : pos 1214, speed 1000, accelerate 30
+16:27:34: 写入数据失败:  servo: elbow, servo id: 14 地址: 41, 写入数据: 30
+16:27:34: [TxRxResult] Port is in use!
+16:27:34: 写入数据失败:  servo: elbow, servo id: 14 地址: 46, 写入数据: 1000
+16:27:34: [TxRxResult] Port is in use!
+16:27:34: dxl_comm.send_script() script : move elbow  3 300 30 -30  
+16:27:34: debug: 执行脚本: move rotateshoulder  29 300 30 -30
+16:27:34: debug: rotate: servo rotateshoulder : pos 2414, speed 1000, accelerate 30
+16:27:34: 写入数据失败:  servo: rotateshoulder, servo id: 11 地址: 41, 写入数据: 30
+16:27:34: [TxRxResult] Port is in use!
+16:27:34: 写入数据失败:  servo: rotateshoulder, servo id: 11 地址: 46, 写入数据: 1000
+16:27:34: [TxRxResult] Port is in use!
+16:27:34: dxl_comm.send_script() script : move rotateshoulder  29 300 30 -30  
+16:27:34: debug: 执行脚本: move liftshoulder  73 300 30 -30
+16:27:34: debug: rotate: servo liftshoulder : pos 2222, speed 1000, accelerate 30
+16:27:34: 写入数据失败:  servo: liftshoulder, servo id: 12 地址: 41, 写入数据: 30
+16:27:34: [TxRxResult] Port is in use!
+16:27:34: 写入数据失败:  servo: liftshoulder, servo id: 12 地址: 46, 写入数据: 1000
+16:27:34: [TxRxResult] Port is in use!
+16:27:34: dxl_comm.send_script() script : move liftshoulder  73 300 30 -30  
+16:27:34: debug: 执行脚本: move bigarm  62 300 30 -30
+16:27:34: debug: rotate: servo bigarm : pos 1977, speed 1000, accelerate 30
+16:27:34: 写入数据失败:  servo: bigarm, servo id: 13 地址: 41, 写入数据: 30
+16:27:34: [TxRxResult] Port is in use!
+16:27:34: 写入数据失败:  servo: bigarm, servo id: 13 地址: 46, 写入数据: 1000
+16:27:34: [TxRxResult] Port is in use!
+16:27:34: dxl_comm.send_script() script : move bigarm  62 300 30 -30  
+16:27:34: debug: 执行脚本: move elbow  39 300 30 -30
+16:27:34: debug: rotate: servo elbow : pos 1522, speed 1000, accelerate 30
+16:27:34: 写入数据失败:  servo: elbow, servo id: 14 地址: 41, 写入数据: 30
+16:27:34: [TxRxResult] Port is in use!
+16:27:34: 写入数据失败:  servo: elbow, servo id: 14 地址: 46, 写入数据: 1000
+16:27:34: [TxRxResult] Port is in use!
+16:27:34: dxl_comm.send_script() script : move elbow  39 300 30 -30  
+16:27:35: debug: 执行脚本: move rotateshoulder  94 300 30 -30
+16:27:35: debug: rotate: servo rotateshoulder : pos 3088, speed 1000, accelerate 30
+16:27:35: 写入数据失败:  servo: rotateshoulder, servo id: 11 地址: 41, 写入数据: 30
+16:27:35: [TxRxResult] Port is in use!
+16:27:35: 写入数据失败:  servo: rotateshoulder, servo id: 11 地址: 46, 写入数据: 1000
+16:27:35: [TxRxResult] Port is in use!
+16:27:35: dxl_comm.send_script() script : move rotateshoulder  94 300 30 -30  
+16:27:35: debug: 执行脚本: move liftshoulder  29 300 30 -30
+16:27:35: debug: rotate: servo liftshoulder : pos 1891, speed 1000, accelerate 30
+16:27:35: 写入数据失败:  servo: liftshoulder, servo id: 12 地址: 41, 写入数据: 30
+16:27:35: [TxRxResult] Port is in use!
+16:27:35: 写入数据失败:  servo: liftshoulder, servo id: 12 地址: 46, 写入数据: 1000
+16:27:35: [TxRxResult] Port is in use!
+16:27:35: dxl_comm.send_script() script : move liftshoulder  29 300 30 -30  
+16:27:36: debug: 执行脚本: move bigarm  11 300 30 -30
+16:27:36: debug: rotate: servo bigarm : pos 1107, speed 1000, accelerate 30
+16:27:36: 写入数据失败:  servo: bigarm, servo id: 13 地址: 41, 写入数据: 30
+16:27:36: [TxRxResult] Port is in use!
+16:27:36: 写入数据失败:  servo: bigarm, servo id: 13 地址: 46, 写入数据: 1000
+16:27:36: [TxRxResult] Port is in use!
+16:27:36: dxl_comm.send_script() script : move bigarm  11 300 30 -30  
+16:27:36: debug: 执行脚本: move elbow  55 300 30 -30
+16:27:36: debug: rotate: servo elbow : pos 1658, speed 1000, accelerate 30
+16:27:36: 写入数据失败:  servo: elbow, servo id: 14 地址: 41, 写入数据: 30
+16:27:36: [TxRxResult] Port is in use!
+16:27:36: 写入数据失败:  servo: elbow, servo id: 14 地址: 46, 写入数据: 1000
+16:27:36: [TxRxResult] Port is in use!
+16:27:36: dxl_comm.send_script() script : move elbow  55 300 30 -30  
+16:27:37: debug: 执行脚本: move rotateshoulder  65 300 30 -30
+16:27:37: debug: rotate: servo rotateshoulder : pos 2787, speed 1000, accelerate 30
+16:27:37: 写入数据失败:  servo: rotateshoulder, servo id: 11 地址: 41, 写入数据: 30
+16:27:37: [TxRxResult] Port is in use!
+16:27:37: 写入数据失败:  servo: rotateshoulder, servo id: 11 地址: 46, 写入数据: 1000
+16:27:37: [TxRxResult] Port is in use!
+16:27:37: dxl_comm.send_script() script : move rotateshoulder  65 300 30 -30  
+16:27:37: debug: 执行脚本: move liftshoulder  46 300 30 -30
+16:27:37: debug: rotate: servo liftshoulder : pos 2019, speed 1000, accelerate 30
+16:27:37: 写入数据失败:  servo: liftshoulder, servo id: 12 地址: 41, 写入数据: 30
+16:27:37: [TxRxResult] Port is in use!
+16:27:37: 写入数据失败:  servo: liftshoulder, servo id: 12 地址: 46, 写入数据: 1000
+16:27:37: [TxRxResult] Port is in use!
+16:27:37: dxl_comm.send_script() script : move liftshoulder  46 300 30 -30  
+16:27:38: debug: 执行脚本: move bigarm  85 300 30 -30
+16:27:38: debug: rotate: servo bigarm : pos 2370, speed 1000, accelerate 30
+16:27:38: 写入数据失败:  servo: bigarm, servo id: 13 地址: 41, 写入数据: 30
+16:27:38: [TxRxResult] Port is in use!
+16:27:38: 写入数据失败:  servo: bigarm, servo id: 13 地址: 46, 写入数据: 1000
+16:27:38: [TxRxResult] Port is in use!
+16:27:38: dxl_comm.send_script() script : move bigarm  85 300 30 -30  
+16:27:38: debug: 执行脚本: move elbow  79 300 30 -30
+16:27:38: debug: rotate: servo elbow : pos 1863, speed 1000, accelerate 30
+16:27:38: 写入数据失败:  servo: elbow, servo id: 14 地址: 41, 写入数据: 30
+16:27:38: [TxRxResult] Port is in use!
+16:27:38: 写入数据失败:  servo: elbow, servo id: 14 地址: 46, 写入数据: 1000
+16:27:38: [TxRxResult] Port is in use!
+16:27:38: dxl_comm.send_script() script : move elbow  79 300 30 -30  
+16:27:39: debug: 执行脚本: move rotateshoulder  35 300 30 -30
+16:27:39: debug: rotate: servo rotateshoulder : pos 2476, speed 1000, accelerate 30
+16:27:39: 写入数据失败:  servo: rotateshoulder, servo id: 11 地址: 41, 写入数据: 30
+16:27:39: [TxRxResult] Port is in use!
+16:27:39: 写入数据失败:  servo: rotateshoulder, servo id: 11 地址: 46, 写入数据: 1000
+16:27:39: [TxRxResult] Port is in use!
+16:27:39: dxl_comm.send_script() script : move rotateshoulder  35 300 30 -30  
+16:27:39: debug: 执行脚本: move liftshoulder  16 300 30 -30
+16:27:39: debug: rotate: servo liftshoulder : pos 1794, speed 1000, accelerate 30
+16:27:39: 写入数据失败:  servo: liftshoulder, servo id: 12 地址: 41, 写入数据: 30
+16:27:39: [TxRxResult] Port is in use!
+16:27:39: 写入数据失败:  servo: liftshoulder, servo id: 12 地址: 46, 写入数据: 1000
+16:27:39: [TxRxResult] Port is in use!
+16:27:39: dxl_comm.send_script() script : move liftshoulder  16 300 30 -30  
+16:27:40: debug: 执行脚本: move bigarm  2 300 30 -30
+16:27:40: debug: rotate: servo bigarm : pos 954, speed 1000, accelerate 30
+16:27:40: 写入数据失败:  servo: bigarm, servo id: 13 地址: 41, 写入数据: 30
+16:27:40: [TxRxResult] Port is in use!
+16:27:40: 写入数据失败:  servo: bigarm, servo id: 13 地址: 46, 写入数据: 1000
+16:27:40: [TxRxResult] Port is in use!
+16:27:40: dxl_comm.send_script() script : move bigarm  2 300 30 -30  
+16:27:40: debug: 执行脚本: move elbow  2 300 30 -30
+16:27:40: debug: rotate: servo elbow : pos 1206, speed 1000, accelerate 30
+16:27:40: 写入数据失败:  servo: elbow, servo id: 14 地址: 41, 写入数据: 30
+16:27:40: [TxRxResult] Port is in use!
+16:27:40: 写入数据失败:  servo: elbow, servo id: 14 地址: 46, 写入数据: 1000
+16:27:40: [TxRxResult] Port is in use!
+16:27:40: dxl_comm.send_script() script : move elbow  2 300 30 -30  
+16:27:41: debug: 执行脚本: move rotateshoulder  99 300 30 -30
+16:27:41: debug: rotate: servo rotateshoulder : pos 3140, speed 1000, accelerate 30
+16:27:41: 写入数据失败:  servo: rotateshoulder, servo id: 11 地址: 41, 写入数据: 30
+16:27:41: [TxRxResult] Port is in use!
+16:27:41: 写入数据失败:  servo: rotateshoulder, servo id: 11 地址: 46, 写入数据: 1000
+16:27:41: [TxRxResult] Port is in use!
+16:27:41: dxl_comm.send_script() script : move rotateshoulder  99 300 30 -30  
+16:27:41: debug: 执行脚本: move liftshoulder  6 300 30 -30
+16:27:41: debug: rotate: servo liftshoulder : pos 1719, speed 1000, accelerate 30
+16:27:41: 写入数据失败:  servo: liftshoulder, servo id: 12 地址: 41, 写入数据: 30
+16:27:41: [TxRxResult] Port is in use!
+16:27:41: 写入数据失败:  servo: liftshoulder, servo id: 12 地址: 46, 写入数据: 1000
+16:27:41: [TxRxResult] Port is in use!
+16:27:41: dxl_comm.send_script() script : move liftshoulder  6 300 30 -30  
+16:27:41: debug: 执行脚本: move bigarm  71 300 30 -30
+16:27:41: debug: rotate: servo bigarm : pos 2131, speed 1000, accelerate 30
+16:27:41: 写入数据失败:  servo: bigarm, servo id: 13 地址: 41, 写入数据: 30
+16:27:41: [TxRxResult] Port is in use!
+16:27:41: 写入数据失败:  servo: bigarm, servo id: 13 地址: 46, 写入数据: 1000
+16:27:41: [TxRxResult] Port is in use!
+16:27:41: dxl_comm.send_script() script : move bigarm  71 300 30 -30  
+16:27:42: debug: 执行脚本: move elbow  14 300 30 -30
+16:27:42: debug: rotate: servo elbow : pos 1308, speed 1000, accelerate 30
+16:27:42: 写入数据失败:  servo: elbow, servo id: 14 地址: 41, 写入数据: 30
+16:27:42: [TxRxResult] Port is in use!
+16:27:42: 写入数据失败:  servo: elbow, servo id: 14 地址: 46, 写入数据: 1000
+16:27:42: [TxRxResult] Port is in use!
+16:27:42: dxl_comm.send_script() script : move elbow  14 300 30 -30  
+16:27:43: debug: 执行脚本: move rotateshoulder  28 300 30 -30
+16:27:43: debug: rotate: servo rotateshoulder : pos 2403, speed 1000, accelerate 30
+16:27:43: 写入数据失败:  servo: rotateshoulder, servo id: 11 地址: 41, 写入数据: 30
+16:27:43: [TxRxResult] Port is in use!
+16:27:43: 写入数据失败:  servo: rotateshoulder, servo id: 11 地址: 46, 写入数据: 1000
+16:27:43: [TxRxResult] Port is in use!
+16:27:43: dxl_comm.send_script() script : move rotateshoulder  28 300 30 -30  
+16:27:44: debug: 执行脚本: move liftshoulder  26 300 30 -30
+16:27:44: debug: rotate: servo liftshoulder : pos 1869, speed 1000, accelerate 30
+16:27:44: 写入数据失败:  servo: liftshoulder, servo id: 12 地址: 41, 写入数据: 30
+16:27:44: [TxRxResult] Port is in use!
+16:27:44: 写入数据失败:  servo: liftshoulder, servo id: 12 地址: 46, 写入数据: 1000
+16:27:44: [TxRxResult] Port is in use!
+16:27:44: dxl_comm.send_script() script : move liftshoulder  26 300 30 -30  
+16:27:44: debug: 执行脚本: move bigarm  63 300 30 -30
+16:27:44: debug: rotate: servo bigarm : pos 1994, speed 1000, accelerate 30
+16:27:44: 写入数据失败:  servo: bigarm, servo id: 13 地址: 41, 写入数据: 30
+16:27:44: [TxRxResult] Port is in use!
+16:27:44: 写入数据失败:  servo: bigarm, servo id: 13 地址: 46, 写入数据: 1000
+16:27:44: [TxRxResult] Port is in use!
+16:27:44: dxl_comm.send_script() script : move bigarm  63 300 30 -30  
+16:27:44: debug: 执行脚本: move elbow  5 300 30 -30
+16:27:44: debug: rotate: servo elbow : pos 1231, speed 1000, accelerate 30
+16:27:44: 写入数据失败:  servo: elbow, servo id: 14 地址: 41, 写入数据: 30
+16:27:44: [TxRxResult] Port is in use!
+16:27:44: 写入数据失败:  servo: elbow, servo id: 14 地址: 46, 写入数据: 1000
+16:27:44: [TxRxResult] Port is in use!
+16:27:44: dxl_comm.send_script() script : move elbow  5 300 30 -30  
+16:27:45: debug: 执行脚本: move rotateshoulder  79 300 30 -30
+16:27:45: debug: rotate: servo rotateshoulder : pos 2933, speed 1000, accelerate 30
+16:27:45: 写入数据失败:  servo: rotateshoulder, servo id: 11 地址: 41, 写入数据: 30
+16:27:45: [TxRxResult] Port is in use!
+16:27:45: 写入数据失败:  servo: rotateshoulder, servo id: 11 地址: 46, 写入数据: 1000
+16:27:45: [TxRxResult] Port is in use!
+16:27:45: dxl_comm.send_script() script : move rotateshoulder  79 300 30 -30  
+16:27:46: debug: 执行脚本: move liftshoulder  4 300 30 -30
+16:27:46: debug: rotate: servo liftshoulder : pos 1704, speed 1000, accelerate 30
+16:27:46: 写入数据失败:  servo: liftshoulder, servo id: 12 地址: 41, 写入数据: 30
+16:27:46: [TxRxResult] Port is in use!
+16:27:46: 写入数据失败:  servo: liftshoulder, servo id: 12 地址: 46, 写入数据: 1000
+16:27:46: [TxRxResult] Port is in use!
+16:27:46: dxl_comm.send_script() script : move liftshoulder  4 300 30 -30  
+16:27:46: debug: 执行脚本: move bigarm  90 300 30 -30
+16:27:46: debug: rotate: servo bigarm : pos 2455, speed 1000, accelerate 30
+16:27:46: 写入数据失败:  servo: bigarm, servo id: 13 地址: 41, 写入数据: 30
+16:27:46: [TxRxResult] Port is in use!
+16:27:46: 写入数据失败:  servo: bigarm, servo id: 13 地址: 46, 写入数据: 1000
+16:27:46: [TxRxResult] Port is in use!
+16:27:46: dxl_comm.send_script() script : move bigarm  90 300 30 -30  
+16:27:47: debug: 执行脚本: move elbow  22 300 30 -30
+16:27:47: debug: rotate: servo elbow : pos 1376, speed 1000, accelerate 30
+16:27:47: 写入数据失败:  servo: elbow, servo id: 14 地址: 41, 写入数据: 30
+16:27:47: [TxRxResult] Port is in use!
+16:27:47: 写入数据失败:  servo: elbow, servo id: 14 地址: 46, 写入数据: 1000
+16:27:47: [TxRxResult] Port is in use!
+16:27:47: dxl_comm.send_script() script : move elbow  22 300 30 -30  
+16:27:48: debug: 执行脚本: move rotateshoulder  99 300 30 -30
+16:27:48: debug: rotate: servo rotateshoulder : pos 3140, speed 1000, accelerate 30
+16:27:48: 写入数据失败:  servo: rotateshoulder, servo id: 11 地址: 41, 写入数据: 30
+16:27:48: [TxRxResult] Port is in use!
+16:27:48: 写入数据失败:  servo: rotateshoulder, servo id: 11 地址: 46, 写入数据: 1000
+16:27:48: [TxRxResult] Port is in use!
+16:27:48: dxl_comm.send_script() script : move rotateshoulder  99 300 30 -30  
+16:27:48: debug: 执行脚本: move liftshoulder  34 300 30 -30
+16:27:48: debug: rotate: servo liftshoulder : pos 1929, speed 1000, accelerate 30
+16:27:48: 写入数据失败:  servo: liftshoulder, servo id: 12 地址: 41, 写入数据: 30
+16:27:48: [TxRxResult] Port is in use!
+16:27:48: 写入数据失败:  servo: liftshoulder, servo id: 12 地址: 46, 写入数据: 1000
+16:27:48: [TxRxResult] Port is in use!
+16:27:48: dxl_comm.send_script() script : move liftshoulder  34 300 30 -30  
+16:27:49: debug: 执行脚本: move bigarm  26 300 30 -30
+16:27:49: debug: rotate: servo bigarm : pos 1363, speed 1000, accelerate 30
+16:27:49: 写入数据失败:  servo: bigarm, servo id: 13 地址: 41, 写入数据: 30
+16:27:49: [TxRxResult] Port is in use!
+16:27:49: 写入数据失败:  servo: bigarm, servo id: 13 地址: 46, 写入数据: 1000
+16:27:49: [TxRxResult] Port is in use!
+16:27:49: dxl_comm.send_script() script : move bigarm  26 300 30 -30  
+16:27:49: debug: 执行脚本: move elbow  31 300 30 -30
+16:27:49: debug: rotate: servo elbow : pos 1453, speed 1000, accelerate 30
+16:27:49: 写入数据失败:  servo: elbow, servo id: 14 地址: 41, 写入数据: 30
+16:27:49: [TxRxResult] Port is in use!
+16:27:49: 写入数据失败:  servo: elbow, servo id: 14 地址: 46, 写入数据: 1000
+16:27:49: [TxRxResult] Port is in use!
+16:27:49: dxl_comm.send_script() script : move elbow  31 300 30 -30  
+16:27:49: debug: 执行脚本: move rotateshoulder  83 300 30 -30
+16:27:49: debug: rotate: servo rotateshoulder : pos 2974, speed 1000, accelerate 30
+16:27:49: 写入数据失败:  servo: rotateshoulder, servo id: 11 地址: 41, 写入数据: 30
+16:27:49: [TxRxResult] Port is in use!
+16:27:49: 写入数据失败:  servo: rotateshoulder, servo id: 11 地址: 46, 写入数据: 1000
+16:27:49: [TxRxResult] Port is in use!
+16:27:49: dxl_comm.send_script() script : move rotateshoulder  83 300 30 -30  
+16:27:49: debug: 执行脚本: move liftshoulder  71 300 30 -30
+16:27:49: debug: rotate: servo liftshoulder : pos 2207, speed 1000, accelerate 30
+16:27:49: 写入数据失败:  servo: liftshoulder, servo id: 12 地址: 41, 写入数据: 30
+16:27:49: [TxRxResult] Port is in use!
+16:27:49: 写入数据失败:  servo: liftshoulder, servo id: 12 地址: 46, 写入数据: 1000
+16:27:49: [TxRxResult] Port is in use!
+16:27:49: dxl_comm.send_script() script : move liftshoulder  71 300 30 -30  
+16:27:50: debug: 执行脚本: move bigarm  9 300 30 -30
+16:27:50: debug: rotate: servo bigarm : pos 1073, speed 1000, accelerate 30
+16:27:50: 写入数据失败:  servo: bigarm, servo id: 13 地址: 41, 写入数据: 30
+16:27:50: [TxRxResult] Port is in use!
+16:27:50: 写入数据失败:  servo: bigarm, servo id: 13 地址: 46, 写入数据: 1000
+16:27:50: [TxRxResult] Port is in use!
+16:27:50: dxl_comm.send_script() script : move bigarm  9 300 30 -30  
+16:27:50: debug: 执行脚本: move elbow  19 300 30 -30
+16:27:50: debug: rotate: servo elbow : pos 1351, speed 1000, accelerate 30
+16:27:50: 写入数据失败:  servo: elbow, servo id: 14 地址: 41, 写入数据: 30
+16:27:50: [TxRxResult] Port is in use!
+16:27:50: 写入数据失败:  servo: elbow, servo id: 14 地址: 46, 写入数据: 1000
+16:27:50: [TxRxResult] Port is in use!
+16:27:50: dxl_comm.send_script() script : move elbow  19 300 30 -30  
+16:27:51: debug: 执行脚本: move rotateshoulder  63 300 30 -30
+16:27:51: debug: rotate: servo rotateshoulder : pos 2766, speed 1000, accelerate 30
+16:27:51: 写入数据失败:  servo: rotateshoulder, servo id: 11 地址: 41, 写入数据: 30
+16:27:51: [TxRxResult] Port is in use!
+16:27:51: 写入数据失败:  servo: rotateshoulder, servo id: 11 地址: 46, 写入数据: 1000
+16:27:51: [TxRxResult] Port is in use!
+16:27:51: dxl_comm.send_script() script : move rotateshoulder  63 300 30 -30  
+16:27:51: debug: 执行脚本: move liftshoulder  4 300 30 -30
+16:27:51: debug: rotate: servo liftshoulder : pos 1704, speed 1000, accelerate 30
+16:27:51: 写入数据失败:  servo: liftshoulder, servo id: 12 地址: 41, 写入数据: 30
+16:27:51: [TxRxResult] Port is in use!
+16:27:51: 写入数据失败:  servo: liftshoulder, servo id: 12 地址: 46, 写入数据: 1000
+16:27:51: [TxRxResult] Port is in use!
+16:27:51: dxl_comm.send_script() script : move liftshoulder  4 300 30 -30  
+16:27:52: debug: 执行脚本: move bigarm  28 300 30 -30
+16:27:52: debug: rotate: servo bigarm : pos 1397, speed 1000, accelerate 30
+16:27:52: 写入数据失败:  servo: bigarm, servo id: 13 地址: 41, 写入数据: 30
+16:27:52: [TxRxResult] Port is in use!
+16:27:52: 写入数据失败:  servo: bigarm, servo id: 13 地址: 46, 写入数据: 1000
+16:27:52: [TxRxResult] Port is in use!
+16:27:52: dxl_comm.send_script() script : move bigarm  28 300 30 -30  
+16:27:52: debug: 执行脚本: move elbow  59 300 30 -30
+16:27:52: debug: rotate: servo elbow : pos 1692, speed 1000, accelerate 30
+16:27:52: 写入数据失败:  servo: elbow, servo id: 14 地址: 41, 写入数据: 30
+16:27:52: [TxRxResult] Port is in use!
+16:27:52: 写入数据失败:  servo: elbow, servo id: 14 地址: 46, 写入数据: 1000
+16:27:52: [TxRxResult] Port is in use!
+16:27:52: dxl_comm.send_script() script : move elbow  59 300 30 -30  
+16:27:52: debug: 执行脚本: move rotateshoulder  21 300 30 -30
+16:27:52: debug: rotate: servo rotateshoulder : pos 2330, speed 1000, accelerate 30
+16:27:52: 写入数据失败:  servo: rotateshoulder, servo id: 11 地址: 41, 写入数据: 30
+16:27:52: [TxRxResult] Port is in use!
+16:27:52: 写入数据失败:  servo: rotateshoulder, servo id: 11 地址: 46, 写入数据: 1000
+16:27:52: [TxRxResult] Port is in use!
+16:27:52: dxl_comm.send_script() script : move rotateshoulder  21 300 30 -30  
+16:27:53: debug: 执行脚本: move liftshoulder  23 300 30 -30
+16:27:53: debug: rotate: servo liftshoulder : pos 1846, speed 1000, accelerate 30
+16:27:53: 写入数据失败:  servo: liftshoulder, servo id: 12 地址: 41, 写入数据: 30
+16:27:53: [TxRxResult] Port is in use!
+16:27:53: 写入数据失败:  servo: liftshoulder, servo id: 12 地址: 46, 写入数据: 1000
+16:27:53: [TxRxResult] Port is in use!
+16:27:53: dxl_comm.send_script() script : move liftshoulder  23 300 30 -30  
+16:27:54: debug: 执行脚本: move bigarm  35 300 30 -30
+16:27:54: debug: rotate: servo bigarm : pos 1517, speed 1000, accelerate 30
+16:27:54: 写入数据失败:  servo: bigarm, servo id: 13 地址: 41, 写入数据: 30
+16:27:54: [TxRxResult] Port is in use!
+16:27:54: 写入数据失败:  servo: bigarm, servo id: 13 地址: 46, 写入数据: 1000
+16:27:54: [TxRxResult] Port is in use!
+16:27:54: dxl_comm.send_script() script : move bigarm  35 300 30 -30  
+16:27:54: debug: 执行脚本: move elbow  22 300 30 -30
+16:27:54: debug: rotate: servo elbow : pos 1376, speed 1000, accelerate 30
+16:27:54: 写入数据失败:  servo: elbow, servo id: 14 地址: 41, 写入数据: 30
+16:27:54: [TxRxResult] Port is in use!
+16:27:54: 写入数据失败:  servo: elbow, servo id: 14 地址: 46, 写入数据: 1000
+16:27:54: [TxRxResult] Port is in use!
+16:27:54: dxl_comm.send_script() script : move elbow  22 300 30 -30  
+16:27:55: debug: 执行脚本: move rotateshoulder  49 300 30 -30
+16:27:55: debug: rotate: servo rotateshoulder : pos 2621, speed 1000, accelerate 30
+16:27:55: 写入数据失败:  servo: rotateshoulder, servo id: 11 地址: 41, 写入数据: 30
+16:27:55: [TxRxResult] Port is in use!
+16:27:55: 写入数据失败:  servo: rotateshoulder, servo id: 11 地址: 46, 写入数据: 1000
+16:27:55: [TxRxResult] Port is in use!
+16:27:55: dxl_comm.send_script() script : move rotateshoulder  49 300 30 -30  
+16:27:56: debug: 执行脚本: move liftshoulder  30 300 30 -30
+16:27:56: debug: rotate: servo liftshoulder : pos 1899, speed 1000, accelerate 30
+16:27:56: 写入数据失败:  servo: liftshoulder, servo id: 12 地址: 41, 写入数据: 30
+16:27:56: [TxRxResult] Port is in use!
+16:27:56: 写入数据失败:  servo: liftshoulder, servo id: 12 地址: 46, 写入数据: 1000
+16:27:56: [TxRxResult] Port is in use!
+16:27:56: dxl_comm.send_script() script : move liftshoulder  30 300 30 -30  
+16:27:56: debug: 执行脚本: move bigarm  31 300 30 -30
+16:27:56: debug: rotate: servo bigarm : pos 1448, speed 1000, accelerate 30
+16:27:56: 写入数据失败:  servo: bigarm, servo id: 13 地址: 41, 写入数据: 30
+16:27:56: [TxRxResult] Port is in use!
+16:27:56: 写入数据失败:  servo: bigarm, servo id: 13 地址: 46, 写入数据: 1000
+16:27:56: [TxRxResult] Port is in use!
+16:27:56: dxl_comm.send_script() script : move bigarm  31 300 30 -30  
+16:27:57: debug: 执行脚本: move elbow  6 300 30 -30
+16:27:57: debug: rotate: servo elbow : pos 1240, speed 1000, accelerate 30
+16:27:57: 写入数据失败:  servo: elbow, servo id: 14 地址: 41, 写入数据: 30
+16:27:57: [TxRxResult] Port is in use!
+16:27:57: 写入数据失败:  servo: elbow, servo id: 14 地址: 46, 写入数据: 1000
+16:27:57: [TxRxResult] Port is in use!
+16:27:57: dxl_comm.send_script() script : move elbow  6 300 30 -30  
+16:27:57: debug: 执行脚本: move rotateshoulder  86 300 30 -30
+16:27:57: debug: rotate: servo rotateshoulder : pos 3005, speed 1000, accelerate 30
+16:27:57: 写入数据失败:  servo: rotateshoulder, servo id: 11 地址: 41, 写入数据: 30
+16:27:57: [TxRxResult] Port is in use!
+16:27:57: 写入数据失败:  servo: rotateshoulder, servo id: 11 地址: 46, 写入数据: 1000
+16:27:57: [TxRxResult] Port is in use!
+16:27:57: dxl_comm.send_script() script : move rotateshoulder  86 300 30 -30  
+16:27:58: debug: 执行脚本: move liftshoulder  30 300 30 -30
+16:27:58: debug: rotate: servo liftshoulder : pos 1899, speed 1000, accelerate 30
+16:27:58: 写入数据失败:  servo: liftshoulder, servo id: 12 地址: 41, 写入数据: 30
+16:27:58: [TxRxResult] Port is in use!
+16:27:58: 写入数据失败:  servo: liftshoulder, servo id: 12 地址: 46, 写入数据: 1000
+16:27:58: [TxRxResult] Port is in use!
+16:27:58: dxl_comm.send_script() script : move liftshoulder  30 300 30 -30  
+16:27:58: debug: 执行脚本: move bigarm  29 300 30 -30
+16:27:58: debug: rotate: servo bigarm : pos 1414, speed 1000, accelerate 30
+16:27:58: 写入数据失败:  servo: bigarm, servo id: 13 地址: 41, 写入数据: 30
+16:27:58: [TxRxResult] Port is in use!
+16:27:58: 写入数据失败:  servo: bigarm, servo id: 13 地址: 46, 写入数据: 1000
+16:27:58: [TxRxResult] Port is in use!
+16:27:58: dxl_comm.send_script() script : move bigarm  29 300 30 -30  
+16:27:59: debug: 执行脚本: move elbow  42 300 30 -30
+16:27:59: debug: rotate: servo elbow : pos 1547, speed 1000, accelerate 30
+16:27:59: 写入数据失败:  servo: elbow, servo id: 14 地址: 41, 写入数据: 30
+16:27:59: [TxRxResult] Port is in use!
+16:27:59: 写入数据失败:  servo: elbow, servo id: 14 地址: 46, 写入数据: 1000
+16:27:59: [TxRxResult] Port is in use!
+16:27:59: dxl_comm.send_script() script : move elbow  42 300 30 -30  
+16:28:00: debug: 执行脚本: move rotateshoulder  57 300 30 -30
+16:28:00: debug: rotate: servo rotateshoulder : pos 2704, speed 1000, accelerate 30
+16:28:00: 写入数据失败:  servo: rotateshoulder, servo id: 11 地址: 41, 写入数据: 30
+16:28:00: [TxRxResult] Port is in use!
+16:28:00: 写入数据失败:  servo: rotateshoulder, servo id: 11 地址: 46, 写入数据: 1000
+16:28:00: [TxRxResult] Port is in use!
+16:28:00: dxl_comm.send_script() script : move rotateshoulder  57 300 30 -30  
+16:28:00: debug: 执行脚本: move liftshoulder  33 300 30 -30
+16:28:00: debug: rotate: servo liftshoulder : pos 1921, speed 1000, accelerate 30
+16:28:00: 写入数据失败:  servo: liftshoulder, servo id: 12 地址: 41, 写入数据: 30
+16:28:00: [TxRxResult] Port is in use!
+16:28:00: 写入数据失败:  servo: liftshoulder, servo id: 12 地址: 46, 写入数据: 1000
+16:28:00: [TxRxResult] Port is in use!
+16:28:00: dxl_comm.send_script() script : move liftshoulder  33 300 30 -30  
+16:28:01: debug: 执行脚本: move bigarm  67 300 30 -30
+16:28:01: debug: rotate: servo bigarm : pos 2063, speed 1000, accelerate 30
+16:28:01: 写入数据失败:  servo: bigarm, servo id: 13 地址: 41, 写入数据: 30
+16:28:01: [TxRxResult] Port is in use!
+16:28:01: 写入数据失败:  servo: bigarm, servo id: 13 地址: 46, 写入数据: 1000
+16:28:01: [TxRxResult] Port is in use!
+16:28:01: dxl_comm.send_script() script : move bigarm  67 300 30 -30  
+16:28:01: debug: 执行脚本: move elbow  93 300 30 -30
+16:28:01: debug: rotate: servo elbow : pos 1983, speed 1000, accelerate 30
+16:28:01: 写入数据失败:  servo: elbow, servo id: 14 地址: 41, 写入数据: 30
+16:28:01: [TxRxResult] Port is in use!
+16:28:01: 写入数据失败:  servo: elbow, servo id: 14 地址: 46, 写入数据: 1000
+16:28:01: [TxRxResult] Port is in use!
+16:28:01: dxl_comm.send_script() script : move elbow  93 300 30 -30  
+16:28:01: debug: 执行脚本: move rotateshoulder  93 300 30 -30
+16:28:01: debug: rotate: servo rotateshoulder : pos 3078, speed 1000, accelerate 30
+16:28:01: 写入数据失败:  servo: rotateshoulder, servo id: 11 地址: 41, 写入数据: 30
+16:28:01: [TxRxResult] Port is in use!
+16:28:01: 写入数据失败:  servo: rotateshoulder, servo id: 11 地址: 46, 写入数据: 1000
+16:28:01: [TxRxResult] Port is in use!
+16:28:01: dxl_comm.send_script() script : move rotateshoulder  93 300 30 -30  
+16:28:02: debug: 执行脚本: move liftshoulder  93 300 30 -30
+16:28:02: debug: rotate: servo liftshoulder : pos 2372, speed 1000, accelerate 30
+16:28:02: 写入数据失败:  servo: liftshoulder, servo id: 12 地址: 41, 写入数据: 30
+16:28:02: [TxRxResult] Port is in use!
+16:28:02: 写入数据失败:  servo: liftshoulder, servo id: 12 地址: 46, 写入数据: 1000
+16:28:02: [TxRxResult] Port is in use!
+16:28:02: dxl_comm.send_script() script : move liftshoulder  93 300 30 -30  
+16:28:02: debug: 执行脚本: move bigarm  3 300 30 -30
+16:28:02: debug: rotate: servo bigarm : pos 971, speed 1000, accelerate 30
+16:28:02: 写入数据失败:  servo: bigarm, servo id: 13 地址: 41, 写入数据: 30
+16:28:02: [TxRxResult] Port is in use!
+16:28:02: 写入数据失败:  servo: bigarm, servo id: 13 地址: 46, 写入数据: 1000
+16:28:02: [TxRxResult] Port is in use!
+16:28:02: dxl_comm.send_script() script : move bigarm  3 300 30 -30  
+16:28:02: debug: 执行脚本: move elbow  92 300 30 -30
+16:28:02: debug: rotate: servo elbow : pos 1974, speed 1000, accelerate 30
+16:28:02: 写入数据失败:  servo: elbow, servo id: 14 地址: 41, 写入数据: 30
+16:28:02: [TxRxResult] Port is in use!
+16:28:02: 写入数据失败:  servo: elbow, servo id: 14 地址: 46, 写入数据: 1000
+16:28:02: [TxRxResult] Port is in use!
+16:28:02: dxl_comm.send_script() script : move elbow  92 300 30 -30  
+16:28:02: debug: 执行脚本: move rotateshoulder  75 300 30 -30
+16:28:02: debug: rotate: servo rotateshoulder : pos 2891, speed 1000, accelerate 30
+16:28:02: 写入数据失败:  servo: rotateshoulder, servo id: 11 地址: 41, 写入数据: 30
+16:28:02: [TxRxResult] Port is in use!
+16:28:02: 写入数据失败:  servo: rotateshoulder, servo id: 11 地址: 46, 写入数据: 1000
+16:28:02: [TxRxResult] Port is in use!
+16:28:02: dxl_comm.send_script() script : move rotateshoulder  75 300 30 -30  
+16:28:03: debug: 执行脚本: move liftshoulder  75 300 30 -30
+16:28:03: debug: rotate: servo liftshoulder : pos 2237, speed 1000, accelerate 30
+16:28:03: 写入数据失败:  servo: liftshoulder, servo id: 12 地址: 41, 写入数据: 30
+16:28:03: [TxRxResult] Port is in use!
+16:28:03: 写入数据失败:  servo: liftshoulder, servo id: 12 地址: 46, 写入数据: 1000
+16:28:03: [TxRxResult] Port is in use!
+16:28:03: dxl_comm.send_script() script : move liftshoulder  75 300 30 -30  
+16:28:03: debug: 执行脚本: move bigarm  75 300 30 -30
+16:28:03: debug: rotate: servo bigarm : pos 2199, speed 1000, accelerate 30
+16:28:03: 写入数据失败:  servo: bigarm, servo id: 13 地址: 41, 写入数据: 30
+16:28:03: [TxRxResult] Port is in use!
+16:28:03: 写入数据失败:  servo: bigarm, servo id: 13 地址: 46, 写入数据: 1000
+16:28:03: [TxRxResult] Port is in use!
+16:28:03: dxl_comm.send_script() script : move bigarm  75 300 30 -30  
+16:28:04: debug: 执行脚本: move elbow  33 300 30 -30
+16:28:04: debug: rotate: servo elbow : pos 1470, speed 1000, accelerate 30
+16:28:04: 写入数据失败:  servo: elbow, servo id: 14 地址: 41, 写入数据: 30
+16:28:04: [TxRxResult] Port is in use!
+16:28:04: 写入数据失败:  servo: elbow, servo id: 14 地址: 46, 写入数据: 1000
+16:28:04: [TxRxResult] Port is in use!
+16:28:04: dxl_comm.send_script() script : move elbow  33 300 30 -30  
+16:28:05: debug: 执行脚本: move rotateshoulder  59 300 30 -30
+16:28:05: debug: rotate: servo rotateshoulder : pos 2725, speed 1000, accelerate 30
+16:28:05: 写入数据失败:  servo: rotateshoulder, servo id: 11 地址: 41, 写入数据: 30
+16:28:05: [TxRxResult] Port is in use!
+16:28:05: 写入数据失败:  servo: rotateshoulder, servo id: 11 地址: 46, 写入数据: 1000
+16:28:05: [TxRxResult] Port is in use!
+16:28:05: dxl_comm.send_script() script : move rotateshoulder  59 300 30 -30  
+16:28:06: debug: 执行脚本: move liftshoulder  74 300 30 -30
+16:28:06: debug: rotate: servo liftshoulder : pos 2229, speed 1000, accelerate 30
+16:28:06: 写入数据失败:  servo: liftshoulder, servo id: 12 地址: 41, 写入数据: 30
+16:28:06: [TxRxResult] Port is in use!
+16:28:06: 写入数据失败:  servo: liftshoulder, servo id: 12 地址: 46, 写入数据: 1000
+16:28:06: [TxRxResult] Port is in use!
+16:28:06: dxl_comm.send_script() script : move liftshoulder  74 300 30 -30  
+16:28:06: debug: 执行脚本: move bigarm  34 300 30 -30
+16:28:06: debug: rotate: servo bigarm : pos 1500, speed 1000, accelerate 30
+16:28:06: 写入数据失败:  servo: bigarm, servo id: 13 地址: 41, 写入数据: 30
+16:28:06: [TxRxResult] Port is in use!
+16:28:06: 写入数据失败:  servo: bigarm, servo id: 13 地址: 46, 写入数据: 1000
+16:28:06: [TxRxResult] Port is in use!
+16:28:06: dxl_comm.send_script() script : move bigarm  34 300 30 -30  
+16:28:06: debug: 执行脚本: move elbow  1 300 30 -30
+16:28:06: debug: rotate: servo elbow : pos 1197, speed 1000, accelerate 30
+16:28:06: 写入数据失败:  servo: elbow, servo id: 14 地址: 41, 写入数据: 30
+16:28:06: [TxRxResult] Port is in use!
+16:28:06: 写入数据失败:  servo: elbow, servo id: 14 地址: 46, 写入数据: 1000
+16:28:06: [TxRxResult] Port is in use!
+16:28:06: dxl_comm.send_script() script : move elbow  1 300 30 -30  
+16:28:07: debug: 执行脚本: move rotateshoulder  54 300 30 -30
+16:28:07: debug: rotate: servo rotateshoulder : pos 2673, speed 1000, accelerate 30
+16:28:07: 写入数据失败:  servo: rotateshoulder, servo id: 11 地址: 41, 写入数据: 30
+16:28:07: [TxRxResult] Port is in use!
+16:28:07: 写入数据失败:  servo: rotateshoulder, servo id: 11 地址: 46, 写入数据: 1000
+16:28:07: [TxRxResult] Port is in use!
+16:28:07: dxl_comm.send_script() script : move rotateshoulder  54 300 30 -30  
+16:28:08: debug: 执行脚本: move liftshoulder  18 300 30 -30
+16:28:08: debug: rotate: servo liftshoulder : pos 1809, speed 1000, accelerate 30
+16:28:08: 写入数据失败:  servo: liftshoulder, servo id: 12 地址: 41, 写入数据: 30
+16:28:08: [TxRxResult] Port is in use!
+16:28:08: 写入数据失败:  servo: liftshoulder, servo id: 12 地址: 46, 写入数据: 1000
+16:28:08: [TxRxResult] Port is in use!
+16:28:08: dxl_comm.send_script() script : move liftshoulder  18 300 30 -30  
+16:28:08: debug: 执行脚本: move bigarm  36 300 30 -30
+16:28:08: debug: rotate: servo bigarm : pos 1534, speed 1000, accelerate 30
+16:28:08: 写入数据失败:  servo: bigarm, servo id: 13 地址: 41, 写入数据: 30
+16:28:08: [TxRxResult] Port is in use!
+16:28:08: 写入数据失败:  servo: bigarm, servo id: 13 地址: 46, 写入数据: 1000
+16:28:08: [TxRxResult] Port is in use!
+16:28:08: dxl_comm.send_script() script : move bigarm  36 300 30 -30  
+16:28:09: debug: 执行脚本: move elbow  27 300 30 -30
+16:28:09: debug: rotate: servo elbow : pos 1419, speed 1000, accelerate 30
+16:28:09: 写入数据失败:  servo: elbow, servo id: 14 地址: 41, 写入数据: 30
+16:28:09: [TxRxResult] Port is in use!
+16:28:09: 写入数据失败:  servo: elbow, servo id: 14 地址: 46, 写入数据: 1000
+16:28:09: [TxRxResult] Port is in use!
+16:28:09: dxl_comm.send_script() script : move elbow  27 300 30 -30  
+16:28:09: debug: 执行脚本: move rotateshoulder  48 300 30 -30
+16:28:09: debug: rotate: servo rotateshoulder : pos 2611, speed 1000, accelerate 30
+16:28:09: 写入数据失败:  servo: rotateshoulder, servo id: 11 地址: 41, 写入数据: 30
+16:28:09: [TxRxResult] Port is in use!
+16:28:09: 写入数据失败:  servo: rotateshoulder, servo id: 11 地址: 46, 写入数据: 1000
+16:28:09: [TxRxResult] Port is in use!
+16:28:09: dxl_comm.send_script() script : move rotateshoulder  48 300 30 -30  
+16:28:10: debug: 执行脚本: move liftshoulder  52 300 30 -30
+16:28:10: debug: rotate: servo liftshoulder : pos 2064, speed 1000, accelerate 30
+16:28:10: 写入数据失败:  servo: liftshoulder, servo id: 12 地址: 41, 写入数据: 30
+16:28:10: [TxRxResult] Port is in use!
+16:28:10: 写入数据失败:  servo: liftshoulder, servo id: 12 地址: 46, 写入数据: 1000
+16:28:10: [TxRxResult] Port is in use!
+16:28:10: dxl_comm.send_script() script : move liftshoulder  52 300 30 -30  
+16:28:10: debug: 执行脚本: move bigarm  79 300 30 -30
+16:28:10: debug: rotate: servo bigarm : pos 2267, speed 1000, accelerate 30
+16:28:10: 写入数据失败:  servo: bigarm, servo id: 13 地址: 41, 写入数据: 30
+16:28:10: [TxRxResult] Port is in use!
+16:28:10: 写入数据失败:  servo: bigarm, servo id: 13 地址: 46, 写入数据: 1000
+16:28:10: [TxRxResult] Port is in use!
+16:28:10: dxl_comm.send_script() script : move bigarm  79 300 30 -30  
+16:28:11: debug: 执行脚本: move elbow  14 300 30 -30
+16:28:11: debug: rotate: servo elbow : pos 1308, speed 1000, accelerate 30
+16:28:11: 写入数据失败:  servo: elbow, servo id: 14 地址: 41, 写入数据: 30
+16:28:11: [TxRxResult] Port is in use!
+16:28:11: 写入数据失败:  servo: elbow, servo id: 14 地址: 46, 写入数据: 1000
+16:28:11: [TxRxResult] Port is in use!
+16:28:11: dxl_comm.send_script() script : move elbow  14 300 30 -30  
+16:28:12: debug: 执行脚本: move rotateshoulder  51 300 30 -30
+16:28:12: debug: rotate: servo rotateshoulder : pos 2642, speed 1000, accelerate 30
+16:28:12: 写入数据失败:  servo: rotateshoulder, servo id: 11 地址: 41, 写入数据: 30
+16:28:12: [TxRxResult] Port is in use!
+16:28:12: 写入数据失败:  servo: rotateshoulder, servo id: 11 地址: 46, 写入数据: 1000
+16:28:12: [TxRxResult] Port is in use!
+16:28:12: dxl_comm.send_script() script : move rotateshoulder  51 300 30 -30  
+16:28:13: debug: 执行脚本: move liftshoulder  7 300 30 -30
+16:28:13: debug: rotate: servo liftshoulder : pos 1726, speed 1000, accelerate 30
+16:28:13: 写入数据失败:  servo: liftshoulder, servo id: 12 地址: 41, 写入数据: 30
+16:28:13: [TxRxResult] Port is in use!
+16:28:13: 写入数据失败:  servo: liftshoulder, servo id: 12 地址: 46, 写入数据: 1000
+16:28:13: [TxRxResult] Port is in use!
+16:28:13: dxl_comm.send_script() script : move liftshoulder  7 300 30 -30  
+16:28:14: debug: 执行脚本: move bigarm  3 300 30 -30
+16:28:14: debug: rotate: servo bigarm : pos 971, speed 1000, accelerate 30
+16:28:14: 写入数据失败:  servo: bigarm, servo id: 13 地址: 41, 写入数据: 30
+16:28:14: [TxRxResult] Port is in use!
+16:28:14: 写入数据失败:  servo: bigarm, servo id: 13 地址: 46, 写入数据: 1000
+16:28:14: [TxRxResult] Port is in use!
+16:28:14: dxl_comm.send_script() script : move bigarm  3 300 30 -30  
+16:28:14: debug: 执行脚本: move elbow  21 300 30 -30
+16:28:14: debug: rotate: servo elbow : pos 1368, speed 1000, accelerate 30
+16:28:14: 写入数据失败:  servo: elbow, servo id: 14 地址: 41, 写入数据: 30
+16:28:14: [TxRxResult] Port is in use!
+16:28:14: 写入数据失败:  servo: elbow, servo id: 14 地址: 46, 写入数据: 1000
+16:28:14: [TxRxResult] Port is in use!
+16:28:14: dxl_comm.send_script() script : move elbow  21 300 30 -30  
+16:28:14: debug: 执行脚本: move rotateshoulder  85 300 30 -30
+16:28:14: debug: rotate: servo rotateshoulder : pos 2995, speed 1000, accelerate 30
+16:28:14: 写入数据失败:  servo: rotateshoulder, servo id: 11 地址: 41, 写入数据: 30
+16:28:14: [TxRxResult] Port is in use!
+16:28:14: 写入数据失败:  servo: rotateshoulder, servo id: 11 地址: 46, 写入数据: 1000
+16:28:14: [TxRxResult] Port is in use!
+16:28:14: dxl_comm.send_script() script : move rotateshoulder  85 300 30 -30  
+16:28:15: debug: 执行脚本: move liftshoulder  69 300 30 -30
+16:28:15: debug: rotate: servo liftshoulder : pos 2192, speed 1000, accelerate 30
+16:28:15: 写入数据失败:  servo: liftshoulder, servo id: 12 地址: 41, 写入数据: 30
+16:28:15: [TxRxResult] Port is in use!
+16:28:15: 写入数据失败:  servo: liftshoulder, servo id: 12 地址: 46, 写入数据: 1000
+16:28:15: [TxRxResult] Port is in use!
+16:28:15: dxl_comm.send_script() script : move liftshoulder  69 300 30 -30  
+16:28:16: debug: 执行脚本: move bigarm  0 300 30 -30
+16:28:16: debug: rotate: servo bigarm : pos 920, speed 1000, accelerate 30
+16:28:16: 写入数据失败:  servo: bigarm, servo id: 13 地址: 41, 写入数据: 30
+16:28:16: [TxRxResult] Port is in use!
+16:28:16: 写入数据失败:  servo: bigarm, servo id: 13 地址: 46, 写入数据: 1000
+16:28:16: [TxRxResult] Port is in use!
+16:28:16: dxl_comm.send_script() script : move bigarm  0 300 30 -30  
+16:28:16: debug: 执行脚本: move elbow  89 300 30 -30
+16:28:16: debug: rotate: servo elbow : pos 1949, speed 1000, accelerate 30
+16:28:16: 写入数据失败:  servo: elbow, servo id: 14 地址: 41, 写入数据: 30
+16:28:16: [TxRxResult] Port is in use!
+16:28:16: 写入数据失败:  servo: elbow, servo id: 14 地址: 46, 写入数据: 1000
+16:28:16: [TxRxResult] Port is in use!
+16:28:16: dxl_comm.send_script() script : move elbow  89 300 30 -30  
+16:28:16: debug: 执行脚本: move rotateshoulder  46 300 30 -30
+16:28:16: debug: rotate: servo rotateshoulder : pos 2590, speed 1000, accelerate 30
+16:28:16: 写入数据失败:  servo: rotateshoulder, servo id: 11 地址: 41, 写入数据: 30
+16:28:16: [TxRxResult] Port is in use!
+16:28:16: 写入数据失败:  servo: rotateshoulder, servo id: 11 地址: 46, 写入数据: 1000
+16:28:16: [TxRxResult] Port is in use!
+16:28:16: dxl_comm.send_script() script : move rotateshoulder  46 300 30 -30  
+16:28:17: debug: 执行脚本: move liftshoulder  38 300 30 -30
+16:28:17: debug: rotate: servo liftshoulder : pos 1959, speed 1000, accelerate 30
+16:28:17: 写入数据失败:  servo: liftshoulder, servo id: 12 地址: 41, 写入数据: 30
+16:28:17: [TxRxResult] Port is in use!
+16:28:17: 写入数据失败:  servo: liftshoulder, servo id: 12 地址: 46, 写入数据: 1000
+16:28:17: [TxRxResult] Port is in use!
+16:28:17: dxl_comm.send_script() script : move liftshoulder  38 300 30 -30  
+16:28:17: debug: 执行脚本: move bigarm  83 300 30 -30
+16:28:17: debug: rotate: servo bigarm : pos 2335, speed 1000, accelerate 30
+16:28:17: 写入数据失败:  servo: bigarm, servo id: 13 地址: 41, 写入数据: 30
+16:28:17: [TxRxResult] Port is in use!
+16:28:17: 写入数据失败:  servo: bigarm, servo id: 13 地址: 46, 写入数据: 1000
+16:28:17: [TxRxResult] Port is in use!
+16:28:17: dxl_comm.send_script() script : move bigarm  83 300 30 -30  
+16:28:18: debug: 执行脚本: move elbow  23 300 30 -30
+16:28:18: debug: rotate: servo elbow : pos 1385, speed 1000, accelerate 30
+16:28:18: 写入数据失败:  servo: elbow, servo id: 14 地址: 41, 写入数据: 30
+16:28:18: [TxRxResult] Port is in use!
+16:28:18: 写入数据失败:  servo: elbow, servo id: 14 地址: 46, 写入数据: 1000
+16:28:18: [TxRxResult] Port is in use!
+16:28:18: dxl_comm.send_script() script : move elbow  23 300 30 -30  
+16:28:18: debug: 执行脚本: move rotateshoulder  2 300 30 -30
+16:28:18: debug: rotate: servo rotateshoulder : pos 2133, speed 1000, accelerate 30
+16:28:18: 写入数据失败:  servo: rotateshoulder, servo id: 11 地址: 41, 写入数据: 30
+16:28:18: [TxRxResult] Port is in use!
+16:28:18: 写入数据失败:  servo: rotateshoulder, servo id: 11 地址: 46, 写入数据: 1000
+16:28:18: [TxRxResult] Port is in use!
+16:28:18: dxl_comm.send_script() script : move rotateshoulder  2 300 30 -30  
+16:28:19: debug: 执行脚本: move liftshoulder  55 300 30 -30
+16:28:19: debug: rotate: servo liftshoulder : pos 2087, speed 1000, accelerate 30
+16:28:19: 写入数据失败:  servo: liftshoulder, servo id: 12 地址: 41, 写入数据: 30
+16:28:19: [TxRxResult] Port is in use!
+16:28:19: 写入数据失败:  servo: liftshoulder, servo id: 12 地址: 46, 写入数据: 1000
+16:28:19: [TxRxResult] Port is in use!
+16:28:19: dxl_comm.send_script() script : move liftshoulder  55 300 30 -30  
+16:28:19: debug: 执行脚本: move bigarm  40 300 30 -30
+16:28:19: debug: rotate: servo bigarm : pos 1602, speed 1000, accelerate 30
+16:28:19: 写入数据失败:  servo: bigarm, servo id: 13 地址: 41, 写入数据: 30
+16:28:19: [TxRxResult] Port is in use!
+16:28:19: 写入数据失败:  servo: bigarm, servo id: 13 地址: 46, 写入数据: 1000
+16:28:19: [TxRxResult] Port is in use!
+16:28:19: dxl_comm.send_script() script : move bigarm  40 300 30 -30  
+16:28:20: debug: 执行脚本: move elbow  41 300 30 -30
+16:28:20: debug: rotate: servo elbow : pos 1539, speed 1000, accelerate 30
+16:28:20: 写入数据失败:  servo: elbow, servo id: 14 地址: 41, 写入数据: 30
+16:28:20: [TxRxResult] Port is in use!
+16:28:20: 写入数据失败:  servo: elbow, servo id: 14 地址: 46, 写入数据: 1000
+16:28:20: [TxRxResult] Port is in use!
+16:28:20: dxl_comm.send_script() script : move elbow  41 300 30 -30  
+16:28:20: debug: 执行脚本: move rotateshoulder  88 300 30 -30
+16:28:20: debug: rotate: servo rotateshoulder : pos 3026, speed 1000, accelerate 30
+16:28:20: 写入数据失败:  servo: rotateshoulder, servo id: 11 地址: 41, 写入数据: 30
+16:28:20: [TxRxResult] Port is in use!
+16:28:20: 写入数据失败:  servo: rotateshoulder, servo id: 11 地址: 46, 写入数据: 1000
+16:28:20: [TxRxResult] Port is in use!
+16:28:20: dxl_comm.send_script() script : move rotateshoulder  88 300 30 -30  
+16:28:21: debug: 执行脚本: move liftshoulder  24 300 30 -30
+16:28:21: debug: rotate: servo liftshoulder : pos 1854, speed 1000, accelerate 30
+16:28:21: 写入数据失败:  servo: liftshoulder, servo id: 12 地址: 41, 写入数据: 30
+16:28:21: [TxRxResult] Port is in use!
+16:28:21: 写入数据失败:  servo: liftshoulder, servo id: 12 地址: 46, 写入数据: 1000
+16:28:21: [TxRxResult] Port is in use!
+16:28:21: dxl_comm.send_script() script : move liftshoulder  24 300 30 -30  
+16:28:21: debug: 执行脚本: move bigarm  90 300 30 -30
+16:28:21: debug: rotate: servo bigarm : pos 2455, speed 1000, accelerate 30
+16:28:21: 写入数据失败:  servo: bigarm, servo id: 13 地址: 41, 写入数据: 30
+16:28:21: [TxRxResult] Port is in use!
+16:28:21: 写入数据失败:  servo: bigarm, servo id: 13 地址: 46, 写入数据: 1000
+16:28:21: [TxRxResult] Port is in use!
+16:28:21: dxl_comm.send_script() script : move bigarm  90 300 30 -30  
+16:28:22: debug: 执行脚本: move elbow  48 300 30 -30
+16:28:22: debug: rotate: servo elbow : pos 1598, speed 1000, accelerate 30
+16:28:22: 写入数据失败:  servo: elbow, servo id: 14 地址: 41, 写入数据: 30
+16:28:22: [TxRxResult] Port is in use!
+16:28:22: 写入数据失败:  servo: elbow, servo id: 14 地址: 46, 写入数据: 1000
+16:28:22: [TxRxResult] Port is in use!
+16:28:22: dxl_comm.send_script() script : move elbow  48 300 30 -30  
+16:28:23: debug: 执行脚本: move rotateshoulder  16 300 30 -30
+16:28:23: debug: rotate: servo rotateshoulder : pos 2279, speed 1000, accelerate 30
+16:28:23: 写入数据失败:  servo: rotateshoulder, servo id: 11 地址: 41, 写入数据: 30
+16:28:23: [TxRxResult] Port is in use!
+16:28:23: 写入数据失败:  servo: rotateshoulder, servo id: 11 地址: 46, 写入数据: 1000
+16:28:23: [TxRxResult] Port is in use!
+16:28:23: dxl_comm.send_script() script : move rotateshoulder  16 300 30 -30  
+16:28:23: debug: 执行脚本: move liftshoulder  25 300 30 -30
+16:28:23: debug: rotate: servo liftshoulder : pos 1861, speed 1000, accelerate 30
+16:28:23: 写入数据失败:  servo: liftshoulder, servo id: 12 地址: 41, 写入数据: 30
+16:28:23: [TxRxResult] Port is in use!
+16:28:23: 写入数据失败:  servo: liftshoulder, servo id: 12 地址: 46, 写入数据: 1000
+16:28:23: [TxRxResult] Port is in use!
+16:28:23: dxl_comm.send_script() script : move liftshoulder  25 300 30 -30  
+16:28:23: debug: 执行脚本: move bigarm  87 300 30 -30
+16:28:23: debug: rotate: servo bigarm : pos 2404, speed 1000, accelerate 30
+16:28:23: 写入数据失败:  servo: bigarm, servo id: 13 地址: 41, 写入数据: 30
+16:28:23: [TxRxResult] Port is in use!
+16:28:23: 写入数据失败:  servo: bigarm, servo id: 13 地址: 46, 写入数据: 1000
+16:28:23: [TxRxResult] Port is in use!
+16:28:23: dxl_comm.send_script() script : move bigarm  87 300 30 -30  
+16:28:24: debug: 执行脚本: move elbow  80 300 30 -30
+16:28:24: debug: rotate: servo elbow : pos 1872, speed 1000, accelerate 30
+16:28:24: 写入数据失败:  servo: elbow, servo id: 14 地址: 41, 写入数据: 30
+16:28:24: [TxRxResult] Port is in use!
+16:28:24: 写入数据失败:  servo: elbow, servo id: 14 地址: 46, 写入数据: 1000
+16:28:24: [TxRxResult] Port is in use!
+16:28:24: dxl_comm.send_script() script : move elbow  80 300 30 -30  
+16:28:24: debug: 执行脚本: move rotateshoulder  78 300 30 -30
+16:28:24: debug: rotate: servo rotateshoulder : pos 2922, speed 1000, accelerate 30
+16:28:24: 写入数据失败:  servo: rotateshoulder, servo id: 11 地址: 41, 写入数据: 30
+16:28:24: [TxRxResult] Port is in use!
+16:28:24: 写入数据失败:  servo: rotateshoulder, servo id: 11 地址: 46, 写入数据: 1000
+16:28:24: [TxRxResult] Port is in use!
+16:28:24: dxl_comm.send_script() script : move rotateshoulder  78 300 30 -30  
+16:28:24: debug: 执行脚本: move liftshoulder  33 300 30 -30
+16:28:24: debug: rotate: servo liftshoulder : pos 1921, speed 1000, accelerate 30
+16:28:24: 写入数据失败:  servo: liftshoulder, servo id: 12 地址: 41, 写入数据: 30
+16:28:24: [TxRxResult] Port is in use!
+16:28:24: 写入数据失败:  servo: liftshoulder, servo id: 12 地址: 46, 写入数据: 1000
+16:28:24: [TxRxResult] Port is in use!
+16:28:24: dxl_comm.send_script() script : move liftshoulder  33 300 30 -30  
+16:28:25: debug: 执行脚本: move bigarm  2 300 30 -30
+16:28:25: debug: rotate: servo bigarm : pos 954, speed 1000, accelerate 30
+16:28:25: 写入数据失败:  servo: bigarm, servo id: 13 地址: 41, 写入数据: 30
+16:28:25: [TxRxResult] Port is in use!
+16:28:25: 写入数据失败:  servo: bigarm, servo id: 13 地址: 46, 写入数据: 1000
+16:28:25: [TxRxResult] Port is in use!
+16:28:25: dxl_comm.send_script() script : move bigarm  2 300 30 -30  
+16:28:25: debug: 执行脚本: move elbow  1 300 30 -30
+16:28:25: debug: rotate: servo elbow : pos 1197, speed 1000, accelerate 30
+16:28:25: 写入数据失败:  servo: elbow, servo id: 14 地址: 41, 写入数据: 30
+16:28:25: [TxRxResult] Port is in use!
+16:28:25: 写入数据失败:  servo: elbow, servo id: 14 地址: 46, 写入数据: 1000
+16:28:25: [TxRxResult] Port is in use!
+16:28:25: dxl_comm.send_script() script : move elbow  1 300 30 -30  
+16:28:26: debug: 执行脚本: move rotateshoulder  32 300 30 -30
+16:28:26: debug: rotate: servo rotateshoulder : pos 2445, speed 1000, accelerate 30
+16:28:26: 写入数据失败:  servo: rotateshoulder, servo id: 11 地址: 41, 写入数据: 30
+16:28:26: [TxRxResult] Port is in use!
+16:28:26: 写入数据失败:  servo: rotateshoulder, servo id: 11 地址: 46, 写入数据: 1000
+16:28:26: [TxRxResult] Port is in use!
+16:28:26: dxl_comm.send_script() script : move rotateshoulder  32 300 30 -30  
+16:28:26: debug: 执行脚本: move liftshoulder  72 300 30 -30
+16:28:26: debug: rotate: servo liftshoulder : pos 2214, speed 1000, accelerate 30
+16:28:26: 写入数据失败:  servo: liftshoulder, servo id: 12 地址: 41, 写入数据: 30
+16:28:26: [TxRxResult] Port is in use!
+16:28:26: 写入数据失败:  servo: liftshoulder, servo id: 12 地址: 46, 写入数据: 1000
+16:28:26: [TxRxResult] Port is in use!
+16:28:26: dxl_comm.send_script() script : move liftshoulder  72 300 30 -30  
+16:28:26: debug: 执行脚本: move bigarm  64 300 30 -30
+16:28:26: debug: rotate: servo bigarm : pos 2011, speed 1000, accelerate 30
+16:28:26: 写入数据失败:  servo: bigarm, servo id: 13 地址: 41, 写入数据: 30
+16:28:26: [TxRxResult] Port is in use!
+16:28:26: 写入数据失败:  servo: bigarm, servo id: 13 地址: 46, 写入数据: 1000
+16:28:26: [TxRxResult] Port is in use!
+16:28:26: dxl_comm.send_script() script : move bigarm  64 300 30 -30  
+16:28:27: debug: 执行脚本: move elbow  39 300 30 -30
+16:28:27: debug: rotate: servo elbow : pos 1522, speed 1000, accelerate 30
+16:28:27: 写入数据失败:  servo: elbow, servo id: 14 地址: 41, 写入数据: 30
+16:28:27: [TxRxResult] Port is in use!
+16:28:27: 写入数据失败:  servo: elbow, servo id: 14 地址: 46, 写入数据: 1000
+16:28:27: [TxRxResult] Port is in use!
+16:28:27: dxl_comm.send_script() script : move elbow  39 300 30 -30  
+16:28:28: debug: 执行脚本: move rotateshoulder  86 300 30 -30
+16:28:28: debug: rotate: servo rotateshoulder : pos 3005, speed 1000, accelerate 30
+16:28:28: 写入数据失败:  servo: rotateshoulder, servo id: 11 地址: 41, 写入数据: 30
+16:28:28: [TxRxResult] Port is in use!
+16:28:28: 写入数据失败:  servo: rotateshoulder, servo id: 11 地址: 46, 写入数据: 1000
+16:28:28: [TxRxResult] Port is in use!
+16:28:28: dxl_comm.send_script() script : move rotateshoulder  86 300 30 -30  
+16:28:28: debug: 执行脚本: move liftshoulder  26 300 30 -30
+16:28:28: debug: rotate: servo liftshoulder : pos 1869, speed 1000, accelerate 30
+16:28:28: 写入数据失败:  servo: liftshoulder, servo id: 12 地址: 41, 写入数据: 30
+16:28:28: [TxRxResult] Port is in use!
+16:28:28: 写入数据失败:  servo: liftshoulder, servo id: 12 地址: 46, 写入数据: 1000
+16:28:28: [TxRxResult] Port is in use!
+16:28:28: dxl_comm.send_script() script : move liftshoulder  26 300 30 -30  
+16:28:29: debug: 执行脚本: move bigarm  32 300 30 -30
+16:28:29: debug: rotate: servo bigarm : pos 1465, speed 1000, accelerate 30
+16:28:29: 写入数据失败:  servo: bigarm, servo id: 13 地址: 41, 写入数据: 30
+16:28:29: [TxRxResult] Port is in use!
+16:28:29: 写入数据失败:  servo: bigarm, servo id: 13 地址: 46, 写入数据: 1000
+16:28:29: [TxRxResult] Port is in use!
+16:28:29: dxl_comm.send_script() script : move bigarm  32 300 30 -30  
+16:28:29: debug: 执行脚本: move elbow  58 300 30 -30
+16:28:29: debug: rotate: servo elbow : pos 1684, speed 1000, accelerate 30
+16:28:29: 写入数据失败:  servo: elbow, servo id: 14 地址: 41, 写入数据: 30
+16:28:30: [TxRxResult] Port is in use!
+16:28:30: 写入数据失败:  servo: elbow, servo id: 14 地址: 46, 写入数据: 1000
+16:28:30: [TxRxResult] Port is in use!
+16:28:30: dxl_comm.send_script() script : move elbow  58 300 30 -30  
+16:28:30: debug: 执行脚本: move rotateshoulder  90 300 30 -30
+16:28:30: debug: rotate: servo rotateshoulder : pos 3047, speed 1000, accelerate 30
+16:28:30: 写入数据失败:  servo: rotateshoulder, servo id: 11 地址: 41, 写入数据: 30
+16:28:30: [TxRxResult] Port is in use!
+16:28:30: 写入数据失败:  servo: rotateshoulder, servo id: 11 地址: 46, 写入数据: 1000
+16:28:30: [TxRxResult] Port is in use!
+16:28:30: dxl_comm.send_script() script : move rotateshoulder  90 300 30 -30  
+16:28:31: debug: 执行脚本: move liftshoulder  4 300 30 -30
+16:28:31: debug: rotate: servo liftshoulder : pos 1704, speed 1000, accelerate 30
+16:28:31: 写入数据失败:  servo: liftshoulder, servo id: 12 地址: 41, 写入数据: 30
+16:28:31: [TxRxResult] Port is in use!
+16:28:31: 写入数据失败:  servo: liftshoulder, servo id: 12 地址: 46, 写入数据: 1000
+16:28:31: [TxRxResult] Port is in use!
+16:28:31: dxl_comm.send_script() script : move liftshoulder  4 300 30 -30  
+16:28:31: debug: 执行脚本: move bigarm  3 300 30 -30
+16:28:31: debug: rotate: servo bigarm : pos 971, speed 1000, accelerate 30
+16:28:31: 写入数据失败:  servo: bigarm, servo id: 13 地址: 41, 写入数据: 30
+16:28:31: [TxRxResult] Port is in use!
+16:28:31: 写入数据失败:  servo: bigarm, servo id: 13 地址: 46, 写入数据: 1000
+16:28:31: [TxRxResult] Port is in use!
+16:28:31: dxl_comm.send_script() script : move bigarm  3 300 30 -30  
+16:28:31: debug: 执行脚本: move elbow  55 300 30 -30
+16:28:31: debug: rotate: servo elbow : pos 1658, speed 1000, accelerate 30
+16:28:31: 写入数据失败:  servo: elbow, servo id: 14 地址: 41, 写入数据: 30
+16:28:31: [TxRxResult] Port is in use!
+16:28:31: 写入数据失败:  servo: elbow, servo id: 14 地址: 46, 写入数据: 1000
+16:28:31: [TxRxResult] Port is in use!
+16:28:31: dxl_comm.send_script() script : move elbow  55 300 30 -30  
+16:28:32: debug: 执行脚本: move rotateshoulder  51 300 30 -30
+16:28:32: debug: rotate: servo rotateshoulder : pos 2642, speed 1000, accelerate 30
+16:28:32: 写入数据失败:  servo: rotateshoulder, servo id: 11 地址: 41, 写入数据: 30
+16:28:32: [TxRxResult] Port is in use!
+16:28:32: 写入数据失败:  servo: rotateshoulder, servo id: 11 地址: 46, 写入数据: 1000
+16:28:32: [TxRxResult] Port is in use!
+16:28:32: dxl_comm.send_script() script : move rotateshoulder  51 300 30 -30  
+16:28:33: debug: 执行脚本: move liftshoulder  37 300 30 -30
+16:28:33: debug: rotate: servo liftshoulder : pos 1951, speed 1000, accelerate 30
+16:28:33: 写入数据失败:  servo: liftshoulder, servo id: 12 地址: 41, 写入数据: 30
+16:28:33: [TxRxResult] Port is in use!
+16:28:33: 写入数据失败:  servo: liftshoulder, servo id: 12 地址: 46, 写入数据: 1000
+16:28:33: [TxRxResult] Port is in use!
+16:28:33: dxl_comm.send_script() script : move liftshoulder  37 300 30 -30  
+16:28:33: debug: 执行脚本: move bigarm  13 300 30 -30
+16:28:33: debug: rotate: servo bigarm : pos 1141, speed 1000, accelerate 30
+16:28:33: 写入数据失败:  servo: bigarm, servo id: 13 地址: 41, 写入数据: 30
+16:28:33: [TxRxResult] Port is in use!
+16:28:33: 写入数据失败:  servo: bigarm, servo id: 13 地址: 46, 写入数据: 1000
+16:28:33: [TxRxResult] Port is in use!
+16:28:33: dxl_comm.send_script() script : move bigarm  13 300 30 -30  
+16:28:33: debug: 执行脚本: move elbow  4 300 30 -30
+16:28:33: debug: rotate: servo elbow : pos 1223, speed 1000, accelerate 30
+16:28:33: 写入数据失败:  servo: elbow, servo id: 14 地址: 41, 写入数据: 30
+16:28:33: [TxRxResult] Port is in use!
+16:28:33: 写入数据失败:  servo: elbow, servo id: 14 地址: 46, 写入数据: 1000
+16:28:33: [TxRxResult] Port is in use!
+16:28:33: dxl_comm.send_script() script : move elbow  4 300 30 -30  
+16:28:34: debug: 执行脚本: move rotateshoulder  84 300 30 -30
+16:28:34: debug: rotate: servo rotateshoulder : pos 2984, speed 1000, accelerate 30
+16:28:34: 写入数据失败:  servo: rotateshoulder, servo id: 11 地址: 41, 写入数据: 30
+16:28:34: [TxRxResult] Port is in use!
+16:28:34: 写入数据失败:  servo: rotateshoulder, servo id: 11 地址: 46, 写入数据: 1000
+16:28:34: [TxRxResult] Port is in use!
+16:28:34: dxl_comm.send_script() script : move rotateshoulder  84 300 30 -30  
+16:28:34: debug: 执行脚本: move liftshoulder  90 300 30 -30
+16:28:34: debug: rotate: servo liftshoulder : pos 2349, speed 1000, accelerate 30
+16:28:34: 写入数据失败:  servo: liftshoulder, servo id: 12 地址: 41, 写入数据: 30
+16:28:34: [TxRxResult] Port is in use!
+16:28:34: 写入数据失败:  servo: liftshoulder, servo id: 12 地址: 46, 写入数据: 1000
+16:28:34: [TxRxResult] Port is in use!
+16:28:34: dxl_comm.send_script() script : move liftshoulder  90 300 30 -30  
+16:28:34: debug: 执行脚本: move bigarm  38 300 30 -30
+16:28:34: debug: rotate: servo bigarm : pos 1568, speed 1000, accelerate 30
+16:28:34: 写入数据失败:  servo: bigarm, servo id: 13 地址: 41, 写入数据: 30
+16:28:34: [TxRxResult] Port is in use!
+16:28:34: 写入数据失败:  servo: bigarm, servo id: 13 地址: 46, 写入数据: 1000
+16:28:34: [TxRxResult] Port is in use!
+16:28:34: dxl_comm.send_script() script : move bigarm  38 300 30 -30  
+16:28:35: debug: 执行脚本: move elbow  23 300 30 -30
+16:28:35: debug: rotate: servo elbow : pos 1385, speed 1000, accelerate 30
+16:28:35: 写入数据失败:  servo: elbow, servo id: 14 地址: 41, 写入数据: 30
+16:28:35: [TxRxResult] Port is in use!
+16:28:35: 写入数据失败:  servo: elbow, servo id: 14 地址: 46, 写入数据: 1000
+16:28:35: [TxRxResult] Port is in use!
+16:28:35: dxl_comm.send_script() script : move elbow  23 300 30 -30  
+16:28:36: debug: 执行脚本: move rotateshoulder  74 300 30 -30
+16:28:36: debug: rotate: servo rotateshoulder : pos 2881, speed 1000, accelerate 30
+16:28:36: 写入数据失败:  servo: rotateshoulder, servo id: 11 地址: 41, 写入数据: 30
+16:28:36: [TxRxResult] Port is in use!
+16:28:36: 写入数据失败:  servo: rotateshoulder, servo id: 11 地址: 46, 写入数据: 1000
+16:28:36: [TxRxResult] Port is in use!
+16:28:36: dxl_comm.send_script() script : move rotateshoulder  74 300 30 -30  
+16:28:37: debug: 执行脚本: move liftshoulder  45 300 30 -30
+16:28:37: debug: rotate: servo liftshoulder : pos 2011, speed 1000, accelerate 30
+16:28:37: 写入数据失败:  servo: liftshoulder, servo id: 12 地址: 41, 写入数据: 30
+16:28:37: [TxRxResult] Port is in use!
+16:28:37: 写入数据失败:  servo: liftshoulder, servo id: 12 地址: 46, 写入数据: 1000
+16:28:37: [TxRxResult] Port is in use!
+16:28:37: dxl_comm.send_script() script : move liftshoulder  45 300 30 -30  
+16:28:37: debug: 执行脚本: move bigarm  47 300 30 -30
+16:28:37: debug: rotate: servo bigarm : pos 1721, speed 1000, accelerate 30
+16:28:37: 写入数据失败:  servo: bigarm, servo id: 13 地址: 41, 写入数据: 30
+16:28:37: [TxRxResult] Port is in use!
+16:28:37: 写入数据失败:  servo: bigarm, servo id: 13 地址: 46, 写入数据: 1000
+16:28:37: [TxRxResult] Port is in use!
+16:28:37: dxl_comm.send_script() script : move bigarm  47 300 30 -30  
+16:28:37: debug: 执行脚本: move elbow  18 300 30 -30
+16:28:37: debug: rotate: servo elbow : pos 1342, speed 1000, accelerate 30
+16:28:37: 写入数据失败:  servo: elbow, servo id: 14 地址: 41, 写入数据: 30
+16:28:37: [TxRxResult] Port is in use!
+16:28:37: 写入数据失败:  servo: elbow, servo id: 14 地址: 46, 写入数据: 1000
+16:28:37: [TxRxResult] Port is in use!
+16:28:37: dxl_comm.send_script() script : move elbow  18 300 30 -30  
+16:28:38: debug: 执行脚本: move rotateshoulder  49 300 30 -30
+16:28:38: debug: rotate: servo rotateshoulder : pos 2621, speed 1000, accelerate 30
+16:28:38: 写入数据失败:  servo: rotateshoulder, servo id: 11 地址: 41, 写入数据: 30
+16:28:38: [TxRxResult] Port is in use!
+16:28:38: 写入数据失败:  servo: rotateshoulder, servo id: 11 地址: 46, 写入数据: 1000
+16:28:38: [TxRxResult] Port is in use!
+16:28:38: dxl_comm.send_script() script : move rotateshoulder  49 300 30 -30  
+16:28:39: debug: 执行脚本: move liftshoulder  31 300 30 -30
+16:28:39: debug: rotate: servo liftshoulder : pos 1906, speed 1000, accelerate 30
+16:28:39: 写入数据失败:  servo: liftshoulder, servo id: 12 地址: 41, 写入数据: 30
+16:28:39: [TxRxResult] Port is in use!
+16:28:39: 写入数据失败:  servo: liftshoulder, servo id: 12 地址: 46, 写入数据: 1000
+16:28:39: [TxRxResult] Port is in use!
+16:28:39: dxl_comm.send_script() script : move liftshoulder  31 300 30 -30  
+16:28:39: debug: 执行脚本: move bigarm  15 300 30 -30
+16:28:39: debug: rotate: servo bigarm : pos 1175, speed 1000, accelerate 30
+16:28:39: 写入数据失败:  servo: bigarm, servo id: 13 地址: 41, 写入数据: 30
+16:28:39: [TxRxResult] Port is in use!
+16:28:39: 写入数据失败:  servo: bigarm, servo id: 13 地址: 46, 写入数据: 1000
+16:28:39: [TxRxResult] Port is in use!
+16:28:39: dxl_comm.send_script() script : move bigarm  15 300 30 -30  
+16:28:40: debug: 执行脚本: move elbow  14 300 30 -30
+16:28:40: debug: rotate: servo elbow : pos 1308, speed 1000, accelerate 30
+16:28:40: 写入数据失败:  servo: elbow, servo id: 14 地址: 41, 写入数据: 30
+16:28:40: [TxRxResult] Port is in use!
+16:28:40: 写入数据失败:  servo: elbow, servo id: 14 地址: 46, 写入数据: 1000
+16:28:40: [TxRxResult] Port is in use!
+16:28:40: dxl_comm.send_script() script : move elbow  14 300 30 -30  
+16:28:40: debug: 执行脚本: move rotateshoulder  20 300 30 -30
+16:28:40: debug: rotate: servo rotateshoulder : pos 2320, speed 1000, accelerate 30
+16:28:40: 写入数据失败:  servo: rotateshoulder, servo id: 11 地址: 41, 写入数据: 30
+16:28:40: [TxRxResult] Port is in use!
+16:28:40: 写入数据失败:  servo: rotateshoulder, servo id: 11 地址: 46, 写入数据: 1000
+16:28:40: [TxRxResult] Port is in use!
+16:28:40: dxl_comm.send_script() script : move rotateshoulder  20 300 30 -30  
+16:28:41: debug: 执行脚本: move liftshoulder  63 300 30 -30
+16:28:41: debug: rotate: servo liftshoulder : pos 2147, speed 1000, accelerate 30
+16:28:41: 写入数据失败:  servo: liftshoulder, servo id: 12 地址: 41, 写入数据: 30
+16:28:41: [TxRxResult] Port is in use!
+16:28:41: 写入数据失败:  servo: liftshoulder, servo id: 12 地址: 46, 写入数据: 1000
+16:28:41: [TxRxResult] Port is in use!
+16:28:41: dxl_comm.send_script() script : move liftshoulder  63 300 30 -30  
+16:28:41: debug: 执行脚本: move bigarm  86 300 30 -30
+16:28:41: debug: rotate: servo bigarm : pos 2387, speed 1000, accelerate 30
+16:28:41: 写入数据失败:  servo: bigarm, servo id: 13 地址: 41, 写入数据: 30
+16:28:41: [TxRxResult] Port is in use!
+16:28:41: 写入数据失败:  servo: bigarm, servo id: 13 地址: 46, 写入数据: 1000
+16:28:41: [TxRxResult] Port is in use!
+16:28:41: dxl_comm.send_script() script : move bigarm  86 300 30 -30  
+16:28:41: debug: 执行脚本: move elbow  39 300 30 -30
+16:28:41: debug: rotate: servo elbow : pos 1522, speed 1000, accelerate 30
+16:28:41: 写入数据失败:  servo: elbow, servo id: 14 地址: 41, 写入数据: 30
+16:28:41: [TxRxResult] Port is in use!
+16:28:41: 写入数据失败:  servo: elbow, servo id: 14 地址: 46, 写入数据: 1000
+16:28:41: [TxRxResult] Port is in use!
+16:28:41: dxl_comm.send_script() script : move elbow  39 300 30 -30  
+16:28:42: debug: 执行脚本: move rotateshoulder  83 300 30 -30
+16:28:42: debug: rotate: servo rotateshoulder : pos 2974, speed 1000, accelerate 30
+16:28:42: 写入数据失败:  servo: rotateshoulder, servo id: 11 地址: 41, 写入数据: 30
+16:28:42: [TxRxResult] Port is in use!
+16:28:42: 写入数据失败:  servo: rotateshoulder, servo id: 11 地址: 46, 写入数据: 1000
+16:28:42: [TxRxResult] Port is in use!
+16:28:42: dxl_comm.send_script() script : move rotateshoulder  83 300 30 -30  
+16:28:42: debug: 执行脚本: move liftshoulder  75 300 30 -30
+16:28:42: debug: rotate: servo liftshoulder : pos 2237, speed 1000, accelerate 30
+16:28:42: 写入数据失败:  servo: liftshoulder, servo id: 12 地址: 41, 写入数据: 30
+16:28:42: [TxRxResult] Port is in use!
+16:28:42: 写入数据失败:  servo: liftshoulder, servo id: 12 地址: 46, 写入数据: 1000
+16:28:42: [TxRxResult] Port is in use!
+16:28:42: dxl_comm.send_script() script : move liftshoulder  75 300 30 -30  
+16:28:42: debug: 执行脚本: move bigarm  98 300 30 -30
+16:28:42: debug: rotate: servo bigarm : pos 2591, speed 1000, accelerate 30
+16:28:42: 写入数据失败:  servo: bigarm, servo id: 13 地址: 41, 写入数据: 30
+16:28:42: [TxRxResult] Port is in use!
+16:28:42: 写入数据失败:  servo: bigarm, servo id: 13 地址: 46, 写入数据: 1000
+16:28:42: [TxRxResult] Port is in use!
+16:28:42: dxl_comm.send_script() script : move bigarm  98 300 30 -30  
+16:28:43: debug: 执行脚本: move elbow  43 300 30 -30
+16:28:43: debug: rotate: servo elbow : pos 1556, speed 1000, accelerate 30
+16:28:43: 写入数据失败:  servo: elbow, servo id: 14 地址: 41, 写入数据: 30
+16:28:43: [TxRxResult] Port is in use!
+16:28:43: 写入数据失败:  servo: elbow, servo id: 14 地址: 46, 写入数据: 1000
+16:28:43: [TxRxResult] Port is in use!
+16:28:43: dxl_comm.send_script() script : move elbow  43 300 30 -30  
+16:28:43: debug: 执行脚本: move rotateshoulder  21 300 30 -30
+16:28:43: debug: rotate: servo rotateshoulder : pos 2330, speed 1000, accelerate 30
+16:28:43: 写入数据失败:  servo: rotateshoulder, servo id: 11 地址: 41, 写入数据: 30
+16:28:43: [TxRxResult] Port is in use!
+16:28:43: 写入数据失败:  servo: rotateshoulder, servo id: 11 地址: 46, 写入数据: 1000
+16:28:43: [TxRxResult] Port is in use!
+16:28:43: dxl_comm.send_script() script : move rotateshoulder  21 300 30 -30  
+16:28:43: debug: 执行脚本: move liftshoulder  44 300 30 -30
+16:28:43: debug: rotate: servo liftshoulder : pos 2004, speed 1000, accelerate 30
+16:28:43: 写入数据失败:  servo: liftshoulder, servo id: 12 地址: 41, 写入数据: 30
+16:28:43: [TxRxResult] Port is in use!
+16:28:43: 写入数据失败:  servo: liftshoulder, servo id: 12 地址: 46, 写入数据: 1000
+16:28:43: [TxRxResult] Port is in use!
+16:28:43: dxl_comm.send_script() script : move liftshoulder  44 300 30 -30  
+16:28:44: debug: 执行脚本: move bigarm  14 300 30 -30
+16:28:44: debug: rotate: servo bigarm : pos 1158, speed 1000, accelerate 30
+16:28:44: 写入数据失败:  servo: bigarm, servo id: 13 地址: 41, 写入数据: 30
+16:28:44: [TxRxResult] Port is in use!
+16:28:44: 写入数据失败:  servo: bigarm, servo id: 13 地址: 46, 写入数据: 1000
+16:28:44: [TxRxResult] Port is in use!
+16:28:44: dxl_comm.send_script() script : move bigarm  14 300 30 -30  
+16:28:45: debug: 执行脚本: move elbow  50 300 30 -30
+16:28:45: debug: rotate: servo elbow : pos 1616, speed 1000, accelerate 30
+16:28:45: 写入数据失败:  servo: elbow, servo id: 14 地址: 41, 写入数据: 30
+16:28:45: [TxRxResult] Port is in use!
+16:28:45: 写入数据失败:  servo: elbow, servo id: 14 地址: 46, 写入数据: 1000
+16:28:45: [TxRxResult] Port is in use!
+16:28:45: dxl_comm.send_script() script : move elbow  50 300 30 -30  
+16:28:46: debug: 执行脚本: move rotateshoulder  36 300 30 -30
+16:28:46: debug: rotate: servo rotateshoulder : pos 2486, speed 1000, accelerate 30
+16:28:46: 写入数据失败:  servo: rotateshoulder, servo id: 11 地址: 41, 写入数据: 30
+16:28:46: [TxRxResult] Port is in use!
+16:28:46: 写入数据失败:  servo: rotateshoulder, servo id: 11 地址: 46, 写入数据: 1000
+16:28:46: [TxRxResult] Port is in use!
+16:28:46: dxl_comm.send_script() script : move rotateshoulder  36 300 30 -30  
+16:28:47: debug: 执行脚本: move liftshoulder  82 300 30 -30
+16:28:47: debug: rotate: servo liftshoulder : pos 2289, speed 1000, accelerate 30
+16:28:47: 写入数据失败:  servo: liftshoulder, servo id: 12 地址: 41, 写入数据: 30
+16:28:47: [TxRxResult] Port is in use!
+16:28:47: 写入数据失败:  servo: liftshoulder, servo id: 12 地址: 46, 写入数据: 1000
+16:28:47: [TxRxResult] Port is in use!
+16:28:47: dxl_comm.send_script() script : move liftshoulder  82 300 30 -30  
+16:28:47: debug: 执行脚本: move bigarm  34 300 30 -30
+16:28:47: debug: rotate: servo bigarm : pos 1500, speed 1000, accelerate 30
+16:28:47: 写入数据失败:  servo: bigarm, servo id: 13 地址: 41, 写入数据: 30
+16:28:47: [TxRxResult] Port is in use!
+16:28:47: 写入数据失败:  servo: bigarm, servo id: 13 地址: 46, 写入数据: 1000
+16:28:47: [TxRxResult] Port is in use!
+16:28:47: dxl_comm.send_script() script : move bigarm  34 300 30 -30  
+16:28:47: debug: 执行脚本: move elbow  29 300 30 -30
+16:28:47: debug: rotate: servo elbow : pos 1436, speed 1000, accelerate 30
+16:28:47: 写入数据失败:  servo: elbow, servo id: 14 地址: 41, 写入数据: 30
+16:28:47: [TxRxResult] Port is in use!
+16:28:47: 写入数据失败:  servo: elbow, servo id: 14 地址: 46, 写入数据: 1000
+16:28:47: [TxRxResult] Port is in use!
+16:28:47: dxl_comm.send_script() script : move elbow  29 300 30 -30  
+16:28:48: debug: 执行脚本: move rotateshoulder  99 300 30 -30
+16:28:48: debug: rotate: servo rotateshoulder : pos 3140, speed 1000, accelerate 30
+16:28:48: 写入数据失败:  servo: rotateshoulder, servo id: 11 地址: 41, 写入数据: 30
+16:28:48: [TxRxResult] Port is in use!
+16:28:48: 写入数据失败:  servo: rotateshoulder, servo id: 11 地址: 46, 写入数据: 1000
+16:28:48: [TxRxResult] Port is in use!
+16:28:48: dxl_comm.send_script() script : move rotateshoulder  99 300 30 -30  
+16:28:48: debug: 执行脚本: move liftshoulder  66 300 30 -30
+16:28:48: debug: rotate: servo liftshoulder : pos 2169, speed 1000, accelerate 30
+16:28:48: 写入数据失败:  servo: liftshoulder, servo id: 12 地址: 41, 写入数据: 30
+16:28:48: [TxRxResult] Port is in use!
+16:28:48: 写入数据失败:  servo: liftshoulder, servo id: 12 地址: 46, 写入数据: 1000
+16:28:48: [TxRxResult] Port is in use!
+16:28:48: dxl_comm.send_script() script : move liftshoulder  66 300 30 -30  
+16:28:49: debug: 执行脚本: move bigarm  9 300 30 -30
+16:28:49: debug: rotate: servo bigarm : pos 1073, speed 1000, accelerate 30
+16:28:49: 写入数据失败:  servo: bigarm, servo id: 13 地址: 41, 写入数据: 30
+16:28:49: [TxRxResult] Port is in use!
+16:28:49: 写入数据失败:  servo: bigarm, servo id: 13 地址: 46, 写入数据: 1000
+16:28:49: [TxRxResult] Port is in use!
+16:28:49: dxl_comm.send_script() script : move bigarm  9 300 30 -30  
+16:28:49: debug: 执行脚本: move elbow  63 300 30 -30
+16:28:49: debug: rotate: servo elbow : pos 1727, speed 1000, accelerate 30
+16:28:49: 写入数据失败:  servo: elbow, servo id: 14 地址: 41, 写入数据: 30
+16:28:49: [TxRxResult] Port is in use!
+16:28:49: 写入数据失败:  servo: elbow, servo id: 14 地址: 46, 写入数据: 1000
+16:28:49: [TxRxResult] Port is in use!
+16:28:49: dxl_comm.send_script() script : move elbow  63 300 30 -30  
+16:28:50: debug: 执行脚本: move rotateshoulder  87 300 30 -30
+16:28:50: debug: rotate: servo rotateshoulder : pos 3016, speed 1000, accelerate 30
+16:28:50: 写入数据失败:  servo: rotateshoulder, servo id: 11 地址: 41, 写入数据: 30
+16:28:50: [TxRxResult] Port is in use!
+16:28:50: 写入数据失败:  servo: rotateshoulder, servo id: 11 地址: 46, 写入数据: 1000
+16:28:50: [TxRxResult] Port is in use!
+16:28:50: dxl_comm.send_script() script : move rotateshoulder  87 300 30 -30  
+16:28:50: debug: 执行脚本: move liftshoulder  40 300 30 -30
+16:28:50: debug: rotate: servo liftshoulder : pos 1974, speed 1000, accelerate 30
+16:28:50: 写入数据失败:  servo: liftshoulder, servo id: 12 地址: 41, 写入数据: 30
+16:28:50: [TxRxResult] Port is in use!
+16:28:50: 写入数据失败:  servo: liftshoulder, servo id: 12 地址: 46, 写入数据: 1000
+16:28:50: [TxRxResult] Port is in use!
+16:28:50: dxl_comm.send_script() script : move liftshoulder  40 300 30 -30  
+16:28:50: debug: 执行脚本: move bigarm  62 300 30 -30
+16:28:50: debug: rotate: servo bigarm : pos 1977, speed 1000, accelerate 30
+16:28:50: 写入数据失败:  servo: bigarm, servo id: 13 地址: 41, 写入数据: 30
+16:28:50: [TxRxResult] Port is in use!
+16:28:50: 写入数据失败:  servo: bigarm, servo id: 13 地址: 46, 写入数据: 1000
+16:28:50: [TxRxResult] Port is in use!
+16:28:50: dxl_comm.send_script() script : move bigarm  62 300 30 -30  
+16:28:50: debug: 执行脚本: move elbow  34 300 30 -30
+16:28:50: debug: rotate: servo elbow : pos 1479, speed 1000, accelerate 30
+16:28:50: 写入数据失败:  servo: elbow, servo id: 14 地址: 41, 写入数据: 30
+16:28:50: [TxRxResult] Port is in use!
+16:28:50: 写入数据失败:  servo: elbow, servo id: 14 地址: 46, 写入数据: 1000
+16:28:50: [TxRxResult] Port is in use!
+16:28:50: dxl_comm.send_script() script : move elbow  34 300 30 -30  
+16:28:51: debug: 执行脚本: move rotateshoulder  15 300 30 -30
+16:28:51: debug: rotate: servo rotateshoulder : pos 2268, speed 1000, accelerate 30
+16:28:51: 写入数据失败:  servo: rotateshoulder, servo id: 11 地址: 41, 写入数据: 30
+16:28:51: [TxRxResult] Port is in use!
+16:28:51: 写入数据失败:  servo: rotateshoulder, servo id: 11 地址: 46, 写入数据: 1000
+16:28:51: [TxRxResult] Port is in use!
+16:28:51: dxl_comm.send_script() script : move rotateshoulder  15 300 30 -30  
+16:28:51: debug: 执行脚本: move liftshoulder  64 300 30 -30
+16:28:51: debug: rotate: servo liftshoulder : pos 2154, speed 1000, accelerate 30
+16:28:51: 写入数据失败:  servo: liftshoulder, servo id: 12 地址: 41, 写入数据: 30
+16:28:51: [TxRxResult] Port is in use!
+16:28:51: 写入数据失败:  servo: liftshoulder, servo id: 12 地址: 46, 写入数据: 1000
+16:28:51: [TxRxResult] Port is in use!
+16:28:51: dxl_comm.send_script() script : move liftshoulder  64 300 30 -30  
+16:28:51: debug: 执行脚本: move bigarm  85 300 30 -30
+16:28:51: debug: rotate: servo bigarm : pos 2370, speed 1000, accelerate 30
+16:28:51: 写入数据失败:  servo: bigarm, servo id: 13 地址: 41, 写入数据: 30
+16:28:51: [TxRxResult] Port is in use!
+16:28:51: 写入数据失败:  servo: bigarm, servo id: 13 地址: 46, 写入数据: 1000
+16:28:51: [TxRxResult] Port is in use!
+16:28:51: dxl_comm.send_script() script : move bigarm  85 300 30 -30  
+16:28:52: debug: 执行脚本: move elbow  17 300 30 -30
+16:28:52: debug: rotate: servo elbow : pos 1334, speed 1000, accelerate 30
+16:28:52: 写入数据失败:  servo: elbow, servo id: 14 地址: 41, 写入数据: 30
+16:28:52: [TxRxResult] Port is in use!
+16:28:52: 写入数据失败:  servo: elbow, servo id: 14 地址: 46, 写入数据: 1000
+16:28:52: [TxRxResult] Port is in use!
+16:28:52: dxl_comm.send_script() script : move elbow  17 300 30 -30  
+16:28:52: debug: 执行脚本: move rotateshoulder  49 300 30 -30
+16:28:52: debug: rotate: servo rotateshoulder : pos 2621, speed 1000, accelerate 30
+16:28:52: 写入数据失败:  servo: rotateshoulder, servo id: 11 地址: 41, 写入数据: 30
+16:28:52: [TxRxResult] Port is in use!
+16:28:52: 写入数据失败:  servo: rotateshoulder, servo id: 11 地址: 46, 写入数据: 1000
+16:28:52: [TxRxResult] Port is in use!
+16:28:52: dxl_comm.send_script() script : move rotateshoulder  49 300 30 -30  
+16:28:53: debug: 执行脚本: move liftshoulder  62 300 30 -30
+16:28:53: debug: rotate: servo liftshoulder : pos 2139, speed 1000, accelerate 30
+16:28:53: 写入数据失败:  servo: liftshoulder, servo id: 12 地址: 41, 写入数据: 30
+16:28:53: [TxRxResult] Port is in use!
+16:28:53: 写入数据失败:  servo: liftshoulder, servo id: 12 地址: 46, 写入数据: 1000
+16:28:53: [TxRxResult] Port is in use!
+16:28:53: dxl_comm.send_script() script : move liftshoulder  62 300 30 -30  
+16:28:53: debug: 执行脚本: move bigarm  32 300 30 -30
+16:28:53: debug: rotate: servo bigarm : pos 1465, speed 1000, accelerate 30
+16:28:53: 写入数据失败:  servo: bigarm, servo id: 13 地址: 41, 写入数据: 30
+16:28:53: [TxRxResult] Port is in use!
+16:28:53: 写入数据失败:  servo: bigarm, servo id: 13 地址: 46, 写入数据: 1000
+16:28:53: [TxRxResult] Port is in use!
+16:28:53: dxl_comm.send_script() script : move bigarm  32 300 30 -30  
+16:28:53: debug: 执行脚本: move elbow  62 300 30 -30
+16:28:53: debug: rotate: servo elbow : pos 1718, speed 1000, accelerate 30
+16:28:53: 写入数据失败:  servo: elbow, servo id: 14 地址: 41, 写入数据: 30
+16:28:53: [TxRxResult] Port is in use!
+16:28:53: 写入数据失败:  servo: elbow, servo id: 14 地址: 46, 写入数据: 1000
+16:28:53: [TxRxResult] Port is in use!
+16:28:53: dxl_comm.send_script() script : move elbow  62 300 30 -30  
+16:28:54: debug: 执行脚本: move rotateshoulder  88 300 30 -30
+16:28:54: debug: rotate: servo rotateshoulder : pos 3026, speed 1000, accelerate 30
+16:28:54: 写入数据失败:  servo: rotateshoulder, servo id: 11 地址: 41, 写入数据: 30
+16:28:54: [TxRxResult] Port is in use!
+16:28:54: 写入数据失败:  servo: rotateshoulder, servo id: 11 地址: 46, 写入数据: 1000
+16:28:54: [TxRxResult] Port is in use!
+16:28:54: dxl_comm.send_script() script : move rotateshoulder  88 300 30 -30  
+16:28:54: debug: 执行脚本: move liftshoulder  92 300 30 -30
+16:28:54: debug: rotate: servo liftshoulder : pos 2364, speed 1000, accelerate 30
+16:28:54: 写入数据失败:  servo: liftshoulder, servo id: 12 地址: 41, 写入数据: 30
+16:28:54: [TxRxResult] Port is in use!
+16:28:54: 写入数据失败:  servo: liftshoulder, servo id: 12 地址: 46, 写入数据: 1000
+16:28:54: [TxRxResult] Port is in use!
+16:28:54: dxl_comm.send_script() script : move liftshoulder  92 300 30 -30  
+16:28:55: debug: 执行脚本: move bigarm  16 300 30 -30
+16:28:55: debug: rotate: servo bigarm : pos 1192, speed 1000, accelerate 30
+16:28:55: 写入数据失败:  servo: bigarm, servo id: 13 地址: 41, 写入数据: 30
+16:28:55: [TxRxResult] Port is in use!
+16:28:55: 写入数据失败:  servo: bigarm, servo id: 13 地址: 46, 写入数据: 1000
+16:28:55: [TxRxResult] Port is in use!
+16:28:55: dxl_comm.send_script() script : move bigarm  16 300 30 -30  
+16:28:56: debug: 执行脚本: move elbow  60 300 30 -30
+16:28:56: debug: rotate: servo elbow : pos 1701, speed 1000, accelerate 30
+16:28:56: 写入数据失败:  servo: elbow, servo id: 14 地址: 41, 写入数据: 30
+16:28:56: [TxRxResult] Port is in use!
+16:28:56: 写入数据失败:  servo: elbow, servo id: 14 地址: 46, 写入数据: 1000
+16:28:56: [TxRxResult] Port is in use!
+16:28:56: dxl_comm.send_script() script : move elbow  60 300 30 -30  
+16:28:56: debug: 执行脚本: move rotateshoulder  4 300 30 -30
+16:28:56: debug: rotate: servo rotateshoulder : pos 2154, speed 1000, accelerate 30
+16:28:56: 写入数据失败:  servo: rotateshoulder, servo id: 11 地址: 41, 写入数据: 30
+16:28:56: [TxRxResult] Port is in use!
+16:28:56: 写入数据失败:  servo: rotateshoulder, servo id: 11 地址: 46, 写入数据: 1000
+16:28:56: [TxRxResult] Port is in use!
+16:28:56: dxl_comm.send_script() script : move rotateshoulder  4 300 30 -30  
+16:28:57: debug: 执行脚本: move liftshoulder  34 300 30 -30
+16:28:57: debug: rotate: servo liftshoulder : pos 1929, speed 1000, accelerate 30
+16:28:57: 写入数据失败:  servo: liftshoulder, servo id: 12 地址: 41, 写入数据: 30
+16:28:57: [TxRxResult] Port is in use!
+16:28:57: 写入数据失败:  servo: liftshoulder, servo id: 12 地址: 46, 写入数据: 1000
+16:28:57: [TxRxResult] Port is in use!
+16:28:57: dxl_comm.send_script() script : move liftshoulder  34 300 30 -30  
+16:28:58: debug: 执行脚本: move bigarm  28 300 30 -30
+16:28:58: debug: rotate: servo bigarm : pos 1397, speed 1000, accelerate 30
+16:28:58: 写入数据失败:  servo: bigarm, servo id: 13 地址: 41, 写入数据: 30
+16:28:58: [TxRxResult] Port is in use!
+16:28:58: 写入数据失败:  servo: bigarm, servo id: 13 地址: 46, 写入数据: 1000
+16:28:58: [TxRxResult] Port is in use!
+16:28:58: dxl_comm.send_script() script : move bigarm  28 300 30 -30  
+16:28:58: debug: 执行脚本: move elbow  87 300 30 -30
+16:28:58: debug: rotate: servo elbow : pos 1931, speed 1000, accelerate 30
+16:28:58: 写入数据失败:  servo: elbow, servo id: 14 地址: 41, 写入数据: 30
+16:28:58: [TxRxResult] Port is in use!
+16:28:58: 写入数据失败:  servo: elbow, servo id: 14 地址: 46, 写入数据: 1000
+16:28:58: [TxRxResult] Port is in use!
+16:28:58: dxl_comm.send_script() script : move elbow  87 300 30 -30  
+16:28:59: debug: 执行脚本: move rotateshoulder  87 300 30 -30
+16:28:59: debug: rotate: servo rotateshoulder : pos 3016, speed 1000, accelerate 30
+16:28:59: 写入数据失败:  servo: rotateshoulder, servo id: 11 地址: 41, 写入数据: 30
+16:28:59: [TxRxResult] Port is in use!
+16:28:59: 写入数据失败:  servo: rotateshoulder, servo id: 11 地址: 46, 写入数据: 1000
+16:28:59: [TxRxResult] Port is in use!
+16:28:59: dxl_comm.send_script() script : move rotateshoulder  87 300 30 -30  
+16:29:00: debug: 执行脚本: move liftshoulder  32 300 30 -30
+16:29:00: debug: rotate: servo liftshoulder : pos 1914, speed 1000, accelerate 30
+16:29:00: 写入数据失败:  servo: liftshoulder, servo id: 12 地址: 41, 写入数据: 30
+16:29:00: [TxRxResult] Port is in use!
+16:29:00: 写入数据失败:  servo: liftshoulder, servo id: 12 地址: 46, 写入数据: 1000
+16:29:00: [TxRxResult] Port is in use!
+16:29:00: dxl_comm.send_script() script : move liftshoulder  32 300 30 -30  
+16:29:00: debug: 执行脚本: move bigarm  78 300 30 -30
+16:29:00: debug: rotate: servo bigarm : pos 2250, speed 1000, accelerate 30
+16:29:00: 写入数据失败:  servo: bigarm, servo id: 13 地址: 41, 写入数据: 30
+16:29:00: [TxRxResult] Port is in use!
+16:29:00: 写入数据失败:  servo: bigarm, servo id: 13 地址: 46, 写入数据: 1000
+16:29:00: [TxRxResult] Port is in use!
+16:29:00: dxl_comm.send_script() script : move bigarm  78 300 30 -30  
+16:29:01: debug: 执行脚本: move elbow  46 300 30 -30
+16:29:01: debug: rotate: servo elbow : pos 1581, speed 1000, accelerate 30
+16:29:01: 写入数据失败:  servo: elbow, servo id: 14 地址: 41, 写入数据: 30
+16:29:01: [TxRxResult] Port is in use!
+16:29:01: 写入数据失败:  servo: elbow, servo id: 14 地址: 46, 写入数据: 1000
+16:29:01: [TxRxResult] Port is in use!
+16:29:01: dxl_comm.send_script() script : move elbow  46 300 30 -30  
+16:29:01: debug: 执行脚本: move rotateshoulder  80 300 30 -30
+16:29:01: debug: rotate: servo rotateshoulder : pos 2943, speed 1000, accelerate 30
+16:29:01: 写入数据失败:  servo: rotateshoulder, servo id: 11 地址: 41, 写入数据: 30
+16:29:01: [TxRxResult] Port is in use!
+16:29:01: 写入数据失败:  servo: rotateshoulder, servo id: 11 地址: 46, 写入数据: 1000
+16:29:01: [TxRxResult] Port is in use!
+16:29:01: dxl_comm.send_script() script : move rotateshoulder  80 300 30 -30  
+16:29:02: debug: 执行脚本: move liftshoulder  62 300 30 -30
+16:29:02: debug: rotate: servo liftshoulder : pos 2139, speed 1000, accelerate 30
+16:29:02: 写入数据失败:  servo: liftshoulder, servo id: 12 地址: 41, 写入数据: 30
+16:29:02: [TxRxResult] Port is in use!
+16:29:02: 写入数据失败:  servo: liftshoulder, servo id: 12 地址: 46, 写入数据: 1000
+16:29:02: [TxRxResult] Port is in use!
+16:29:02: dxl_comm.send_script() script : move liftshoulder  62 300 30 -30  
+16:29:02: debug: 执行脚本: move bigarm  75 300 30 -30
+16:29:02: debug: rotate: servo bigarm : pos 2199, speed 1000, accelerate 30
+16:29:02: 写入数据失败:  servo: bigarm, servo id: 13 地址: 41, 写入数据: 30
+16:29:02: [TxRxResult] Port is in use!
+16:29:02: 写入数据失败:  servo: bigarm, servo id: 13 地址: 46, 写入数据: 1000
+16:29:02: [TxRxResult] Port is in use!
+16:29:02: dxl_comm.send_script() script : move bigarm  75 300 30 -30  
+16:29:02: debug: 执行脚本: move elbow  28 300 30 -30
+16:29:02: debug: rotate: servo elbow : pos 1428, speed 1000, accelerate 30
+16:29:02: 写入数据失败:  servo: elbow, servo id: 14 地址: 41, 写入数据: 30
+16:29:02: [TxRxResult] Port is in use!
+16:29:02: 写入数据失败:  servo: elbow, servo id: 14 地址: 46, 写入数据: 1000
+16:29:02: [TxRxResult] Port is in use!
+16:29:02: dxl_comm.send_script() script : move elbow  28 300 30 -30  
+16:29:03: debug: 执行脚本: move rotateshoulder  29 300 30 -30
+16:29:03: debug: rotate: servo rotateshoulder : pos 2414, speed 1000, accelerate 30
+16:29:03: 写入数据失败:  servo: rotateshoulder, servo id: 11 地址: 41, 写入数据: 30
+16:29:03: [TxRxResult] Port is in use!
+16:29:03: 写入数据失败:  servo: rotateshoulder, servo id: 11 地址: 46, 写入数据: 1000
+16:29:03: [TxRxResult] Port is in use!
+16:29:03: dxl_comm.send_script() script : move rotateshoulder  29 300 30 -30  
+16:29:03: debug: 执行脚本: move liftshoulder  92 300 30 -30
+16:29:03: debug: rotate: servo liftshoulder : pos 2364, speed 1000, accelerate 30
+16:29:03: 写入数据失败:  servo: liftshoulder, servo id: 12 地址: 41, 写入数据: 30
+16:29:03: [TxRxResult] Port is in use!
+16:29:03: 写入数据失败:  servo: liftshoulder, servo id: 12 地址: 46, 写入数据: 1000
+16:29:03: [TxRxResult] Port is in use!
+16:29:03: dxl_comm.send_script() script : move liftshoulder  92 300 30 -30  
+16:29:03: debug: 执行脚本: move bigarm  73 300 30 -30
+16:29:03: debug: rotate: servo bigarm : pos 2165, speed 1000, accelerate 30
+16:29:03: 写入数据失败:  servo: bigarm, servo id: 13 地址: 41, 写入数据: 30
+16:29:03: [TxRxResult] Port is in use!
+16:29:03: 写入数据失败:  servo: bigarm, servo id: 13 地址: 46, 写入数据: 1000
+16:29:03: [TxRxResult] Port is in use!
+16:29:03: dxl_comm.send_script() script : move bigarm  73 300 30 -30  
+16:29:04: debug: 执行脚本: move elbow  6 300 30 -30
+16:29:04: debug: rotate: servo elbow : pos 1240, speed 1000, accelerate 30
+16:29:04: 写入数据失败:  servo: elbow, servo id: 14 地址: 41, 写入数据: 30
+16:29:04: [TxRxResult] Port is in use!
+16:29:04: 写入数据失败:  servo: elbow, servo id: 14 地址: 46, 写入数据: 1000
+16:29:04: [TxRxResult] Port is in use!
+16:29:04: dxl_comm.send_script() script : move elbow  6 300 30 -30  
+16:29:05: debug: 执行脚本: move rotateshoulder  93 300 30 -30
+16:29:05: debug: rotate: servo rotateshoulder : pos 3078, speed 1000, accelerate 30
+16:29:05: 写入数据失败:  servo: rotateshoulder, servo id: 11 地址: 41, 写入数据: 30
+16:29:05: [TxRxResult] Port is in use!
+16:29:05: 写入数据失败:  servo: rotateshoulder, servo id: 11 地址: 46, 写入数据: 1000
+16:29:05: [TxRxResult] Port is in use!
+16:29:05: dxl_comm.send_script() script : move rotateshoulder  93 300 30 -30  
+16:29:05: debug: 执行脚本: move liftshoulder  23 300 30 -30
+16:29:05: debug: rotate: servo liftshoulder : pos 1846, speed 1000, accelerate 30
+16:29:05: 写入数据失败:  servo: liftshoulder, servo id: 12 地址: 41, 写入数据: 30
+16:29:05: [TxRxResult] Port is in use!
+16:29:05: 写入数据失败:  servo: liftshoulder, servo id: 12 地址: 46, 写入数据: 1000
+16:29:05: [TxRxResult] Port is in use!
+16:29:05: dxl_comm.send_script() script : move liftshoulder  23 300 30 -30  
+16:29:06: debug: 执行脚本: move bigarm  48 300 30 -30
+16:29:06: debug: rotate: servo bigarm : pos 1738, speed 1000, accelerate 30
+16:29:06: 写入数据失败:  servo: bigarm, servo id: 13 地址: 41, 写入数据: 30
+16:29:06: [TxRxResult] Port is in use!
+16:29:06: 写入数据失败:  servo: bigarm, servo id: 13 地址: 46, 写入数据: 1000
+16:29:06: [TxRxResult] Port is in use!
+16:29:06: dxl_comm.send_script() script : move bigarm  48 300 30 -30  
+16:29:06: debug: 执行脚本: move elbow  25 300 30 -30
+16:29:06: debug: rotate: servo elbow : pos 1402, speed 1000, accelerate 30
+16:29:06: 写入数据失败:  servo: elbow, servo id: 14 地址: 41, 写入数据: 30
+16:29:06: [TxRxResult] Port is in use!
+16:29:06: 写入数据失败:  servo: elbow, servo id: 14 地址: 46, 写入数据: 1000
+16:29:06: [TxRxResult] Port is in use!
+16:29:06: dxl_comm.send_script() script : move elbow  25 300 30 -30  
+16:29:07: debug: 执行脚本: move rotateshoulder  0 300 30 -30
+16:29:07: debug: rotate: servo rotateshoulder : pos 2113, speed 1000, accelerate 30
+16:29:07: 写入数据失败:  servo: rotateshoulder, servo id: 11 地址: 41, 写入数据: 30
+16:29:07: [TxRxResult] Port is in use!
+16:29:07: 写入数据失败:  servo: rotateshoulder, servo id: 11 地址: 46, 写入数据: 1000
+16:29:07: [TxRxResult] Port is in use!
+16:29:07: dxl_comm.send_script() script : move rotateshoulder  0 300 30 -30  
+16:29:08: debug: 执行脚本: move liftshoulder  22 300 30 -30
+16:29:08: debug: rotate: servo liftshoulder : pos 1839, speed 1000, accelerate 30
+16:29:08: 写入数据失败:  servo: liftshoulder, servo id: 12 地址: 41, 写入数据: 30
+16:29:08: [TxRxResult] Port is in use!
+16:29:08: 写入数据失败:  servo: liftshoulder, servo id: 12 地址: 46, 写入数据: 1000
+16:29:08: [TxRxResult] Port is in use!
+16:29:08: dxl_comm.send_script() script : move liftshoulder  22 300 30 -30  
+16:29:08: debug: 执行脚本: move bigarm  59 300 30 -30
+16:29:08: debug: rotate: servo bigarm : pos 1926, speed 1000, accelerate 30
+16:29:08: 写入数据失败:  servo: bigarm, servo id: 13 地址: 41, 写入数据: 30
+16:29:08: [TxRxResult] Port is in use!
+16:29:08: 写入数据失败:  servo: bigarm, servo id: 13 地址: 46, 写入数据: 1000
+16:29:08: [TxRxResult] Port is in use!
+16:29:08: dxl_comm.send_script() script : move bigarm  59 300 30 -30  
+16:29:08: debug: 执行脚本: move elbow  89 300 30 -30
+16:29:08: debug: rotate: servo elbow : pos 1949, speed 1000, accelerate 30
+16:29:08: 写入数据失败:  servo: elbow, servo id: 14 地址: 41, 写入数据: 30
+16:29:08: [TxRxResult] Port is in use!
+16:29:08: 写入数据失败:  servo: elbow, servo id: 14 地址: 46, 写入数据: 1000
+16:29:08: [TxRxResult] Port is in use!
+16:29:08: dxl_comm.send_script() script : move elbow  89 300 30 -30  
+16:29:09: debug: 执行脚本: move rotateshoulder  2 300 30 -30
+16:29:09: debug: rotate: servo rotateshoulder : pos 2133, speed 1000, accelerate 30
+16:29:09: 写入数据失败:  servo: rotateshoulder, servo id: 11 地址: 41, 写入数据: 30
+16:29:09: [TxRxResult] Port is in use!
+16:29:09: 写入数据失败:  servo: rotateshoulder, servo id: 11 地址: 46, 写入数据: 1000
+16:29:09: [TxRxResult] Port is in use!
+16:29:09: dxl_comm.send_script() script : move rotateshoulder  2 300 30 -30  
+16:29:09: debug: 执行脚本: move liftshoulder  83 300 30 -30
+16:29:09: debug: rotate: servo liftshoulder : pos 2297, speed 1000, accelerate 30
+16:29:09: 写入数据失败:  servo: liftshoulder, servo id: 12 地址: 41, 写入数据: 30
+16:29:09: [TxRxResult] Port is in use!
+16:29:09: 写入数据失败:  servo: liftshoulder, servo id: 12 地址: 46, 写入数据: 1000
+16:29:09: [TxRxResult] Port is in use!
+16:29:09: dxl_comm.send_script() script : move liftshoulder  83 300 30 -30  
+16:29:10: debug: 执行脚本: move bigarm  47 300 30 -30
+16:29:10: debug: rotate: servo bigarm : pos 1721, speed 1000, accelerate 30
+16:29:10: 写入数据失败:  servo: bigarm, servo id: 13 地址: 41, 写入数据: 30
+16:29:10: [TxRxResult] Port is in use!
+16:29:10: 写入数据失败:  servo: bigarm, servo id: 13 地址: 46, 写入数据: 1000
+16:29:10: [TxRxResult] Port is in use!
+16:29:10: dxl_comm.send_script() script : move bigarm  47 300 30 -30  
+16:29:10: debug: 执行脚本: move elbow  71 300 30 -30
+16:29:10: debug: rotate: servo elbow : pos 1795, speed 1000, accelerate 30
+16:29:10: 写入数据失败:  servo: elbow, servo id: 14 地址: 41, 写入数据: 30
+16:29:10: [TxRxResult] Port is in use!
+16:29:10: 写入数据失败:  servo: elbow, servo id: 14 地址: 46, 写入数据: 1000
+16:29:10: [TxRxResult] Port is in use!
+16:29:10: dxl_comm.send_script() script : move elbow  71 300 30 -30  
+16:29:10: debug: 执行脚本: move rotateshoulder  56 300 30 -30
+16:29:10: debug: rotate: servo rotateshoulder : pos 2694, speed 1000, accelerate 30
+16:29:10: 写入数据失败:  servo: rotateshoulder, servo id: 11 地址: 41, 写入数据: 30
+16:29:10: [TxRxResult] Port is in use!
+16:29:10: 写入数据失败:  servo: rotateshoulder, servo id: 11 地址: 46, 写入数据: 1000
+16:29:10: [TxRxResult] Port is in use!
+16:29:10: dxl_comm.send_script() script : move rotateshoulder  56 300 30 -30  
+16:29:11: debug: 执行脚本: move liftshoulder  79 300 30 -30
+16:29:11: debug: rotate: servo liftshoulder : pos 2267, speed 1000, accelerate 30
+16:29:11: 写入数据失败:  servo: liftshoulder, servo id: 12 地址: 41, 写入数据: 30
+16:29:11: [TxRxResult] Port is in use!
+16:29:11: 写入数据失败:  servo: liftshoulder, servo id: 12 地址: 46, 写入数据: 1000
+16:29:11: [TxRxResult] Port is in use!
+16:29:11: dxl_comm.send_script() script : move liftshoulder  79 300 30 -30  
+16:29:11: debug: 执行脚本: move bigarm  44 300 30 -30
+16:29:11: debug: rotate: servo bigarm : pos 1670, speed 1000, accelerate 30
+16:29:11: 写入数据失败:  servo: bigarm, servo id: 13 地址: 41, 写入数据: 30
+16:29:11: [TxRxResult] Port is in use!
+16:29:11: 写入数据失败:  servo: bigarm, servo id: 13 地址: 46, 写入数据: 1000
+16:29:11: [TxRxResult] Port is in use!
+16:29:11: dxl_comm.send_script() script : move bigarm  44 300 30 -30  
+16:29:11: debug: 执行脚本: move elbow  37 300 30 -30
+16:29:11: debug: rotate: servo elbow : pos 1504, speed 1000, accelerate 30
+16:29:11: 写入数据失败:  servo: elbow, servo id: 14 地址: 41, 写入数据: 30
+16:29:11: [TxRxResult] Port is in use!
+16:29:11: 写入数据失败:  servo: elbow, servo id: 14 地址: 46, 写入数据: 1000
+16:29:11: [TxRxResult] Port is in use!
+16:29:11: dxl_comm.send_script() script : move elbow  37 300 30 -30  
+16:29:11: debug: 执行脚本: move rotateshoulder  74 300 30 -30
+16:29:11: debug: rotate: servo rotateshoulder : pos 2881, speed 1000, accelerate 30
+16:29:11: 写入数据失败:  servo: rotateshoulder, servo id: 11 地址: 41, 写入数据: 30
+16:29:11: [TxRxResult] Port is in use!
+16:29:11: 写入数据失败:  servo: rotateshoulder, servo id: 11 地址: 46, 写入数据: 1000
+16:29:11: [TxRxResult] Port is in use!
+16:29:11: dxl_comm.send_script() script : move rotateshoulder  74 300 30 -30  
+16:29:12: debug: 执行脚本: move liftshoulder  38 300 30 -30
+16:29:12: debug: rotate: servo liftshoulder : pos 1959, speed 1000, accelerate 30
+16:29:12: 写入数据失败:  servo: liftshoulder, servo id: 12 地址: 41, 写入数据: 30
+16:29:12: [TxRxResult] Port is in use!
+16:29:12: 写入数据失败:  servo: liftshoulder, servo id: 12 地址: 46, 写入数据: 1000
+16:29:12: [TxRxResult] Port is in use!
+16:29:12: dxl_comm.send_script() script : move liftshoulder  38 300 30 -30  
+16:29:13: debug: 执行脚本: move bigarm  16 300 30 -30
+16:29:13: debug: rotate: servo bigarm : pos 1192, speed 1000, accelerate 30
+16:29:13: 写入数据失败:  servo: bigarm, servo id: 13 地址: 41, 写入数据: 30
+16:29:13: [TxRxResult] Port is in use!
+16:29:13: 写入数据失败:  servo: bigarm, servo id: 13 地址: 46, 写入数据: 1000
+16:29:13: [TxRxResult] Port is in use!
+16:29:13: dxl_comm.send_script() script : move bigarm  16 300 30 -30  
+16:29:13: debug: 执行脚本: move elbow  42 300 30 -30
+16:29:13: debug: rotate: servo elbow : pos 1547, speed 1000, accelerate 30
+16:29:13: 写入数据失败:  servo: elbow, servo id: 14 地址: 41, 写入数据: 30
+16:29:13: [TxRxResult] Port is in use!
+16:29:13: 写入数据失败:  servo: elbow, servo id: 14 地址: 46, 写入数据: 1000
+16:29:13: [TxRxResult] Port is in use!
+16:29:13: dxl_comm.send_script() script : move elbow  42 300 30 -30  
+16:29:14: debug: 执行脚本: move rotateshoulder  73 300 30 -30
+16:29:14: debug: rotate: servo rotateshoulder : pos 2870, speed 1000, accelerate 30
+16:29:14: 写入数据失败:  servo: rotateshoulder, servo id: 11 地址: 41, 写入数据: 30
+16:29:14: [TxRxResult] Port is in use!
+16:29:14: 写入数据失败:  servo: rotateshoulder, servo id: 11 地址: 46, 写入数据: 1000
+16:29:14: [TxRxResult] Port is in use!
+16:29:14: dxl_comm.send_script() script : move rotateshoulder  73 300 30 -30  
+16:29:14: debug: 执行脚本: move liftshoulder  91 300 30 -30
+16:29:14: debug: rotate: servo liftshoulder : pos 2357, speed 1000, accelerate 30
+16:29:14: 写入数据失败:  servo: liftshoulder, servo id: 12 地址: 41, 写入数据: 30
+16:29:14: [TxRxResult] Port is in use!
+16:29:14: 写入数据失败:  servo: liftshoulder, servo id: 12 地址: 46, 写入数据: 1000
+16:29:14: [TxRxResult] Port is in use!
+16:29:14: dxl_comm.send_script() script : move liftshoulder  91 300 30 -30  
+16:29:15: debug: 执行脚本: move bigarm  83 300 30 -30
+16:29:15: debug: rotate: servo bigarm : pos 2335, speed 1000, accelerate 30
+16:29:15: 写入数据失败:  servo: bigarm, servo id: 13 地址: 41, 写入数据: 30
+16:29:15: [TxRxResult] Port is in use!
+16:29:15: 写入数据失败:  servo: bigarm, servo id: 13 地址: 46, 写入数据: 1000
+16:29:15: [TxRxResult] Port is in use!
+16:29:15: dxl_comm.send_script() script : move bigarm  83 300 30 -30  
+16:29:15: debug: 执行脚本: move elbow  49 300 30 -30
+16:29:15: debug: rotate: servo elbow : pos 1607, speed 1000, accelerate 30
+16:29:15: 写入数据失败:  servo: elbow, servo id: 14 地址: 41, 写入数据: 30
+16:29:15: [TxRxResult] Port is in use!
+16:29:15: 写入数据失败:  servo: elbow, servo id: 14 地址: 46, 写入数据: 1000
+16:29:15: [TxRxResult] Port is in use!
+16:29:15: dxl_comm.send_script() script : move elbow  49 300 30 -30  
+16:29:16: debug: 执行脚本: move rotateshoulder  27 300 30 -30
+16:29:16: debug: rotate: servo rotateshoulder : pos 2393, speed 1000, accelerate 30
+16:29:16: 写入数据失败:  servo: rotateshoulder, servo id: 11 地址: 41, 写入数据: 30
+16:29:16: [TxRxResult] Port is in use!
+16:29:16: 写入数据失败:  servo: rotateshoulder, servo id: 11 地址: 46, 写入数据: 1000
+16:29:16: [TxRxResult] Port is in use!
+16:29:16: dxl_comm.send_script() script : move rotateshoulder  27 300 30 -30  
+16:29:17: debug: 执行脚本: move liftshoulder  12 300 30 -30
+16:29:17: debug: rotate: servo liftshoulder : pos 1764, speed 1000, accelerate 30
+16:29:17: 写入数据失败:  servo: liftshoulder, servo id: 12 地址: 41, 写入数据: 30
+16:29:17: [TxRxResult] Port is in use!
+16:29:17: 写入数据失败:  servo: liftshoulder, servo id: 12 地址: 46, 写入数据: 1000
+16:29:17: [TxRxResult] Port is in use!
+16:29:17: dxl_comm.send_script() script : move liftshoulder  12 300 30 -30  
+16:29:18: debug: 执行脚本: move bigarm  56 300 30 -30
+16:29:18: debug: rotate: servo bigarm : pos 1875, speed 1000, accelerate 30
+16:29:18: 写入数据失败:  servo: bigarm, servo id: 13 地址: 41, 写入数据: 30
+16:29:18: [TxRxResult] Port is in use!
+16:29:18: 写入数据失败:  servo: bigarm, servo id: 13 地址: 46, 写入数据: 1000
+16:29:18: [TxRxResult] Port is in use!
+16:29:18: dxl_comm.send_script() script : move bigarm  56 300 30 -30  
+16:29:18: debug: 执行脚本: move elbow  9 300 30 -30
+16:29:18: debug: rotate: servo elbow : pos 1265, speed 1000, accelerate 30
+16:29:18: 写入数据失败:  servo: elbow, servo id: 14 地址: 41, 写入数据: 30
+16:29:18: [TxRxResult] Port is in use!
+16:29:18: 写入数据失败:  servo: elbow, servo id: 14 地址: 46, 写入数据: 1000
+16:29:18: [TxRxResult] Port is in use!
+16:29:18: dxl_comm.send_script() script : move elbow  9 300 30 -30  
+16:29:18: debug: 执行脚本: move rotateshoulder  73 300 30 -30
+16:29:18: debug: rotate: servo rotateshoulder : pos 2870, speed 1000, accelerate 30
+16:29:18: 写入数据失败:  servo: rotateshoulder, servo id: 11 地址: 41, 写入数据: 30
+16:29:18: [TxRxResult] Port is in use!
+16:29:18: 写入数据失败:  servo: rotateshoulder, servo id: 11 地址: 46, 写入数据: 1000
+16:29:18: [TxRxResult] Port is in use!
+16:29:18: dxl_comm.send_script() script : move rotateshoulder  73 300 30 -30  
+16:29:19: debug: 执行脚本: move liftshoulder  95 300 30 -30
+16:29:19: debug: rotate: servo liftshoulder : pos 2387, speed 1000, accelerate 30
+16:29:19: 写入数据失败:  servo: liftshoulder, servo id: 12 地址: 41, 写入数据: 30
+16:29:19: [TxRxResult] Port is in use!
+16:29:19: 写入数据失败:  servo: liftshoulder, servo id: 12 地址: 46, 写入数据: 1000
+16:29:19: [TxRxResult] Port is in use!
+16:29:19: dxl_comm.send_script() script : move liftshoulder  95 300 30 -30  
+16:29:19: debug: 执行脚本: move bigarm  19 300 30 -30
+16:29:19: debug: rotate: servo bigarm : pos 1244, speed 1000, accelerate 30
+16:29:19: 写入数据失败:  servo: bigarm, servo id: 13 地址: 41, 写入数据: 30
+16:29:19: [TxRxResult] Port is in use!
+16:29:19: 写入数据失败:  servo: bigarm, servo id: 13 地址: 46, 写入数据: 1000
+16:29:19: [TxRxResult] Port is in use!
+16:29:19: dxl_comm.send_script() script : move bigarm  19 300 30 -30  
+16:29:20: debug: 执行脚本: move elbow  75 300 30 -30
+16:29:20: debug: rotate: servo elbow : pos 1829, speed 1000, accelerate 30
+16:29:20: 写入数据失败:  servo: elbow, servo id: 14 地址: 41, 写入数据: 30
+16:29:20: [TxRxResult] Port is in use!
+16:29:20: 写入数据失败:  servo: elbow, servo id: 14 地址: 46, 写入数据: 1000
+16:29:20: [TxRxResult] Port is in use!
+16:29:20: dxl_comm.send_script() script : move elbow  75 300 30 -30  
+16:29:20: debug: 执行脚本: move rotateshoulder  77 300 30 -30
+16:29:20: debug: rotate: servo rotateshoulder : pos 2912, speed 1000, accelerate 30
+16:29:20: 写入数据失败:  servo: rotateshoulder, servo id: 11 地址: 41, 写入数据: 30
+16:29:20: [TxRxResult] Port is in use!
+16:29:21: 写入数据失败:  servo: rotateshoulder, servo id: 11 地址: 46, 写入数据: 1000
+16:29:21: [TxRxResult] Port is in use!
+16:29:21: dxl_comm.send_script() script : move rotateshoulder  77 300 30 -30  
+16:29:21: debug: 执行脚本: move liftshoulder  11 300 30 -30
+16:29:21: debug: rotate: servo liftshoulder : pos 1756, speed 1000, accelerate 30
+16:29:21: 写入数据失败:  servo: liftshoulder, servo id: 12 地址: 41, 写入数据: 30
+16:29:21: [TxRxResult] Port is in use!
+16:29:21: 写入数据失败:  servo: liftshoulder, servo id: 12 地址: 46, 写入数据: 1000
+16:29:21: [TxRxResult] Port is in use!
+16:29:21: dxl_comm.send_script() script : move liftshoulder  11 300 30 -30  
+16:29:22: debug: 执行脚本: move bigarm  57 300 30 -30
+16:29:22: debug: rotate: servo bigarm : pos 1892, speed 1000, accelerate 30
+16:29:22: 写入数据失败:  servo: bigarm, servo id: 13 地址: 41, 写入数据: 30
+16:29:22: [TxRxResult] Port is in use!
+16:29:22: 写入数据失败:  servo: bigarm, servo id: 13 地址: 46, 写入数据: 1000
+16:29:22: [TxRxResult] Port is in use!
+16:29:22: dxl_comm.send_script() script : move bigarm  57 300 30 -30  
+16:29:22: debug: 执行脚本: move elbow  34 300 30 -30
+16:29:22: debug: rotate: servo elbow : pos 1479, speed 1000, accelerate 30
+16:29:22: 写入数据失败:  servo: elbow, servo id: 14 地址: 41, 写入数据: 30
+16:29:22: [TxRxResult] Port is in use!
+16:29:22: 写入数据失败:  servo: elbow, servo id: 14 地址: 46, 写入数据: 1000
+16:29:22: [TxRxResult] Port is in use!
+16:29:22: dxl_comm.send_script() script : move elbow  34 300 30 -30  
+16:29:23: debug: 执行脚本: move rotateshoulder  91 300 30 -30
+16:29:23: debug: rotate: servo rotateshoulder : pos 3057, speed 1000, accelerate 30
+16:29:23: 写入数据失败:  servo: rotateshoulder, servo id: 11 地址: 41, 写入数据: 30
+16:29:23: [TxRxResult] Port is in use!
+16:29:23: 写入数据失败:  servo: rotateshoulder, servo id: 11 地址: 46, 写入数据: 1000
+16:29:23: [TxRxResult] Port is in use!
+16:29:23: dxl_comm.send_script() script : move rotateshoulder  91 300 30 -30  
+16:29:23: debug: 执行脚本: move liftshoulder  36 300 30 -30
+16:29:23: debug: rotate: servo liftshoulder : pos 1944, speed 1000, accelerate 30
+16:29:23: 写入数据失败:  servo: liftshoulder, servo id: 12 地址: 41, 写入数据: 30
+16:29:23: [TxRxResult] Port is in use!
+16:29:23: 写入数据失败:  servo: liftshoulder, servo id: 12 地址: 46, 写入数据: 1000
+16:29:23: [TxRxResult] Port is in use!
+16:29:23: dxl_comm.send_script() script : move liftshoulder  36 300 30 -30  
+16:29:24: debug: 执行脚本: move bigarm  70 300 30 -30
+16:29:24: debug: rotate: servo bigarm : pos 2114, speed 1000, accelerate 30
+16:29:24: 写入数据失败:  servo: bigarm, servo id: 13 地址: 41, 写入数据: 30
+16:29:24: [TxRxResult] Port is in use!
+16:29:24: 写入数据失败:  servo: bigarm, servo id: 13 地址: 46, 写入数据: 1000
+16:29:24: [TxRxResult] Port is in use!
+16:29:24: dxl_comm.send_script() script : move bigarm  70 300 30 -30  
+16:29:24: debug: 执行脚本: move elbow  71 300 30 -30
+16:29:24: debug: rotate: servo elbow : pos 1795, speed 1000, accelerate 30
+16:29:24: 写入数据失败:  servo: elbow, servo id: 14 地址: 41, 写入数据: 30
+16:29:24: [TxRxResult] Port is in use!
+16:29:24: 写入数据失败:  servo: elbow, servo id: 14 地址: 46, 写入数据: 1000
+16:29:24: [TxRxResult] Port is in use!
+16:29:24: dxl_comm.send_script() script : move elbow  71 300 30 -30  
+16:29:24: debug: 执行脚本: move rotateshoulder  92 300 30 -30
+16:29:24: debug: rotate: servo rotateshoulder : pos 3067, speed 1000, accelerate 30
+16:29:24: 写入数据失败:  servo: rotateshoulder, servo id: 11 地址: 41, 写入数据: 30
+16:29:24: [TxRxResult] Port is in use!
+16:29:24: 写入数据失败:  servo: rotateshoulder, servo id: 11 地址: 46, 写入数据: 1000
+16:29:24: [TxRxResult] Port is in use!
+16:29:24: dxl_comm.send_script() script : move rotateshoulder  92 300 30 -30  
+16:29:24: debug: 执行脚本: move liftshoulder  80 300 30 -30
+16:29:24: debug: rotate: servo liftshoulder : pos 2274, speed 1000, accelerate 30
+16:29:24: 写入数据失败:  servo: liftshoulder, servo id: 12 地址: 41, 写入数据: 30
+16:29:24: [TxRxResult] Port is in use!
+16:29:24: 写入数据失败:  servo: liftshoulder, servo id: 12 地址: 46, 写入数据: 1000
+16:29:24: [TxRxResult] Port is in use!
+16:29:24: dxl_comm.send_script() script : move liftshoulder  80 300 30 -30  
+16:29:25: debug: 执行脚本: move bigarm  99 300 30 -30
+16:29:25: debug: rotate: servo bigarm : pos 2608, speed 1000, accelerate 30
+16:29:25: 写入数据失败:  servo: bigarm, servo id: 13 地址: 41, 写入数据: 30
+16:29:25: [TxRxResult] Port is in use!
+16:29:25: 写入数据失败:  servo: bigarm, servo id: 13 地址: 46, 写入数据: 1000
+16:29:25: [TxRxResult] Port is in use!
+16:29:25: dxl_comm.send_script() script : move bigarm  99 300 30 -30  
+16:29:25: debug: 执行脚本: move elbow  43 300 30 -30
+16:29:25: debug: rotate: servo elbow : pos 1556, speed 1000, accelerate 30
+16:29:25: 写入数据失败:  servo: elbow, servo id: 14 地址: 41, 写入数据: 30
+16:29:25: [TxRxResult] Port is in use!
+16:29:25: 写入数据失败:  servo: elbow, servo id: 14 地址: 46, 写入数据: 1000
+16:29:25: [TxRxResult] Port is in use!
+16:29:25: dxl_comm.send_script() script : move elbow  43 300 30 -30  
+16:29:26: debug: 执行脚本: move rotateshoulder  81 300 30 -30
+16:29:26: debug: rotate: servo rotateshoulder : pos 2953, speed 1000, accelerate 30
+16:29:26: 写入数据失败:  servo: rotateshoulder, servo id: 11 地址: 41, 写入数据: 30
+16:29:26: [TxRxResult] Port is in use!
+16:29:26: 写入数据失败:  servo: rotateshoulder, servo id: 11 地址: 46, 写入数据: 1000
+16:29:26: [TxRxResult] Port is in use!
+16:29:26: dxl_comm.send_script() script : move rotateshoulder  81 300 30 -30  
+16:29:26: debug: 执行脚本: move liftshoulder  66 300 30 -30
+16:29:26: debug: rotate: servo liftshoulder : pos 2169, speed 1000, accelerate 30
+16:29:26: 写入数据失败:  servo: liftshoulder, servo id: 12 地址: 41, 写入数据: 30
+16:29:26: [TxRxResult] Port is in use!
+16:29:26: 写入数据失败:  servo: liftshoulder, servo id: 12 地址: 46, 写入数据: 1000
+16:29:26: [TxRxResult] Port is in use!
+16:29:26: dxl_comm.send_script() script : move liftshoulder  66 300 30 -30  
+16:29:27: debug: 执行脚本: move bigarm  50 300 30 -30
+16:29:27: debug: rotate: servo bigarm : pos 1773, speed 1000, accelerate 30
+16:29:27: 写入数据失败:  servo: bigarm, servo id: 13 地址: 41, 写入数据: 30
+16:29:27: [TxRxResult] Port is in use!
+16:29:27: 写入数据失败:  servo: bigarm, servo id: 13 地址: 46, 写入数据: 1000
+16:29:27: [TxRxResult] Port is in use!
+16:29:27: dxl_comm.send_script() script : move bigarm  50 300 30 -30  
+16:29:27: debug: 执行脚本: move elbow  34 300 30 -30
+16:29:27: debug: rotate: servo elbow : pos 1479, speed 1000, accelerate 30
+16:29:27: 写入数据失败:  servo: elbow, servo id: 14 地址: 41, 写入数据: 30
+16:29:27: [TxRxResult] Port is in use!
+16:29:27: 写入数据失败:  servo: elbow, servo id: 14 地址: 46, 写入数据: 1000
+16:29:27: [TxRxResult] Port is in use!
+16:29:27: dxl_comm.send_script() script : move elbow  34 300 30 -30  
+16:29:27: debug: 执行脚本: move rotateshoulder  31 300 30 -30
+16:29:27: debug: rotate: servo rotateshoulder : pos 2434, speed 1000, accelerate 30
+16:29:27: 写入数据失败:  servo: rotateshoulder, servo id: 11 地址: 41, 写入数据: 30
+16:29:27: [TxRxResult] Port is in use!
+16:29:27: 写入数据失败:  servo: rotateshoulder, servo id: 11 地址: 46, 写入数据: 1000
+16:29:27: [TxRxResult] Port is in use!
+16:29:27: dxl_comm.send_script() script : move rotateshoulder  31 300 30 -30  
+16:29:27: debug: 执行脚本: move liftshoulder  37 300 30 -30
+16:29:27: debug: rotate: servo liftshoulder : pos 1951, speed 1000, accelerate 30
+16:29:27: 写入数据失败:  servo: liftshoulder, servo id: 12 地址: 41, 写入数据: 30
+16:29:27: [TxRxResult] Port is in use!
+16:29:27: 写入数据失败:  servo: liftshoulder, servo id: 12 地址: 46, 写入数据: 1000
+16:29:27: [TxRxResult] Port is in use!
+16:29:27: dxl_comm.send_script() script : move liftshoulder  37 300 30 -30  
+16:29:28: debug: 执行脚本: move bigarm  31 300 30 -30
+16:29:28: debug: rotate: servo bigarm : pos 1448, speed 1000, accelerate 30
+16:29:28: 写入数据失败:  servo: bigarm, servo id: 13 地址: 41, 写入数据: 30
+16:29:28: [TxRxResult] Port is in use!
+16:29:28: 写入数据失败:  servo: bigarm, servo id: 13 地址: 46, 写入数据: 1000
+16:29:28: [TxRxResult] Port is in use!
+16:29:28: dxl_comm.send_script() script : move bigarm  31 300 30 -30  

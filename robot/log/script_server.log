@@ -1,0 +1,17 @@
+10:12:45: start script server...
+10:12:45: waiting dxl server started
+10:12:50: debug: script:  task_script.py.run_os_script_file() : start C:/ProgramData/Anaconda3/envs/xrobot4/python.exe C:\myprojects\xrobot4\xrobot4a\deploy\pi\root\robot/bin/script_server/task_script.py auto_start a65fc1d8-8400-4068-bbab-77ec20d30fe8 5 null
+10:12:50: debug: script:auto_start  run robot script:  auto_start, null
+10:12:50: debug: script:auto_start  pid: 14044
+10:12:50: debug: script:auto_start  运行脚本:auto_start
+10:12:52: debug: script:  运行脚本:reset_pose
+10:14:53: debug: script:  task_script.py.run_os_script_file() : start C:/ProgramData/Anaconda3/envs/xrobot4/python.exe C:\myprojects\xrobot4\xrobot4a\deploy\pi\root\robot/bin/script_server/task_script.py test_arm 5b90bb37-c7ba-42db-8864-bc132b41270c 5 null
+10:14:53: debug: script:test_arm  run robot script:  test_arm, null
+10:14:53: debug: script:test_arm  pid: 7788
+10:14:53: debug: script:test_arm  运行脚本:test_arm
+10:15:46: debug: script:  kill 7788
+10:18:52: debug: script:  task_script.py.run_os_script_file() : start C:/ProgramData/Anaconda3/envs/xrobot4/python.exe C:\myprojects\xrobot4\xrobot4a\deploy\pi\root\robot/bin/script_server/task_script.py test_arm a7d76aa3-9112-4b60-97e9-9e03434cd320 5 null
+10:18:52: debug: script:test_arm  run robot script:  test_arm, null
+10:18:52: debug: script:test_arm  pid: 2932
+10:18:52: debug: script:test_arm  运行脚本:test_arm
+15:42:07: debug: script:  kill 2932

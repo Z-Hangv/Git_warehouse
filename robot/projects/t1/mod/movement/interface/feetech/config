@@ -1,0 +1,4 @@
+kind=feetech
+nt_com=com12
+linux_com=/dev/ttyUSB0
+baudrate=115200

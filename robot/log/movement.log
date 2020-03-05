@@ -1,0 +1,15 @@
+13:30:47: movement starting...
+13:30:48: 成功初始化dxl接口
+13:30:48: {'kind': 'dxl', 'nt_com': 'com3', 'linux_com': '/dev/ttyUSB0', 'baudrate': '1000000'}
+13:30:48: 初始化关节 elbow 出错 写入数据失败:  servo: elbow, servo id: 8 地址: 34, 写入数据: 0错误信息: [TxRxResult] There is no status packet!
+13:30:48: 
+13:30:48: 对舵机 elbow 进行安全检测
+13:30:48: 自测舵机出现错误: 读取数据失败:  servo: elbow, servo id: 8 地址: 14 读取结果: 0 错误信息: [TxRxResult] There is no status packet!
+13:30:48: 
+13:30:48: 对舵机 eye 进行安全检测
+13:30:52: 舵机 eye 安全检测成功
+13:30:52: 对舵机 eyelid 进行安全检测
+13:30:55: 舵机 eyelid 安全检测成功
+13:30:55: 对舵机 mouth 进行安全检测
+13:30:59: 舵机 mouth 安全检测成功
+13:30:59: 对舵机 necknode 进行安全检测
